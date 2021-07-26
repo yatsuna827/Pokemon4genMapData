@@ -6,7 +6,7 @@ namespace Pokemon4genMapData
 {
     // 外部から叩くときに渡してもらう引数のタグ.
     interface IQueryArgs<TVersion>
-        where TVersion : WrappedGameVersion
+        where TVersion : IWrappedGameVersion
     { }
 
 }

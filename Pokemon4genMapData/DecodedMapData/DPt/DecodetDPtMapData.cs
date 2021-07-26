@@ -5,7 +5,7 @@ using System.Text;
 namespace Pokemon4genMapData
 {
     class DecodedDPtMapData<T> : DecodedMapData<WrappedDPt, DPtAltSlots>
-        where T : WrappedMapType
+        where T : IWrappedEncounterType<WrappedDPt>
     {
 
     }

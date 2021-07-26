@@ -1,7 +1,7 @@
 ﻿namespace Pokemon4genMapData
 {
     abstract class DPMapProtoType<T> : MapProtoType<WrappedDPt, DPQueryArgs, DecodedDPtMapData<T>, DPtAltSlots>
-        where T : WrappedMapType
+        where T : IWrappedEncounterType<WrappedDPt>
     {
         public override MapData BuildMapData(DPQueryArgs args)
         {

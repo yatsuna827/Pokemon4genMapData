@@ -6,7 +6,7 @@ namespace Pokemon4genMapData
 {
     // JSONデータと外部に渡すデータの橋渡しをするクラス.
     abstract class MapProtoType<TVersion, TArg, TDecodedMap, TAltSlots> : IBuildable<TVersion, TArg>
-        where TVersion : WrappedGameVersion
+        where TVersion : IWrappedGameVersion
         where TArg : IQueryArgs<TVersion>
         where TDecodedMap : DecodedMapData<TVersion, TAltSlots>
         where TAltSlots : IAltSlots<TVersion>

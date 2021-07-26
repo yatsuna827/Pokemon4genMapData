@@ -5,7 +5,7 @@ using System.Text;
 namespace Pokemon4genMapData
 {
     abstract class HGSSMapProtoType<T> : MapProtoType<WrappedHGSS, HGSSQueryArgs, DecodedHGSSMapData<T>, HGSSAltSlots>
-        where T : WrappedMapType
+        where T : IWrappedEncounterType<WrappedHGSS>
     {
         public override MapData BuildMapData(HGSSQueryArgs args)
         {

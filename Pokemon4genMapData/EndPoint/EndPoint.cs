@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Linq ;
 using System.Collections.Generic;
 using PokemonStandardLibrary.PokeDex.Gen4;
 
@@ -27,10 +27,73 @@ namespace Pokemon4genMapData
     // API
     public static class MapDataServer
     {
-        public static MapData GetDiamondMap(string name, DPQueryArgs args = null)
+        public static string[] GetDiamondMapNames(EncounterType encounterType)
         {
-            // マップを組み立てます。
-            if (!MapDataStore.diamondMapDataStore.TryGetValue(name, out var map))
+            var prefix = $"d_{encounterType.ToPrefix()}_";
+            return MapDataStore.diamondMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_=>_.Replace(prefix, string.Empty)).ToArray();
+        }
+        public static string[] GetPearlMapNames(EncounterType encounterType)
+        {
+            var prefix = $"p_{encounterType.ToPrefix()}_";
+            return MapDataStore.pearlMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+        }
+        public static string[] GetPlatinumMapNames(EncounterType encounterType)
+        {
+            var prefix = $"pt_{encounterType.ToPrefix()}_";
+            return MapDataStore.platinumMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+        }
+        public static string[] GetHeartGoldMapNames(EncounterType encounterType)
+        {
+            var prefix = $"hg_{encounterType.ToPrefix()}_";
+            return MapDataStore.heartGoldMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+        }
+        public static string[] GetSoulSilverMapNames(EncounterType encounterType)
+        {
+            var prefix = $"ss_{encounterType.ToPrefix()}_";
+            return MapDataStore.soulSilverMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+        }
+
+        public static MapData GetDiamondMap(string name, EncounterType encounterType, DPQueryArgs args = null)
+        {
+            var key = $"d_{encounterType.ToPrefix()}_{name}";
+
+            if (!MapDataStore.diamondMapDataStore.TryGetValue(key, out var map))
+                return null;
+
+            return map.BuildMapData(args);
+        }
+        public static MapData GetPearlMap(string name, EncounterType encounterType, DPQueryArgs args = null)
+        {
+            var key = $"p_{encounterType.ToPrefix()}_{name}";
+
+            if (!MapDataStore.pearlMapDataStore.TryGetValue(key, out var map))
+                return null;
+
+            return map.BuildMapData(args);
+        }
+        public static MapData GetPlatinumMap(string name, EncounterType encounterType, PtQueryArgs args = null)
+        {
+            var key = $"pt_{encounterType.ToPrefix()}_{name}";
+
+            if (!MapDataStore.platinumMapDataStore.TryGetValue(key, out var map))
+                return null;
+
+            return map.BuildMapData(args);
+        }
+        public static MapData GetHeartGoldMap(string name, EncounterType encounterType, HGSSQueryArgs args = null)
+        {
+            var key = $"hg_{encounterType.ToPrefix()}_{name}";
+
+            if (!MapDataStore.heartGoldMapDataStore.TryGetValue(key, out var map))
+                return null;
+
+            return map.BuildMapData(args);
+        }
+        public static MapData GetSoulSilverMap(string name, EncounterType encounterType, HGSSQueryArgs args = null)
+        {
+            var key = $"ss_{encounterType.ToPrefix()}_{name}";
+
+            if (!MapDataStore.soulSilverMapDataStore.TryGetValue(key, out var map))
                 return null;
 
             return map.BuildMapData(args);

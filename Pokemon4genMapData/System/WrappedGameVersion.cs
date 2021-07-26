@@ -4,16 +4,15 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    interface WrappedGameVersion : IEnumWapper<GameVersion>
+    interface IWrappedGameVersion : IEnumWapper<GameVersion>
     {
 
-    }
-
-    struct WrappedDPt : WrappedGameVersion
+    } 
+    struct WrappedDPt : IWrappedGameVersion
     {
         public GameVersion Unwrap() => GameVersion.DPt;
     }
-    struct WrappedHGSS : WrappedGameVersion
+    struct WrappedHGSS : IWrappedGameVersion
     {
         public GameVersion Unwrap() => GameVersion.HGSS;
     }

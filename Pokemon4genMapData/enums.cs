@@ -4,9 +4,37 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
+    [Flags]
     enum GameVersion
     {
-        DPt, HGSS
+        Undefined   = 0,
+
+        Diamond     = 1 << 0,
+        Pearl       = 1 << 1,
+        
+        Platinum    = 1 << 2,
+        
+        HeartGold   = 1 << 3,
+        SoulSilver  = 1 << 4,
+
+        DP = Diamond | Pearl,
+        DPt = DP | Platinum,
+        
+        HGSS = HeartGold | SoulSilver
+    }
+
+    [Flags]
+    public enum EncounterType
+    {
+        Grass       = 1 << 0,
+        Surf        = 1 << 1,
+        OldRod      = 1 << 2,
+        GoodRod     = 1 << 3,
+        SuperRod    = 1 << 4,
+
+        RockSmash   = 1 << 5,
+        Headbutt    = 1 << 6,
+        BugCatching = 1 << 7,
     }
 
     public enum MapType

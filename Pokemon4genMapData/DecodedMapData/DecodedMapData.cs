@@ -6,7 +6,7 @@ namespace Pokemon4genMapData
 {
     // JSONデータから翻訳されただけのデータ.
     abstract class DecodedMapData<TVersion, TAltSlots>
-        where TVersion : WrappedGameVersion
+        where TVersion : IWrappedGameVersion
         where TAltSlots : IAltSlots<TVersion>
     {
         public string MapName { get; protected set; }
