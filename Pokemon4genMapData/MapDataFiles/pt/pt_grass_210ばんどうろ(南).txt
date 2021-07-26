@@ -1,0 +1,32 @@
+
+{
+    "MapName": "210ばんどうろ(南)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムクバード", "イシツブテ", "ストライク", "ポニータ", "ロゼリア", "ポニータ", 
+        "ストライク", "ロゼリア", "ポニータ", "ラッキー", "ポニータ", "ラッキー"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ポニータ", "ポニータ" ],
+            "Night": [ "ヨルノズク", "ホーホー" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ミルタンク", "ケンタロス" ],
+            "Rare": [ "ミルタンク", "ケンタロス" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "タネボー", "コノハナ" ],
+            "Sapphire": null,
+            "Emerald": [ "クヌギダマ", "クヌギダマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "214ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴローン", "イシツブテ", "ゴローン", "サイホーン", "デルビル", "サイホーン", 
+        "ゴローン", "サイホーン", "デルビル", "サイホーン", "デルビル", "サイホーン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "デルビル", "ズバット" ]
+        },
+        "Outbreak": [ "バネブー", "バネブー" ],
+        "PokeTracer": {
+            "Common": [ "ポチエナ", "ポチエナ" ],
+            "Rare": [ "ポチエナ", "ポチエナ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": [ "ロコン", "ロコン" ]
+        }
+    }
+}

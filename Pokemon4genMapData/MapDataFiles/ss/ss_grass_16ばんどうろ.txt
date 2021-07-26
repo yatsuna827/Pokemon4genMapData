@@ -1,0 +1,29 @@
+
+{
+    "MapName": "16ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 },
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ベトベター", "オニドリル", "ベトベター", "オニドリル", "ベトベター", "ベトベター", 
+        "オニドリル", "オニドリル", "マグマッグ", "ベトベトン", "マグマッグ", "ベトベトン"
+    ],
+    "DayTable": [
+        "ベトベター", "オニドリル", "ベトベター", "オニドリル", "ベトベター", "ベトベター", 
+        "オニドリル", "オニドリル", "マグマッグ", "ベトベトン", "マグマッグ", "ベトベトン"
+    ],
+    "NightTable": [
+        "ベトベター", "ベトベター", "ベトベター", "ベトベター", "ベトベター", "ベトベター", 
+        "ヤミカラス", "ヤミカラス", "マグマッグ", "ベトベトン", "マグマッグ", "ベトベトン"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

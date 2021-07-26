@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ヤドンのいど(1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 5, "VariableLv": 11 },
+        { "BasicLv": 5, "VariableLv": 11 }, { "BasicLv": 5, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "ヤドン", "ヤドン", "ヤドン", "ヤドン", "ヤドン" ],
+    "DayTable":     [ "ヤドン", "ヤドン", "ヤドン", "ヤドン", "ヤドン" ],
+    "NightTable":   [ "ヤドン", "ヤドン", "ヤドン", "ヤドン", "ヤドン" ],
+    "AltSlots": { "Outbreak": null }
+}

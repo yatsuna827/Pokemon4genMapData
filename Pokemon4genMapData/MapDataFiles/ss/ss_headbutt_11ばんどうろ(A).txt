@@ -1,0 +1,11 @@
+
+{
+    "MapName": "11ばんどうろ(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 13, "VariableLv": 2 }, { "BasicLv": 13, "VariableLv": 2 }, { "BasicLv": 13, "VariableLv": 2 },
+        { "BasicLv": 13, "VariableLv": 2 }, { "BasicLv": 13, "VariableLv": 2 }, { "BasicLv": 13, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "オニスズメ", "ヘラクロス", "ヘラクロス", "ミツハニー", "ミツハニー", "ミツハニー" ],
+    "AltSlots": null
+}

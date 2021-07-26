@@ -1,0 +1,13 @@
+
+{
+    "MapName": "がけっぷちゲート",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 },
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "ウパー", "ウパー", "ヌオー", "ヌオー", "ヌオー" ],
+    "DayTable":     [ "ウパー", "ウパー", "ヌオー", "ヌオー", "ヌオー" ],
+    "NightTable":   [ "ウパー", "ウパー", "ヌオー", "ヌオー", "ヌオー" ],
+    "AltSlots": { "Outbreak": null }
+}

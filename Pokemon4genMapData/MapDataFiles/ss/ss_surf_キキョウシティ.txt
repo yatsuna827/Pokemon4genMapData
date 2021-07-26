@@ -1,0 +1,13 @@
+
+{
+    "MapName": "キキョウシティ",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "ニョロモ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ" ],
+    "DayTable":     [ "ニョロモ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ" ],
+    "NightTable":   [ "ニョロモ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ" ],
+    "AltSlots": { "Outbreak": null }
+}

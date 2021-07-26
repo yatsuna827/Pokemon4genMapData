@@ -1,0 +1,29 @@
+
+{
+    "MapName": "スズのとう",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", 
+        "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ"
+    ],
+    "DayTable": [
+        "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", 
+        "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ"
+    ],
+    "NightTable": [
+        "ゴース", "ゴース", "ゴース", "ゴース", "ゴース", "ゴース", 
+        "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ジグザグマ", "パッチール" ],
+            "Sinnoh": [ "ペラップ", "アサナン" ]
+        }
+    }
+}

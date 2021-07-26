@@ -1,0 +1,32 @@
+
+{
+    "MapName": "エイチこ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 },
+        { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 },
+        { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ビーダル", "ニューラ", "ビーダル", "コダック", "コダック", "コダック", 
+        "リーシャン", "リーシャン", "ビーダル", "ニューラ", "ビーダル", "ニューラ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ヨルノズク", "ヨルノズク" ]
+        },
+        "Outbreak": [ "ムチュール", "ムチュール" ],
+        "PokeTracer": {
+            "Common": [ "ソーナンス", "ソーナンス" ],
+            "Rare": [ "ソーナンス", "ソーナンス" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ソルロック", "ソルロック" ],
+            "Sapphire": [ "ルナトーン", "ルナトーン" ],
+            "Emerald": [ "リングマ", "リングマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

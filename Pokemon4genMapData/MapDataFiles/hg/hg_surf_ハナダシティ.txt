@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ハナダシティ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "トサキント", "トサキント", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "DayTable":     [ "トサキント", "トサキント", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "NightTable":   [ "トサキント", "トサキント", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "AltSlots": { "Outbreak": null }
+}

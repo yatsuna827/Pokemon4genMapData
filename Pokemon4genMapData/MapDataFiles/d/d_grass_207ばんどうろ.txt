@@ -1,0 +1,32 @@
+
+{
+    "MapName": "207ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ワンリキー", "イシツブテ", "ワンリキー", "コロボーシ", "イシツブテ", "イシツブテ", 
+        "イシツブテ", "イシツブテ", "ワンリキー", "イシツブテ", "ワンリキー", "イシツブテ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ワンリキー", "ワンリキー" ],
+            "Night": [ "ズバット", "コロボーシ" ]
+        },
+        "Outbreak": [ "ゴマゾウ", "ゴマゾウ" ],
+        "PokeTracer": {
+            "Common": [ "オドシシ", "オドシシ" ],
+            "Rare": [ "オドシシ", "オドシシ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "グライガー", "グライガー" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

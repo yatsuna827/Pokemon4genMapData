@@ -1,0 +1,13 @@
+
+{
+    "MapName": "スリバチやま(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "トサキント", "トサキント", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "DayTable":     [ "トサキント", "トサキント", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "NightTable":   [ "トサキント", "トサキント", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "AltSlots": { "Outbreak": null }
+}

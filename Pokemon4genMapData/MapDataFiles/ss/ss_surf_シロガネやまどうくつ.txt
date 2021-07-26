@@ -1,0 +1,13 @@
+
+{
+    "MapName": "シロガネやまどうくつ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 35, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 },
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 50, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "アズマオウ", "アズマオウ", "トサキント", "トサキント", "アズマオウ" ],
+    "DayTable":     [ "アズマオウ", "アズマオウ", "トサキント", "トサキント", "アズマオウ" ],
+    "NightTable":   [ "アズマオウ", "アズマオウ", "トサキント", "トサキント", "アズマオウ" ],
+    "AltSlots": { "Outbreak": null }
+}

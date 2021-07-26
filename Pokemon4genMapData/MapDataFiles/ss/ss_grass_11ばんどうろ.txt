@@ -1,0 +1,29 @@
+
+{
+    "MapName": "11ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "スリープ", "コラッタ", "スリープ", "コラッタ", "コイル", "コイル", 
+        "スリープ", "スリープ", "スリーパー", "スリーパー", "スリーパー", "スリーパー"
+    ],
+    "DayTable": [
+        "スリープ", "コラッタ", "スリープ", "コラッタ", "コイル", "コイル", 
+        "スリープ", "スリープ", "スリーパー", "スリーパー", "スリーパー", "スリーパー"
+    ],
+    "NightTable": [
+        "スリープ", "コラッタ", "スリープ", "コラッタ", "コイル", "コイル", 
+        "スリープ", "スリープ", "スリーパー", "スリーパー", "スリーパー", "スリーパー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

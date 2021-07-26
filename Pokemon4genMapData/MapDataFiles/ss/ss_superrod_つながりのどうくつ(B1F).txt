@@ -1,0 +1,13 @@
+
+{
+    "MapName": "つながりのどうくつ(B1F)",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "トサキント", "トサキント", "コイキング", "アズマオウ", "コイキング" ],
+    "DayTable":     [ "トサキント", "トサキント", "コイキング", "アズマオウ", "コイキング" ],
+    "NightTable":   [ "トサキント", "トサキント", "コイキング", "アズマオウ", "コイキング" ],
+    "AltSlots": { "Outbreak": null }
+}

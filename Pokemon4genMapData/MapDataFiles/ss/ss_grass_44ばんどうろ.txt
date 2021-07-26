@@ -1,0 +1,29 @@
+
+{
+    "MapName": "44ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "モンジャラ", "ウツドン", "モンジャラ", "ウツドン", "マダツボミ", "マダツボミ", 
+        "ベロリンガ", "ベロリンガ", "ウツドン", "ベロリンガ", "ウツドン", "ベロリンガ"
+    ],
+    "DayTable": [
+        "モンジャラ", "ウツドン", "モンジャラ", "ウツドン", "マダツボミ", "マダツボミ", 
+        "ベロリンガ", "ベロリンガ", "ウツドン", "ベロリンガ", "ウツドン", "ベロリンガ"
+    ],
+    "NightTable": [
+        "モンジャラ", "ウツドン", "モンジャラ", "ウツドン", "マダツボミ", "マダツボミ", 
+        "ベロリンガ", "ベロリンガ", "ウツドン", "ベロリンガ", "ウツドン", "ベロリンガ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

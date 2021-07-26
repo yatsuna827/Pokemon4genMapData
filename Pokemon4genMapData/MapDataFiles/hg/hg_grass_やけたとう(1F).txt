@@ -1,0 +1,29 @@
+
+{
+    "MapName": "やけたとう(1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "コラッタ", "ドガース", "コラッタ", "ドガース", "コラッタ", "コラッタ", 
+        "ズバット", "ズバット", "ドガース", "ラッタ", "ドガース", "ラッタ"
+    ],
+    "DayTable": [
+        "コラッタ", "ドガース", "コラッタ", "ドガース", "コラッタ", "コラッタ", 
+        "ズバット", "ズバット", "ドガース", "ラッタ", "ドガース", "ラッタ"
+    ],
+    "NightTable": [
+        "コラッタ", "ドガース", "コラッタ", "ドガース", "コラッタ", "コラッタ", 
+        "ズバット", "ズバット", "ドガース", "ラッタ", "ドガース", "ラッタ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ジグザグマ", "パッチール" ],
+            "Sinnoh": [ "ペラップ", "アサナン" ]
+        }
+    }
+}

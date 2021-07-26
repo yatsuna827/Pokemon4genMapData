@@ -1,0 +1,29 @@
+
+{
+    "MapName": "つながりのどうくつ(B1F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "イシツブテ", "サンド", "イシツブテ", "サンド", "ズバット", "ズバット", 
+        "イワーク", "イワーク", "ズバット", "コラッタ", "ズバット", "コラッタ"
+    ],
+    "DayTable": [
+        "イシツブテ", "サンド", "イシツブテ", "サンド", "ズバット", "ズバット", 
+        "イワーク", "イワーク", "ズバット", "コラッタ", "ズバット", "コラッタ"
+    ],
+    "NightTable": [
+        "イシツブテ", "サンド", "イシツブテ", "サンド", "ズバット", "ズバット", 
+        "イワーク", "イワーク", "ズバット", "コラッタ", "ズバット", "コラッタ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

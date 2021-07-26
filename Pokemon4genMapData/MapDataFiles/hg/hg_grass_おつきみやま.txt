@@ -1,0 +1,29 @@
+
+{
+    "MapName": "おつきみやま",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ズバット", "イシツブテ", "ズバット", "イシツブテ", "ズバット", "ズバット", 
+        "パラス", "パラス", "イシツブテ", "ピッピ", "イシツブテ", "ピッピ"
+    ],
+    "DayTable": [
+        "ズバット", "イシツブテ", "ズバット", "イシツブテ", "ズバット", "ズバット", 
+        "パラス", "パラス", "イシツブテ", "ピッピ", "イシツブテ", "ピッピ"
+    ],
+    "NightTable": [
+        "ズバット", "イシツブテ", "ズバット", "イシツブテ", "ズバット", "ズバット", 
+        "パラス", "パラス", "イシツブテ", "ピッピ", "イシツブテ", "ピッピ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

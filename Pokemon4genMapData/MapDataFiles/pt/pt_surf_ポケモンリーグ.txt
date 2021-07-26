@@ -1,0 +1,12 @@
+
+{
+    "MapName": "ポケモンリーグ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 21 }, { "BasicLv": 30, "VariableLv": 21 },
+        { "BasicLv": 30, "VariableLv": 21 }, { "BasicLv": 30, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "キャモメ", "ペリッパー", "ペリッパー", "ドククラゲ", "ドククラゲ"
+    ]
+}

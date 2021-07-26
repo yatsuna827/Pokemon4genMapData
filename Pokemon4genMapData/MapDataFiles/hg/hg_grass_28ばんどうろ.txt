@@ -1,0 +1,29 @@
+
+{
+    "MapName": "28ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 42, "VariableLv": 1 },
+        { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 43, "VariableLv": 1 }, { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 43, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "モンジャラ", "ポニータ", "モンジャラ", "ポニータ", "リングマ", "リングマ", 
+        "ギャロップ", "ギャロップ", "ドードー", "ドードリオ", "ドードー", "ドードリオ"
+    ],
+    "DayTable": [
+        "モンジャラ", "ポニータ", "モンジャラ", "ポニータ", "リングマ", "リングマ", 
+        "ギャロップ", "ギャロップ", "ドードー", "ドードリオ", "ドードー", "ドードリオ"
+    ],
+    "NightTable": [
+        "モンジャラ", "ポニータ", "モンジャラ", "ポニータ", "リングマ", "リングマ", 
+        "ニューラ", "ニューラ", "ギャロップ", "ギャロップ", "ギャロップ", "ギャロップ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

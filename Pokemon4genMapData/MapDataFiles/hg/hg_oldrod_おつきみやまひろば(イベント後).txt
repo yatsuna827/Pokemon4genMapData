@@ -1,0 +1,13 @@
+
+{
+    "MapName": "おつきみやまひろば(イベント後)",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ニョロモ", "ニョロモ", "ニョロモ", "コイキング", "ニョロモ" ],
+    "DayTable":     [ "ニョロモ", "ニョロモ", "ニョロモ", "コイキング", "ニョロモ" ],
+    "NightTable":   [ "ニョロモ", "ニョロモ", "ニョロモ", "コイキング", "ニョロモ" ],
+    "AltSlots": { "Outbreak": null }
+}

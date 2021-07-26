@@ -1,0 +1,11 @@
+
+{
+    "MapName": "シロガネやまどうくつ(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 42, "VariableLv": 3 }, { "BasicLv": 42, "VariableLv": 3 }, { "BasicLv": 42, "VariableLv": 3 },
+        { "BasicLv": 42, "VariableLv": 3 }, { "BasicLv": 42, "VariableLv": 3 }, { "BasicLv": 42, "VariableLv": 3 }
+    ],
+    "BasicTable": [ "ヘラクロス", "エイパム", "エイパム", "ネイティ", "ネイティ", "ネイティ" ],
+    "AltSlots": null
+}

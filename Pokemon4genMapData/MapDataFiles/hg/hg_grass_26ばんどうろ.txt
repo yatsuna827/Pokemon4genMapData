@@ -1,0 +1,29 @@
+
+{
+    "MapName": "26ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 },
+        { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ドードー", "ラッタ", "ドードー", "ラッタ", "ポニータ", "ポニータ", 
+        "ドードー", "ドードー", "ラッタ", "アーボック", "ラッタ", "アーボック"
+    ],
+    "DayTable": [
+        "ドードー", "ラッタ", "ドードー", "ラッタ", "ポニータ", "ポニータ", 
+        "ドードー", "ドードー", "ラッタ", "アーボック", "ラッタ", "アーボック"
+    ],
+    "NightTable": [
+        "ラッタ", "ラッタ", "ラッタ", "ラッタ", "ポニータ", "ポニータ", 
+        "ドードー", "ドードー", "ヌオー", "アーボック", "ヌオー", "アーボック"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

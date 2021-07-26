@@ -1,0 +1,29 @@
+
+{
+    "MapName": "25ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 },
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ポッポ", "マダツボミ", "ポッポ", "マダツボミ", "コンパン", "コンパン", 
+        "ケーシィ", "ケーシィ", "ピジョン", "ウツドン", "ピジョン", "ウツドン"
+    ],
+    "DayTable": [
+        "ポッポ", "マダツボミ", "ポッポ", "マダツボミ", "ポッポ", "ポッポ", 
+        "ケーシィ", "ケーシィ", "ピジョン", "ウツドン", "ピジョン", "ウツドン"
+    ],
+    "NightTable": [
+        "コンパン", "ナゾノクサ", "コンパン", "ナゾノクサ", "モルフォン", "モルフォン", 
+        "ケーシィ", "ケーシィ", "ウツドン", "マダツボミ", "ウツドン", "マダツボミ"
+    ],
+    "AltSlots": {
+        "Outbreak": "ミミロル",
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

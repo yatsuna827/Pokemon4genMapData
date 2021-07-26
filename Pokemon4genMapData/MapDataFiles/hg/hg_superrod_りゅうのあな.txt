@@ -1,0 +1,13 @@
+
+{
+    "MapName": "りゅうのあな",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "ミニリュウ", "コイキング", "ハクリュー", "コイキング" ],
+    "DayTable":     [ "コイキング", "ミニリュウ", "コイキング", "ハクリュー", "コイキング" ],
+    "NightTable":   [ "コイキング", "ミニリュウ", "コイキング", "ハクリュー", "コイキング" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "1ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 },
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ポッポ", "コラッタ", "ポッポ", "コラッタ", "オタチ", "オタチ", 
+        "ポッポ", "ポッポ", "オオタチ", "ポッポ", "オオタチ", "ポッポ"
+    ],
+    "DayTable": [
+        "ポッポ", "コラッタ", "ポッポ", "コラッタ", "オタチ", "オタチ", 
+        "ポッポ", "ポッポ", "オオタチ", "ポッポ", "オオタチ", "ポッポ"
+    ],
+    "NightTable": [
+        "ホーホー", "コラッタ", "ホーホー", "コラッタ", "コラッタ", "コラッタ", 
+        "ホーホー", "ホーホー", "コラッタ", "ホーホー", "コラッタ", "ホーホー"
+    ],
+    "AltSlots": {
+        "Outbreak": "ポチエナ",
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

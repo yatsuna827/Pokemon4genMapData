@@ -1,0 +1,32 @@
+
+{
+    "MapName": "216ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 },
+        { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 },
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ユキカブリ", "ニューラ", "アサナン", "ユキカブリ", "アサナン", "ニューラ", 
+        "ユキカブリ", "ニューラ", "ゴローン", "ユキカブリ", "ゴローン", "ユキカブリ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ズバット", "ユキワラシ" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "リングマ", "リングマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

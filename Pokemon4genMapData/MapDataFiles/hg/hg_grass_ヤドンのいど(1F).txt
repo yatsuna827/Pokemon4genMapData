@@ -1,0 +1,29 @@
+
+{
+    "MapName": "ヤドンのいど(1F)",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ズバット", "ズバット", "ズバット", "ズバット", "ズバット", "ズバット", 
+        "ヤドン", "ヤドン", "ズバット", "ヤドン", "ズバット", "ヤドン"
+    ],
+    "DayTable": [
+        "ズバット", "ズバット", "ズバット", "ズバット", "ズバット", "ズバット", 
+        "ヤドン", "ヤドン", "ズバット", "ヤドン", "ズバット", "ヤドン"
+    ],
+    "NightTable": [
+        "ズバット", "ズバット", "ズバット", "ズバット", "ズバット", "ズバット", 
+        "ヤドン", "ヤドン", "ズバット", "ヤドン", "ズバット", "ヤドン"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

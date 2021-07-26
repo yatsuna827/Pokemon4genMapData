@@ -1,0 +1,29 @@
+
+{
+    "MapName": "ハナダのどうくつ(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 46, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 },
+        { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 46, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 },
+        { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ユンゲラー", "パラセクト", "ゴルバット", "ゴーリキー", "レアコイル", "メタモン", 
+        "マルマイン", "レアコイル", "パラセクト", "ソーナンス", "パラセクト", "ソーナンス"
+    ],
+    "DayTable": [
+        "ユンゲラー", "パラセクト", "ゴルバット", "ゴーリキー", "レアコイル", "メタモン", 
+        "マルマイン", "レアコイル", "パラセクト", "ソーナンス", "パラセクト", "ソーナンス"
+    ],
+    "NightTable": [
+        "ユンゲラー", "パラセクト", "ゴルバット", "ゴーリキー", "レアコイル", "メタモン", 
+        "マルマイン", "レアコイル", "パラセクト", "ソーナンス", "パラセクト", "ソーナンス"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

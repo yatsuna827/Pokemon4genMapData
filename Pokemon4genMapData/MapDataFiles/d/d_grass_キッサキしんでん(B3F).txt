@@ -1,0 +1,32 @@
+
+{
+    "MapName": "キッサキしんでん(B3F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 },
+        { "BasicLv": 54, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 },
+        { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴルバット", "ニューラ", "ゴローン", "ゴルバット", "ニューラ", "ハガネール", 
+        "ニューラ", "ハガネール", "イワーク", "ゴルバット", "イワーク", "ゴルバット"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

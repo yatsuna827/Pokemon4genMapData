@@ -1,0 +1,13 @@
+
+{
+    "MapName": "うずまきじま",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "クラブ", "タッツー", "キングラー", "シードラ", "キングラー" ],
+    "DayTable":     [ "クラブ", "タッツー", "キングラー", "シードラ", "キングラー" ],
+    "NightTable":   [ "クラブ", "タッツー", "キングラー", "シードラ", "キングラー" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "トージョウのたき",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ズバット", "ラッタ", "ズバット", "ラッタ", "ゴルバット", "ゴルバット", 
+        "ヤドン", "ヤドン", "コラッタ", "ヤドン", "コラッタ", "ヤドン"
+    ],
+    "DayTable": [
+        "ズバット", "ラッタ", "ズバット", "ラッタ", "ゴルバット", "ゴルバット", 
+        "ヤドン", "ヤドン", "コラッタ", "ヤドン", "コラッタ", "ヤドン"
+    ],
+    "NightTable": [
+        "ズバット", "ラッタ", "ズバット", "ラッタ", "ゴルバット", "ゴルバット", 
+        "ヤドン", "ヤドン", "コラッタ", "ヤドン", "コラッタ", "ヤドン"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

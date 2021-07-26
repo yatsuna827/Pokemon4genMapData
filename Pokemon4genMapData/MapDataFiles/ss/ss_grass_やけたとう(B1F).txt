@@ -1,0 +1,29 @@
+
+{
+    "MapName": "やけたとう(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "コラッタ", "ドガース", "コラッタ", "ドガース", "ドガース", "ドガース", 
+        "コラッタ", "コラッタ", "ズバット", "ブーバー", "ズバット", "ブーバー"
+    ],
+    "DayTable": [
+        "コラッタ", "ドガース", "コラッタ", "ドガース", "ドガース", "ドガース", 
+        "ブーバー", "ブーバー", "ズバット", "コラッタ", "ズバット", "コラッタ"
+    ],
+    "NightTable": [
+        "コラッタ", "ドガース", "コラッタ", "ドガース", "ドガース", "ドガース", 
+        "コラッタ", "コラッタ", "ズバット", "ブーバー", "ズバット", "ブーバー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ジグザグマ", "パッチール" ],
+            "Sinnoh": [ "ペラップ", "アサナン" ]
+        }
+    }
+}

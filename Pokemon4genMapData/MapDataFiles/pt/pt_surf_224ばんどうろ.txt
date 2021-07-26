@@ -1,0 +1,12 @@
+
+{
+    "MapName": "224ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 },
+        { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "ペリッパー", "ドククラゲ", "トリトドン", "トリトドン", "トリトドン"
+    ]
+}

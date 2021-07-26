@@ -1,0 +1,13 @@
+
+{
+    "MapName": "21ばんすいどう",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 },
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "メノクラゲ", "メノクラゲ", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "DayTable":     [ "メノクラゲ", "メノクラゲ", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "NightTable":   [ "メノクラゲ", "メノクラゲ", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "AltSlots": { "Outbreak": null }
+}

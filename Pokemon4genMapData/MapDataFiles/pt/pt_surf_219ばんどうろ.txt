@@ -1,0 +1,12 @@
+
+{
+    "MapName": "219ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 21 },
+        { "BasicLv": 20, "VariableLv": 21 }, { "BasicLv": 20, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "メノクラゲ", "キャモメ", "ドククラゲ", "ドククラゲ", "ペリッパー"
+    ]
+}

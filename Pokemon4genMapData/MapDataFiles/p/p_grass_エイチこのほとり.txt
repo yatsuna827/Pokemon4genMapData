@@ -1,0 +1,32 @@
+
+{
+    "MapName": "エイチこのほとり",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 },
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 },
+        { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ユキカブリ", "ニューラ", "アサナン", "ゴーリキー", "チャーレム", "ゴーリキー", 
+        "ユキカブリ", "ニューラ", "チャーレム", "チャーレム", "チャーレム", "チャーレム"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ズバット", "ヨルノズク" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ユキワラシ", "ユキワラシ" ],
+            "Rare": [ "ユキワラシ", "ユキワラシ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "ヒメグマ", "ヒメグマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

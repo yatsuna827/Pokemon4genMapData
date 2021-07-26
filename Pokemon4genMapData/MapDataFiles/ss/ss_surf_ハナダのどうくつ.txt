@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ハナダのどうくつ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "DayTable":     [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "NightTable":   [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "AltSlots": { "Outbreak": null }
+}

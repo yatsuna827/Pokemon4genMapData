@@ -1,0 +1,32 @@
+
+{
+    "MapName": "226ばんすいどう",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 },
+        { "BasicLv": 49, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 },
+        { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴーリキー", "ゴローン", "オニドリル", "オニドリル", "キャモメ", "ラッタ", 
+        "ゴーリキー", "ラッタ", "キャモメ", "コラッタ", "キャモメ", "コラッタ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ジュペッタ", "ジュペッタ" ]
+        },
+        "Outbreak": [ "クラブ", "クラブ" ],
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "スリバチやま(2F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "イシツブテ", "ワンリキー", "イシツブテ", "ワンリキー", "イシツブテ", "イシツブテ", 
+        "コラッタ", "コラッタ", "ワンリキー", "ズバット", "ワンリキー", "ズバット"
+    ],
+    "DayTable": [
+        "イシツブテ", "ワンリキー", "イシツブテ", "ワンリキー", "イシツブテ", "イシツブテ", 
+        "コラッタ", "コラッタ", "ワンリキー", "ズバット", "ワンリキー", "ズバット"
+    ],
+    "NightTable": [
+        "イシツブテ", "ワンリキー", "イシツブテ", "ワンリキー", "イシツブテ", "イシツブテ", 
+        "コラッタ", "コラッタ", "ワンリキー", "ズバット", "ワンリキー", "ズバット"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

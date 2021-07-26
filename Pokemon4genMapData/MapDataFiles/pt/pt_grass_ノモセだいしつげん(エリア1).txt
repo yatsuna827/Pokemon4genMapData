@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ノモセだいしつげん(エリア1)",
+    "BasicEncounterRate": 35,
+    "SlotProtoType": [
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 },
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ウパー", "ビーダル", "トロピウス", "トロピウス", "ウパー", "ヌオー", 
+        "ウパー", "ウパー", "ヤンヤンマ", "モンジャラ", "ヤンヤンマ", "モンジャラ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ヨルノズク", "ヨルノズク" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": [ "アーボック", "アーボック" ],
+            "LeafGreen": null
+        }
+    }
+}

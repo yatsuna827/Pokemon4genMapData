@@ -1,0 +1,13 @@
+
+{
+    "MapName": "うずまきじま(1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "メノクラゲ", "タッツー", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "DayTable":     [ "メノクラゲ", "タッツー", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "NightTable":   [ "メノクラゲ", "タッツー", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "AltSlots": { "Outbreak": null }
+}

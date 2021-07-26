@@ -1,0 +1,13 @@
+
+{
+    "MapName": "セキチクシティ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "ギャラドス", "コイキング", "コイキング", "コイキング" ],
+    "DayTable":     [ "コイキング", "ギャラドス", "コイキング", "コイキング", "コイキング" ],
+    "NightTable":   [ "コイキング", "ギャラドス", "コイキング", "コイキング", "コイキング" ],
+    "AltSlots": { "Outbreak": null }
+}

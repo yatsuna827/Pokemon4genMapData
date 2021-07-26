@@ -1,0 +1,13 @@
+
+{
+    "MapName": "つながりのどうくつ(B2F)",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "クラブ", "クラブ", "サニーゴ", "クラブ" ],
+    "DayTable":     [ "コイキング", "クラブ", "クラブ", "サニーゴ", "クラブ" ],
+    "NightTable":   [ "コイキング", "クラブ", "クラブ", "ヒトデマン", "クラブ" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,11 @@
+
+{
+    "MapName": "11ばんどうろ(B)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 2 }, { "BasicLv": 15, "VariableLv": 2 }, { "BasicLv": 15, "VariableLv": 2 },
+        { "BasicLv": 15, "VariableLv": 2 }, { "BasicLv": 15, "VariableLv": 2 }, { "BasicLv": 15, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "オニスズメ", "オニスズメ", "オニスズメ", "ミツハニー", "ミツハニー", "ミツハニー" ],
+    "AltSlots": null
+}

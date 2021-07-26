@@ -1,0 +1,32 @@
+
+{
+    "MapName": "210ばんどうろ(北)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 },
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "チルット", "ビーダル", "ストライク", "アサナン", "アサナン", "ワンリキー", 
+        "ストライク", "ゴーリキー", "ワンリキー", "ゴーリキー", "ワンリキー", "ゴーリキー"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "チルット", "アサナン" ],
+            "Night": [ "ヨルノズク", "ホーホー" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "タツベイ", "タツベイ" ],
+            "Rare": [ "タツベイ", "タツベイ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": [ "ハブネーク", "ハブネーク" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

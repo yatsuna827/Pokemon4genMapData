@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ズイのいせき(小部屋)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 },
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", 
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "たにまのはつでんしょ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ブイゼル", "パチリス", "ブイゼル", "カラナクシ", "ビッパ", "カラナクシ", 
+        "カラナクシ", "パチリス", "ブイゼル", "カラナクシ", "ブイゼル", "カラナクシ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": [ "ラクライ", "ラクライ" ],
+        "PokeTracer": {
+            "Common": [ "メリープ", "メリープ" ],
+            "Rare": [ "メリープ", "メリープ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": [ "エレキッド", "エレキッド" ],
+            "LeafGreen": null
+        }
+    }
+}

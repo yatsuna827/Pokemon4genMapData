@@ -1,0 +1,8 @@
+
+{
+    "MapName": "アルフの遺跡",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [ { "BasicLv": 8, "VariableLv": 7 }, { "BasicLv": 3, "VariableLv": 4 } ],
+    "BasicTable": [ "イシツブテ", "イシツブテ" ],
+    "AltSlots": null
+}

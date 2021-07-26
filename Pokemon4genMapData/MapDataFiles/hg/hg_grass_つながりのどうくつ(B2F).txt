@@ -1,0 +1,29 @@
+
+{
+    "MapName": "つながりのどうくつ(B2F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ズバット", "ラッタ", "ズバット", "ラッタ", "ゴルバット", "ゴルバット", 
+        "イシツブテ", "イシツブテ", "コラッタ", "イワーク", "コラッタ", "イワーク"
+    ],
+    "DayTable": [
+        "ズバット", "ラッタ", "ズバット", "ラッタ", "ゴルバット", "ゴルバット", 
+        "イシツブテ", "イシツブテ", "コラッタ", "イワーク", "コラッタ", "イワーク"
+    ],
+    "NightTable": [
+        "ズバット", "ラッタ", "ズバット", "ラッタ", "ゴルバット", "ゴルバット", 
+        "イシツブテ", "イシツブテ", "コラッタ", "イワーク", "コラッタ", "イワーク"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

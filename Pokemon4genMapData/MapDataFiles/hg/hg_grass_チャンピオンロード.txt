@@ -1,0 +1,29 @@
+
+{
+    "MapName": "チャンピオンロード",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 },
+        { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 },
+        { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ゴローン", "ゴルバット", "ゴローン", "ゴルバット", "リングマ", "リングマ", 
+        "イワーク", "イワーク", "イワーク", "サイホーン", "イワーク", "サイホーン"
+    ],
+    "DayTable": [
+        "ゴローン", "ゴルバット", "ゴローン", "ゴルバット", "リングマ", "リングマ", 
+        "イワーク", "イワーク", "イワーク", "サイホーン", "イワーク", "サイホーン"
+    ],
+    "NightTable": [
+        "ゴローン", "ゴルバット", "ゴローン", "ゴルバット", "リングマ", "リングマ", 
+        "イワーク", "イワーク", "イワーク", "サイホーン", "イワーク", "サイホーン"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "MapName": "チャンピオンロード(B1F-奥)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 },
+        { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "フローゼル", "ジュゴン", "ラプラス", "ラプラス", "ラプラス"
+    ]
+}

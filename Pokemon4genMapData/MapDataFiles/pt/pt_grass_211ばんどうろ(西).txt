@@ -1,0 +1,32 @@
+
+{
+    "MapName": "211ばんどうろ(西)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "アサナン", "ビッパ", "アサナン", "アサナン", "リーシャン", "ワンリキー", 
+        "リーシャン", "ドーミラー", "ワンリキー", "ドーミラー", "ワンリキー", "ドーミラー"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ズバット", "ホーホー" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "バルキー", "バルキー" ],
+            "Rare": [ "バルキー", "バルキー" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "ヒメグマ", "ヒメグマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

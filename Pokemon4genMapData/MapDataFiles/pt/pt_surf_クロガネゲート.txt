@@ -1,0 +1,12 @@
+
+{
+    "MapName": "クロガネゲート",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 21 },
+        { "BasicLv": 20, "VariableLv": 21 }, { "BasicLv": 20, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "コダック", "ズバット", "ゴルダック", "ゴルバット", "ゴルバット"
+    ]
+}

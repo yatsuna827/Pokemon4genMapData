@@ -1,0 +1,29 @@
+
+{
+    "MapName": "5ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ポッポ", "マダツボミ", "ポッポ", "マダツボミ", "ポッポ", "ポッポ", 
+        "ポッポ", "ポッポ", "ケーシィ", "ケーシィ", "ケーシィ", "ケーシィ"
+    ],
+    "DayTable": [
+        "ポッポ", "マダツボミ", "ポッポ", "マダツボミ", "ポッポ", "ポッポ", 
+        "ポッポ", "ポッポ", "ケーシィ", "ケーシィ", "ケーシィ", "ケーシィ"
+    ],
+    "NightTable": [
+        "ナゾノクサ", "ナゾノクサ", "ナゾノクサ", "ナゾノクサ", "マダツボミ", "マダツボミ", 
+        "クサイハナ", "クサイハナ", "ケーシィ", "ケーシィ", "ケーシィ", "ケーシィ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

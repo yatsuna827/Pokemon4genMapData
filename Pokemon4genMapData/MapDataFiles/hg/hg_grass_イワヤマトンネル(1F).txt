@@ -1,0 +1,29 @@
+
+{
+    "MapName": "イワヤマトンネル(1F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 },
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "カラカラ", "イシツブテ", "カラカラ", "イシツブテ", "ワンリキー", "ワンリキー", 
+        "ズバット", "ズバット", "ゴーリキー", "カラカラ", "ゴーリキー", "カラカラ"
+    ],
+    "DayTable": [
+        "カラカラ", "イシツブテ", "カラカラ", "イシツブテ", "ワンリキー", "ワンリキー", 
+        "ズバット", "ズバット", "ゴーリキー", "カラカラ", "ゴーリキー", "カラカラ"
+    ],
+    "NightTable": [
+        "カラカラ", "イシツブテ", "カラカラ", "イシツブテ", "ワンリキー", "ワンリキー", 
+        "ズバット", "ズバット", "ゴーリキー", "カラカラ", "ゴーリキー", "カラカラ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

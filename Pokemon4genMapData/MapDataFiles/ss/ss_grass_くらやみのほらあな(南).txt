@@ -1,0 +1,29 @@
+
+{
+    "MapName": "くらやみのほらあな(南)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 },
+        { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 },
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "イシツブテ", "ズバット", "イシツブテ", "ズバット", "イシツブテ", "イシツブテ", 
+        "イシツブテ", "イシツブテ", "ズバット", "ズバット", "ズバット", "ノコッチ"
+    ],
+    "DayTable": [
+        "イシツブテ", "ズバット", "イシツブテ", "ズバット", "イシツブテ", "イシツブテ", 
+        "イシツブテ", "イシツブテ", "ズバット", "ズバット", "ズバット", "ノコッチ"
+    ],
+    "NightTable": [
+        "イシツブテ", "ズバット", "イシツブテ", "ズバット", "イシツブテ", "イシツブテ", 
+        "イシツブテ", "イシツブテ", "ズバット", "ズバット", "ズバット", "ノコッチ"
+    ],
+    "AltSlots": {
+        "Outbreak": "ノコッチ",
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "21ばんすいどう",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 },
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", 
+        "モンジャラ", "モンジャラ", "モンジャラ", "バリヤード", "モンジャラ", "バリヤード"
+    ],
+    "DayTable": [
+        "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", 
+        "モンジャラ", "モンジャラ", "バリヤード", "バリヤード", "バリヤード", "バリヤード"
+    ],
+    "NightTable": [
+        "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", "モンジャラ", 
+        "モンジャラ", "モンジャラ", "モンジャラ", "バリヤード", "モンジャラ", "バリヤード"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

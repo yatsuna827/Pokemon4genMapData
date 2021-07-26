@@ -1,0 +1,11 @@
+
+{
+    "MapName": "28ばんどうろ(B)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 41, "VariableLv": 3 }, { "BasicLv": 41, "VariableLv": 3 }, { "BasicLv": 41, "VariableLv": 3 },
+        { "BasicLv": 41, "VariableLv": 3 }, { "BasicLv": 41, "VariableLv": 3 }, { "BasicLv": 41, "VariableLv": 3 }
+    ],
+    "BasicTable": [ "ヘラクロス", "エイパム", "エイパム", "ネイティ", "ネイティ", "ネイティ" ],
+    "AltSlots": null
+}

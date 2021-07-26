@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ロストタワー(2F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴース", "ズバット", "ゴース", "ゴース", "ズバット", "ゴース", 
+        "ズバット", "ゴース", "ゴース", "ゴース", "ゴース", "ゴース"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ヨマワル", "ヨマワル" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

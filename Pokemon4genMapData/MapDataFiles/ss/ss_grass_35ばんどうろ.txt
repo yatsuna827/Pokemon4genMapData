@@ -1,0 +1,29 @@
+
+{
+    "MapName": "35ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニドラン♂", "ニドラン♀", "ニドラン♂", "ニドラン♀", "スリープ", "スリープ", 
+        "ケーシィ", "ケーシィ", "ポッポ", "メタモン", "ポッポ", "ヤンヤンマ"
+    ],
+    "DayTable": [
+        "ニドラン♂", "ニドラン♀", "ニドラン♂", "ニドラン♀", "スリープ", "スリープ", 
+        "ケーシィ", "ケーシィ", "ポッポ", "メタモン", "ポッポ", "ヤンヤンマ"
+    ],
+    "NightTable": [
+        "ニドラン♂", "ニドラン♀", "ニドラン♂", "ニドラン♀", "スリープ", "スリープ", 
+        "ケーシィ", "ケーシィ", "ホーホー", "メタモン", "ホーホー", "ヤンヤンマ"
+    ],
+    "AltSlots": {
+        "Outbreak": "ヤンヤンマ",
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

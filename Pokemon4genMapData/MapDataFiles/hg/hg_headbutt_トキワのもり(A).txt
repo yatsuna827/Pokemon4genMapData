@@ -1,0 +1,11 @@
+
+{
+    "MapName": "トキワのもり(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 },
+        { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "ホーホー", "キノココ", "キノココ", "レディバ", "ホーホー", "タネボー" ],
+    "AltSlots": null
+}

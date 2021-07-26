@@ -1,0 +1,13 @@
+
+{
+    "MapName": "シロガネやま",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "ニョロモ", "ニョロモ", "ニョロモ", "ニョロモ" ],
+    "DayTable":     [ "コイキング", "ニョロモ", "ニョロモ", "ニョロモ", "ニョロモ" ],
+    "NightTable":   [ "コイキング", "ニョロモ", "ニョロモ", "ニョロモ", "ニョロモ" ],
+    "AltSlots": { "Outbreak": null }
+}

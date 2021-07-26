@@ -1,0 +1,12 @@
+
+{
+    "MapName": "チャンピオンロード(B1F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 11 }, { "BasicLv": 35, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 11 },
+        { "BasicLv": 40, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "ゴルバット", "ゴルバット", "ゴルバット", "ゴルバット", "ゴルバット"
+    ]
+}

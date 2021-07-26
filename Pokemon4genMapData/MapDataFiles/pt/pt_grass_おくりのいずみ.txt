@@ -1,0 +1,32 @@
+
+{
+    "MapName": "おくりのいずみ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 37, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 38, "VariableLv": 1 },
+        { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 37, "VariableLv": 1 }, { "BasicLv": 37, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴローン", "ビーダル", "ゴローン", "ムクバード", "ビーダル", "ムクバード", 
+        "ゴローン", "リーシャン", "サマヨール", "リーシャン", "サマヨール", "リーシャン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "サマヨール", "ゴルバット" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ソルロック", "ソルロック" ],
+            "Sapphire": [ "ルナトーン", "ルナトーン" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

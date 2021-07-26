@@ -1,0 +1,32 @@
+
+{
+    "MapName": "こうてつじま(1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 },
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 },
+        { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "イシツブテ", "ゴローン", "ズバット", "ゴルバット", "イシツブテ", "ゴローン", 
+        "イワーク", "イワーク", "イシツブテ", "ゴローン", "イシツブテ", "ゴローン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "MapName": "212ばんどうろ(北)",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 10, "VariableLv": 16 },
+        { "BasicLv": 10, "VariableLv": 16 }, { "BasicLv": 10, "VariableLv": 16 }
+    ],
+    "BasicTable": [
+        "コイキング", "トサキント", "コイキング", "トサキント", "トサキント"
+    ]
+}

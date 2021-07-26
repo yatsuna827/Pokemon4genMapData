@@ -1,0 +1,11 @@
+
+{
+    "MapName": "8ばんどうろ(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 16, "VariableLv": 2 }, { "BasicLv": 16, "VariableLv": 2 }, { "BasicLv": 16, "VariableLv": 2 },
+        { "BasicLv": 16, "VariableLv": 2 }, { "BasicLv": 16, "VariableLv": 2 }, { "BasicLv": 16, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "ホーホー", "クヌギダマ", "クヌギダマ", "ミツハニー", "ミツハニー", "ミツハニー" ],
+    "AltSlots": null
+}

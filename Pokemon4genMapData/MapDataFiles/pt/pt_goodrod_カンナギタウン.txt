@@ -1,0 +1,12 @@
+
+{
+    "MapName": "カンナギタウン",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 10, "VariableLv": 16 },
+        { "BasicLv": 25, "VariableLv": 11 }, { "BasicLv": 25, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "コイキング", "トサキント", "コイキング", "トサキント", "トサキント"
+    ]
+}

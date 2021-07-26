@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ハクタイのもり",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 11, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 },
+        { "BasicLv": 11, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ミミロル", "スボミー", "ケムッソ", "コロボーシ", "スボミー", "ビッパ", 
+        "カラサリス", "マユルド", "ミミロル", "ゴース", "アゲハント", "ドクケイル"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ケムッソ", "スボミー" ],
+            "Night": [ "コロボーシ", "ホーホー" ]
+        },
+        "Outbreak": [ "ナマケロ", "ナマケロ" ],
+        "PokeTracer": {
+            "Common": [ "ツチニン", "ツチニン" ],
+            "Rare": [ "ツチニン", "ツチニン" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "タネボー", "タネボー" ],
+            "Sapphire": null,
+            "Emerald": [ "クヌギダマ", "クヌギダマ" ],
+            "FireRed": [ "キャタピー", "トランセル" ],
+            "LeafGreen": [ "ビードル", "コクーン" ]
+        }
+    }
+}

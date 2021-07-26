@@ -1,0 +1,8 @@
+
+{
+    "MapName": "ハナダの洞窟",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [ { "BasicLv": 22, "VariableLv": 3 }, { "BasicLv": 26, "VariableLv": 5 } ],
+    "BasicTable": [ "イシツブテ", "ゴローン" ],
+    "AltSlots": null
+}

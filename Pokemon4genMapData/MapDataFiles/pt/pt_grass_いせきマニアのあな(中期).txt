@@ -1,0 +1,32 @@
+
+{
+    "MapName": "いせきマニアのあな(中期)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "イシツブテ", "イシツブテ", "イシツブテ", "イシツブテ", "イシツブテ", "イシツブテ", 
+        "イシツブテ", "ヒポポタス", "イシツブテ", "ヒポポタス", "イシツブテ", "ヒポポタス"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

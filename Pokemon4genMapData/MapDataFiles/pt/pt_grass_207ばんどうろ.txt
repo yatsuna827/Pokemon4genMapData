@@ -1,0 +1,32 @@
+
+{
+    "MapName": "207ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ワンリキー", "イシツブテ", "ポニータ", "コロボーシ", "ポニータ", "ワンリキー", 
+        "ワンリキー", "イシツブテ", "ポニータ", "イシツブテ", "ポニータ", "イシツブテ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ポニータ", "ワンリキー" ],
+            "Night": [ "コロボーシ", "ズバット" ]
+        },
+        "Outbreak": [ "ゴマゾウ", "ゴマゾウ" ],
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

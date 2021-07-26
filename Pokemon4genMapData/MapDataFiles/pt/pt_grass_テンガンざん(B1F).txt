@@ -1,0 +1,32 @@
+
+{
+    "MapName": "テンガンざん(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 },
+        { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 },
+        { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ドーミラー", "ゴローン", "アサナン", "ピッピ", "ゴーリキー", "アサナン", 
+        "リーシャン", "ノズパス", "ゴルバット", "リーシャン", "ゴルバット", "リーシャン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "アサナン", "ゴローン" ],
+            "Night": [ "ゴルバット", "ピッピ" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "MapName": "228ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 4, "VariableLv": 3 }, { "BasicLv": 3, "VariableLv": 5 }, { "BasicLv": 5, "VariableLv": 6 },
+        { "BasicLv": 5, "VariableLv": 6 }, { "BasicLv": 5, "VariableLv": 6 }
+    ],
+    "BasicTable": [
+        "コイキング", "コイキング", "コイキング", "コイキング", "コイキング"
+    ]
+}

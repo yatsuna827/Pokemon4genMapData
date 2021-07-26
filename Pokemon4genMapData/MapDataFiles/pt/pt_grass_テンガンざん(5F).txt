@@ -1,0 +1,32 @@
+
+{
+    "MapName": "テンガンざん(5F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 37, "VariableLv": 1 }, { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 37, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 },
+        { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 36, "VariableLv": 1 }, { "BasicLv": 37, "VariableLv": 1 },
+        { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ドータクン", "ゴローン", "チャーレム", "ピッピ", "ゴーリキー", "チャーレム", 
+        "リーシャン", "ノズパス", "ゴルバット", "リーシャン", "ゴルバット", "チリーン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "チャーレム", "ゴローン" ],
+            "Night": [ "ゴルバット", "ピッピ" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ソルロック", "ソルロック" ],
+            "Sapphire": [ "ルナトーン", "ルナトーン" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

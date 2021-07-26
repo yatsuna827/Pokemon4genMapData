@@ -1,0 +1,8 @@
+
+{
+    "MapName": "イワヤマトンネル",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [ { "BasicLv": 12, "VariableLv": 5 }, { "BasicLv": 17, "VariableLv": 5 } ],
+    "BasicTable": [ "イシツブテ", "イシツブテ" ],
+    "AltSlots": null
+}

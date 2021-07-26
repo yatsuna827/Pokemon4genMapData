@@ -1,0 +1,32 @@
+
+{
+    "MapName": "222ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 41, "VariableLv": 1 },
+        { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 42, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "フローゼル", "トリトドン", "ペラップ", "ペラップ", "バリヤード", "キャモメ", 
+        "フローゼル", "トリトドン", "バリヤード", "トリトドン", "バリヤード", "トリトドン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "フローゼル", "トリトドン" ]
+        },
+        "Outbreak": [ "エネコ", "エネコ" ],
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "MapName": "チャンピオンロード(B1F-奥)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 11 }, { "BasicLv": 45, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 11 },
+        { "BasicLv": 45, "VariableLv": 11 }, { "BasicLv": 50, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "ゴルバット", "ゴルバット", "ラプラス", "ラプラス", "ラプラス"
+    ]
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "214ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ポニータ", "イシツブテ", "ポニータ", "ゴローン", "スカンプー", "キリンリキ", 
+        "コロトック", "ポニータ", "スカンプー", "ゴローン", "スカンプー", "ゴローン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "コロトック", "コロトック" ]
+        },
+        "Outbreak": [ "バネブー", "バネブー" ],
+        "PokeTracer": {
+            "Common": [ "グラエナ", "グラエナ" ],
+            "Rare": [ "グラエナ", "グラエナ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "グライガー", "グライガー" ],
+            "FireRed": null,
+            "LeafGreen": [ "ロコン", "ロコン" ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "まよいのどうくつ(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ドーミラー", "イシツブテ", "フカマル", "ズバット", "ドーミラー", "イワーク", 
+        "フカマル", "イシツブテ", "フカマル", "イワーク", "フカマル", "イワーク"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": [ "サンド", "サンド" ]
+        }
+    }
+}

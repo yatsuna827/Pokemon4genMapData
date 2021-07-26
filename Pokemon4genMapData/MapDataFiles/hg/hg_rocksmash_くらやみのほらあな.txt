@@ -1,0 +1,8 @@
+
+{
+    "MapName": "くらやみの洞穴",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [ { "BasicLv": 4, "VariableLv": 5 }, { "BasicLv": 8, "VariableLv": 7 } ],
+    "BasicTable": [ "ノコッチ", "イシツブテ" ],
+    "AltSlots": null
+}

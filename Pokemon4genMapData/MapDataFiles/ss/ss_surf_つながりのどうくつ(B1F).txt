@@ -1,0 +1,13 @@
+
+{
+    "MapName": "つながりのどうくつ(B1F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 },
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "ウパー", "ヌオー", "ヌオー", "ヌオー", "ヌオー" ],
+    "DayTable":     [ "ウパー", "ヌオー", "ヌオー", "ヌオー", "ヌオー" ],
+    "NightTable":   [ "ウパー", "ヌオー", "ヌオー", "ヌオー", "ヌオー" ],
+    "AltSlots": { "Outbreak": null }
+}

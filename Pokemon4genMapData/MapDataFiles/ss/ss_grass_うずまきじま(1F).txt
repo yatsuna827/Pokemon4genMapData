@@ -1,0 +1,29 @@
+
+{
+    "MapName": "うずまきじま(1F)",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "クラブ", "ズバット", "クラブ", "ズバット", "クラブ", "クラブ", 
+        "パウワウ", "パウワウ", "ゴルバット", "パウワウ", "ゴルバット", "パウワウ"
+    ],
+    "DayTable": [
+        "クラブ", "ズバット", "クラブ", "ズバット", "クラブ", "クラブ", 
+        "パウワウ", "パウワウ", "ゴルバット", "パウワウ", "ゴルバット", "パウワウ"
+    ],
+    "NightTable": [
+        "クラブ", "ズバット", "クラブ", "ズバット", "クラブ", "クラブ", 
+        "パウワウ", "パウワウ", "ゴルバット", "パウワウ", "ゴルバット", "パウワウ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

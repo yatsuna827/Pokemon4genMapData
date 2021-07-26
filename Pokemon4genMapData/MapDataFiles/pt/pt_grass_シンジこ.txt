@@ -1,0 +1,32 @@
+
+{
+    "MapName": "シンジこ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 },
+        { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムックル", "ビッパ", "ムックル", "ビッパ", "ムックル", "ビッパ", 
+        "ムックル", "ビッパ", "ムックル", "ビッパ", "ムックル", "ビッパ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ビッパ", "ビッパ" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ソーナンス", "ソーナンス" ],
+            "Rare": [ "ソーナンス", "ソーナンス" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ソルロック", "ソルロック" ],
+            "Sapphire": [ "ルナトーン", "ルナトーン" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,11 @@
+
+{
+    "MapName": "サファリゾーンゲート(B)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 17, "VariableLv": 3 }, { "BasicLv": 17, "VariableLv": 3 }, { "BasicLv": 17, "VariableLv": 3 },
+        { "BasicLv": 17, "VariableLv": 3 }, { "BasicLv": 17, "VariableLv": 3 }, { "BasicLv": 17, "VariableLv": 3 }
+    ],
+    "BasicTable": [ "ホーホー", "イトマル", "イトマル", "タマタマ", "タマタマ", "タマタマ" ],
+    "AltSlots": null
+}

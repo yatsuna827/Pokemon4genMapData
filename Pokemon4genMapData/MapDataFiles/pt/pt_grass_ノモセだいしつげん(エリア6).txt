@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ノモセだいしつげん(エリア6)",
+    "BasicEncounterRate": 35,
+    "SlotProtoType": [
+        { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 },
+        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 },
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ウパー", "ビーダル", "ビーダル", "ヤンヤンマ", "ヤンヤンマ", "ヌオー", 
+        "ウパー", "ウパー", "ヤンヤンマ", "モンジャラ", "ヤンヤンマ", "モンジャラ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ホーホー", "ホーホー" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": [ "アーボック", "アーボック" ],
+            "LeafGreen": null
+        }
+    }
+}

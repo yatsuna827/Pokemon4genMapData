@@ -1,0 +1,32 @@
+
+{
+    "MapName": "218ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 },
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "フローゼル", "カラナクシ", "フローゼル", "トリトドン", "バリヤード", "キャモメ", 
+        "フローゼル", "トリトドン", "バリヤード", "トリトドン", "バリヤード", "トリトドン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": [ "ビリリダマ", "ビリリダマ" ],
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

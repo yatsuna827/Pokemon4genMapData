@@ -1,0 +1,13 @@
+
+{
+    "MapName": "うずまきじま",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "クラブ", "クラブ", "タッツー", "クラブ" ],
+    "DayTable":     [ "コイキング", "クラブ", "クラブ", "タッツー", "クラブ" ],
+    "NightTable":   [ "コイキング", "クラブ", "クラブ", "タッツー", "クラブ" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "トキワのもり",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ビードル", "ビードル", "コクーン", "ポッポ", "コクーン", "コクーン", 
+        "スピアー", "スピアー", "ピジョン", "ピカチュウ", "ピカチュウ", "ピカチュウ"
+    ],
+    "DayTable": [
+        "ビードル", "ビードル", "コクーン", "ポッポ", "コクーン", "コクーン", 
+        "ポッポ", "ピジョン", "ピジョン", "ピカチュウ", "ピカチュウ", "ピカチュウ"
+    ],
+    "NightTable": [
+        "ホーホー", "ホーホー", "ホーホー", "ホーホー", "ホーホー", "ホーホー", 
+        "ヨルノズク", "ヨルノズク", "ヨルノズク", "ピカチュウ", "ヨルノズク", "ピカチュウ"
+    ],
+    "AltSlots": {
+        "Outbreak": "コロボーシ",
+        "RadioSound": {
+            "Hoenn": [ "バネブー", "ドンメル" ],
+            "Sinnoh": [ "スボミー", "マスキッパ" ]
+        }
+    }
+}

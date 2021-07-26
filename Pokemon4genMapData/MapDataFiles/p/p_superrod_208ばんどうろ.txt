@@ -1,0 +1,12 @@
+
+{
+    "MapName": "208ばんどうろ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 16 },
+        { "BasicLv": 20, "VariableLv": 31 }, { "BasicLv": 20, "VariableLv": 31 }
+    ],
+    "BasicTable": [
+        "ギャラドス", "ナマズン", "ギャラドス", "ナマズン", "ナマズン"
+    ]
+}

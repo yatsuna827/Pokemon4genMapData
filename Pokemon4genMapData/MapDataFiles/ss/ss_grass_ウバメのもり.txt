@@ -1,0 +1,29 @@
+
+{
+    "MapName": "ウバメのもり",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "キャタピー", "トランセル", "キャタピー", "トランセル", "キャタピー", "キャタピー", 
+        "パラス", "パラス", "ズバット", "パラス", "ズバット", "パラス"
+    ],
+    "DayTable": [
+        "キャタピー", "キャタピー", "キャタピー", "キャタピー", "トランセル", "トランセル", 
+        "トランセル", "トランセル", "ズバット", "パラス", "ズバット", "パラス"
+    ],
+    "NightTable": [
+        "ナゾノクサ", "ナゾノクサ", "ナゾノクサ", "ナゾノクサ", "ズバット", "ズバット", 
+        "パラス", "パラス", "ズバット", "パラス", "ズバット", "パラス"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "バネブー", "ドンメル" ],
+            "Sinnoh": [ "スボミー", "マスキッパ" ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "216ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 },
+        { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 },
+        { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ユキカブリ", "ニューラ", "アサナン", "ゴーリキー", "アサナン", "ゴーリキー", 
+        "ユキカブリ", "ニューラ", "ゴローン", "ゴローン", "ゴローン", "ゴローン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ズバット", "ヨルノズク" ]
+        },
+        "Outbreak": [ "デリバード", "デリバード" ],
+        "PokeTracer": {
+            "Common": [ "ユキワラシ", "ユキワラシ" ],
+            "Rare": [ "ユキワラシ", "ユキワラシ" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "リングマ", "リングマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "クロガネたんこう(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 },
+        { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "イシツブテ", "イシツブテ", "ズバット", "ズバット", "イシツブテ", "イシツブテ", 
+        "イワーク", "イワーク", "イシツブテ", "ズバット", "イシツブテ", "ズバット"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

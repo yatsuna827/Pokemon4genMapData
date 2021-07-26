@@ -1,0 +1,8 @@
+
+{
+    "MapName": "タンバシティ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [ { "BasicLv": 15, "VariableLv": 10 }, { "BasicLv": 23, "VariableLv": 6 } ],
+    "BasicTable": [ "クラブ", "ツボツボ" ],
+    "AltSlots": null
+}

@@ -1,0 +1,11 @@
+
+{
+    "MapName": "クチバシティ(B)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 14, "VariableLv": 3 }, { "BasicLv": 14, "VariableLv": 3 }, { "BasicLv": 14, "VariableLv": 3 },
+        { "BasicLv": 14, "VariableLv": 3 }, { "BasicLv": 14, "VariableLv": 3 }, { "BasicLv": 14, "VariableLv": 3 }
+    ],
+    "BasicTable": [ "オニスズメ", "オニスズメ", "オニスズメ", "ミツハニー", "ミツハニー", "ミツハニー" ],
+    "AltSlots": null
+}

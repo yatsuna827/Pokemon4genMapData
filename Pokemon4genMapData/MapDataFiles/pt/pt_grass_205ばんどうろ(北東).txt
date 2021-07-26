@@ -1,0 +1,32 @@
+
+{
+    "MapName": "205ばんどうろ(北東)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ビッパ", "スボミー", "ケムッソ", "コロボーシ", "カラサリス", "マユルド", 
+        "ビッパ", "ビッパ", "スボミー", "スボミー", "アゲハント", "ドクケイル"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ケムッソ", "スボミー" ],
+            "Night": [ "コロボーシ", "ホーホー" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ヤドン", "ヤドン" ],
+            "Rare": [ "ヤドン", "ヤドン" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": [ "ハスボー", "ハスボー" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

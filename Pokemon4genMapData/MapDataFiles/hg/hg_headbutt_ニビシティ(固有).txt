@@ -1,0 +1,11 @@
+
+{
+    "MapName": "ニビシティ(固有)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 5 }, { "BasicLv": 5, "VariableLv": 5 }, { "BasicLv": 5, "VariableLv": 5 },
+        { "BasicLv": 5, "VariableLv": 5 }, { "BasicLv": 5, "VariableLv": 5 }, { "BasicLv": 8, "VariableLv": 5 }
+    ],
+    "BasicTable": [ "ケムッソ", "ケムッソ", "ムックル", "ムックル", "ムックル", "ムックル" ],
+    "AltSlots": null
+}

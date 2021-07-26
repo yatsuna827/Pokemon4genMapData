@@ -1,0 +1,13 @@
+
+{
+    "MapName": "47ばんどうろ",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "メノクラゲ", "パウワウ", "ヒトデマン", "ヒトデマン", "ヒトデマン" ],
+    "DayTable":     [ "メノクラゲ", "パウワウ", "ヒトデマン", "ヒトデマン", "ヒトデマン" ],
+    "NightTable":   [ "メノクラゲ", "パウワウ", "ヒトデマン", "ヒトデマン", "ヒトデマン" ],
+    "AltSlots": { "Outbreak": null }
+}

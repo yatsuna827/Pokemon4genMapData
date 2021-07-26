@@ -1,0 +1,32 @@
+
+{
+    "MapName": "208ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "スボミー", "ビッパ", "スボミー", "ラルトス", "ロゼリア", "ビーダル", 
+        "ラルトス", "ビーダル", "ロゼリア", "ビーダル", "ロゼリア", "ビーダル"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ズバット", "ラルトス" ]
+        },
+        "Outbreak": [ "ノコッチ", "ノコッチ" ],
+        "PokeTracer": {
+            "Common": [ "ドーブル", "ドーブル" ],
+            "Rare": [ "ドーブル", "ドーブル" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ザングース", "ザングース" ],
+            "Sapphire": [ "ハブネーク", "ハブネーク" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

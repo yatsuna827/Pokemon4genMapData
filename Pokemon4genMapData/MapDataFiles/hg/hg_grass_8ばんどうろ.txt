@@ -1,0 +1,29 @@
+
+{
+    "MapName": "8ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 },
+        { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニャース", "ピジョン", "ニャース", "ピジョン", "ケーシィ", "ケーシィ", 
+        "ロコン", "ロコン", "ピジョン", "ユンゲラー", "ピジョン", "ユンゲラー"
+    ],
+    "DayTable": [
+        "ニャース", "ピジョン", "ニャース", "ピジョン", "ケーシィ", "ケーシィ", 
+        "ロコン", "ロコン", "ピジョン", "ユンゲラー", "ピジョン", "ユンゲラー"
+    ],
+    "NightTable": [
+        "ニャース", "ゴースト", "ニャース", "ゴースト", "ケーシィ", "ケーシィ", 
+        "ヨルノズク", "ヨルノズク", "ロコン", "ユンゲラー", "ロコン", "ユンゲラー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "212ばんどうろ(北)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 },
+        { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムックル", "スボミー", "ムクバード", "コロトック", "ロゼリア", "スボミー", 
+        "ロゼリア", "ムクバード", "コロトック", "コロトック", "コロトック", "コロトック"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ムクバード", "ムクバード" ],
+            "Night": [ "コロトック", "コロトック" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

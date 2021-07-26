@@ -1,0 +1,32 @@
+
+{
+    "MapName": "211ばんどうろ(東)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "アサナン", "ゴローン", "アサナン", "アサナン", "リーシャン", "ゴーリキー", 
+        "リーシャン", "ドーミラー", "ゴーリキー", "ドーミラー", "ゴーリキー", "ドーミラー"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ズバット", "ヨルノズク" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

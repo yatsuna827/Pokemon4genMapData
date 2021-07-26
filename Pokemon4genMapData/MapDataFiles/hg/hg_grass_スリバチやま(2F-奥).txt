@@ -1,0 +1,29 @@
+
+{
+    "MapName": "スリバチやま(2F-奥)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 },
+        { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 },
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ゴローン", "ゴーリキー", "ゴローン", "ゴーリキー", "イシツブテ", "イシツブテ", 
+        "ラッタ", "ラッタ", "ワンリキー", "ゴルバット", "ワンリキー", "ゴルバット"
+    ],
+    "DayTable": [
+        "ゴローン", "ゴーリキー", "ゴローン", "ゴーリキー", "イシツブテ", "イシツブテ", 
+        "ラッタ", "ラッタ", "ワンリキー", "ゴルバット", "ワンリキー", "ゴルバット"
+    ],
+    "NightTable": [
+        "ゴローン", "ゴーリキー", "ゴローン", "ゴーリキー", "イシツブテ", "イシツブテ", 
+        "ラッタ", "ラッタ", "ワンリキー", "ゴルバット", "ワンリキー", "ゴルバット"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

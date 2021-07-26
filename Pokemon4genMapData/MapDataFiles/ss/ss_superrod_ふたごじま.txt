@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ふたごじま",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ギャラドス", "タッツー", "キングラー", "シードラ", "シードラ" ],
+    "DayTable":     [ "ギャラドス", "タッツー", "キングラー", "シードラ", "シードラ" ],
+    "NightTable":   [ "ギャラドス", "タッツー", "キングラー", "シードラ", "シードラ" ],
+    "AltSlots": { "Outbreak": null }
+}

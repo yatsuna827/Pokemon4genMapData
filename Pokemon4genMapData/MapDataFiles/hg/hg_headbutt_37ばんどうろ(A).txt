@@ -1,0 +1,11 @@
+
+{
+    "MapName": "37ばんどうろ(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 12, "VariableLv": 3 }, { "BasicLv": 12, "VariableLv": 3 }, { "BasicLv": 12, "VariableLv": 3 },
+        { "BasicLv": 12, "VariableLv": 3 }, { "BasicLv": 12, "VariableLv": 3 }, { "BasicLv": 12, "VariableLv": 3 }
+    ],
+    "BasicTable": [ "ホーホー", "クヌギダマ", "クヌギダマ", "タマタマ", "タマタマ", "タマタマ" ],
+    "AltSlots": null
+}

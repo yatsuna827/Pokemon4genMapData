@@ -1,0 +1,12 @@
+
+{
+    "MapName": "ポケモンリーグ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 11 },
+        { "BasicLv": 20, "VariableLv": 31 }, { "BasicLv": 20, "VariableLv": 31 }
+    ],
+    "BasicTable": [
+        "ギャラドス", "オクタン", "ラブカス", "オクタン", "オクタン"
+    ]
+}

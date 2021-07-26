@@ -1,0 +1,12 @@
+
+{
+    "MapName": "225ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 11 }, { "BasicLv": 45, "VariableLv": 11 },
+        { "BasicLv": 45, "VariableLv": 11 }, { "BasicLv": 45, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "ゴルダック", "ニョロゾ", "ゴルダック", "ゴルダック", "ゴルダック"
+    ]
+}

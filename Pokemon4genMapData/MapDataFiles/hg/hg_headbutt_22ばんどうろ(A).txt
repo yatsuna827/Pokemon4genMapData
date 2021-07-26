@@ -1,0 +1,11 @@
+
+{
+    "MapName": "22ばんどうろ(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 },
+        { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 }, { "BasicLv": 3, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "ホーホー", "クヌギダマ", "クヌギダマ", "ケムッソ", "ケムッソ", "ケムッソ" ],
+    "AltSlots": null
+}

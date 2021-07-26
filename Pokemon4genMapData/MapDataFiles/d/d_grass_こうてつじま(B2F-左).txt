@@ -1,0 +1,32 @@
+
+{
+    "MapName": "こうてつじま(B2F-左)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 31, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 33, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 },
+        { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 34, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴローン", "イワーク", "ゴルバット", "ゴルバット", "ゴローン", "イワーク", 
+        "ハガネール", "ハガネール", "ゴローン", "ゴローン", "イシツブテ", "ゴローン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": [ "クチート", "クチート" ],
+            "Sapphire": [ "ヤミラミ", "ヤミラミ" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

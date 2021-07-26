@@ -1,0 +1,12 @@
+
+{
+    "MapName": "230ばんすいどう",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 },
+        { "BasicLv": 35, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "トドグラー", "ペリッパー", "ドククラゲ", "ドククラゲ", "ドククラゲ"
+    ]
+}

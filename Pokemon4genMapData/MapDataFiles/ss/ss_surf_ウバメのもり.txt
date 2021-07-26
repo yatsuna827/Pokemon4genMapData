@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ウバメのもり",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 5, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 },
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "DayTable":     [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "NightTable":   [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "AltSlots": { "Outbreak": null }
+}

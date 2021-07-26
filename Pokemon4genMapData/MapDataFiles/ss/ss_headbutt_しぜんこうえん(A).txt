@@ -1,0 +1,11 @@
+
+{
+    "MapName": "しぜんこうえん(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 3 }, { "BasicLv": 10, "VariableLv": 3 }, { "BasicLv": 10, "VariableLv": 3 },
+        { "BasicLv": 10, "VariableLv": 3 }, { "BasicLv": 10, "VariableLv": 3 }, { "BasicLv": 10, "VariableLv": 3 }
+    ],
+    "BasicTable": [ "ホーホー", "クヌギダマ", "クヌギダマ", "タマタマ", "タマタマ", "タマタマ" ],
+    "AltSlots": null
+}

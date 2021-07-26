@@ -1,0 +1,13 @@
+
+{
+    "MapName": "32ばんどうろ",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "メノクラゲ", "メノクラゲ", "メノクラゲ", "ハリーセン" ],
+    "DayTable":     [ "コイキング", "メノクラゲ", "メノクラゲ", "メノクラゲ", "ハリーセン" ],
+    "NightTable":   [ "コイキング", "メノクラゲ", "メノクラゲ", "メノクラゲ", "ハリーセン" ],
+    "AltSlots": { "Outbreak": "ハリーセン" }
+}

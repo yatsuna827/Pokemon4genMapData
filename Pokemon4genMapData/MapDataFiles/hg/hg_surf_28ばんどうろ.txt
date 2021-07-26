@@ -1,0 +1,13 @@
+
+{
+    "MapName": "28ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ニョロモ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ" ],
+    "DayTable":     [ "ニョロモ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ" ],
+    "NightTable":   [ "ニョロモ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ" ],
+    "AltSlots": { "Outbreak": null }
+}

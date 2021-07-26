@@ -1,0 +1,8 @@
+
+{
+    "MapName": "クチバシティ",
+    "BasicEncounterRate": 40,
+    "SlotProtoType": [ { "BasicLv": 24, "VariableLv": 14 }, { "BasicLv": 32, "VariableLv": 4 } ],
+    "BasicTable": [ "ディグダ", "ツボツボ" ],
+    "AltSlots": null
+}

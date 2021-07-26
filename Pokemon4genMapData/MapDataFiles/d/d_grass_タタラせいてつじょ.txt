@@ -1,0 +1,32 @@
+
+{
+    "MapName": "タタラせいてつじょ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "フローゼル", "カラナクシ", "コリンク", "キャモメ", "ルクシオ", "トリトドン", 
+        "パチリス", "パチリス", "フローゼル", "トリトドン", "フローゼル", "トリトドン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": [ "コイル", "コイル" ],
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

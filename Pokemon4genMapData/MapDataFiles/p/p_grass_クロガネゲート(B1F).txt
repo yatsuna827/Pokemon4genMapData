@@ -1,0 +1,32 @@
+
+{
+    "MapName": "クロガネゲート(B1F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 },
+        { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 9, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ズバット", "ズバット", "コダック", "イシツブテ", "コダック", "ズバット", 
+        "コダック", "コダック", "ズバット", "ズバット", "ズバット", "ズバット"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

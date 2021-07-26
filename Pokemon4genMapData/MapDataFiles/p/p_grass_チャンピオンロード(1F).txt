@@ -1,0 +1,32 @@
+
+{
+    "MapName": "チャンピオンロード(1F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 },
+        { "BasicLv": 44, "VariableLv": 1 }, { "BasicLv": 46, "VariableLv": 1 }, { "BasicLv": 46, "VariableLv": 1 }, { "BasicLv": 44, "VariableLv": 1 },
+        { "BasicLv": 46, "VariableLv": 1 }, { "BasicLv": 46, "VariableLv": 1 }, { "BasicLv": 44, "VariableLv": 1 }, { "BasicLv": 44, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴーリキー", "ゴローン", "チャーレム", "ゴルバット", "イワーク", "ハガネール", 
+        "ゴルバット", "ゴルバット", "ゴーリキー", "チャーレム", "ゴーリキー", "チャーレム"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

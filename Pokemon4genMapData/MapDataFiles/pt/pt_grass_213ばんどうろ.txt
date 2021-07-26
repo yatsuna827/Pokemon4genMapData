@@ -1,0 +1,32 @@
+
+{
+    "MapName": "213ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 },
+        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 },
+        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "カラナクシ", "ブイゼル", "ペラップ", "ペラップ", "キャモメ", "カラナクシ", 
+        "キャモメ", "キャモメ", "ブイゼル", "カラナクシ", "ブイゼル", "カラナクシ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "カラナクシ", "ブイゼル" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

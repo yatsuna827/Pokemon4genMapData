@@ -1,0 +1,29 @@
+
+{
+    "MapName": "シロガネやまどうくつ(1F-外壁)",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 51, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 51, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 },
+        { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 },
+        { "BasicLv": 51, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 51, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ゴルバット", "イワーク", "ゴルバット", "イワーク", "ヒメグマ", "ゴルバット", 
+        "リングマ", "リングマ", "ゴルダック", "ヨーギラス", "ゴルダック", "ヨーギラス"
+    ],
+    "DayTable": [
+        "ゴルバット", "イワーク", "ゴルバット", "イワーク", "ヒメグマ", "ゴルバット", 
+        "リングマ", "リングマ", "ゴルダック", "ヨーギラス", "ゴルダック", "ヨーギラス"
+    ],
+    "NightTable": [
+        "ゴルバット", "イワーク", "ゴルバット", "イワーク", "ヒメグマ", "ゴルバット", 
+        "リングマ", "リングマ", "ゴルダック", "ヨーギラス", "ゴルダック", "ヨーギラス"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "MapName": "223ばんすいどう",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 35, "VariableLv": 11 }, { "BasicLv": 35, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 },
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 35, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "ドククラゲ", "ペリッパー", "タマンタ", "タマンタ", "タマンタ"
+    ]
+}

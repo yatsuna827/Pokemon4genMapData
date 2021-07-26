@@ -1,0 +1,29 @@
+
+{
+    "MapName": "だんがいのどうくつ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ゴルバット", "イシツブテ", "クラブ", "キングラー", "ワンリキー", "イワーク", 
+        "ウパー", "ヌオー", "ゴローン", "ゴーリキー", "ハガネール", "ハガネール"
+    ],
+    "DayTable": [
+        "ゴルバット", "イシツブテ", "クラブ", "キングラー", "ワンリキー", "イワーク", 
+        "ウパー", "ヌオー", "ゴローン", "ゴーリキー", "ハガネール", "ハガネール"
+    ],
+    "NightTable": [
+        "ゴルバット", "イシツブテ", "クラブ", "キングラー", "ワンリキー", "イワーク", 
+        "ズバット", "ムウマ", "ゴルバット", "ゴーリキー", "ハガネール", "ハガネール"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "22ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 },
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "コラッタ", "オニスズメ", "コラッタ", "オニスズメ", "オニスズメ", "オニスズメ", 
+        "ドードー", "ドードー", "ポニータ", "オニドリル", "ポニータ", "オニドリル"
+    ],
+    "DayTable": [
+        "コラッタ", "オニスズメ", "コラッタ", "オニスズメ", "オニスズメ", "オニスズメ", 
+        "ドードー", "ドードー", "ポニータ", "オニドリル", "ポニータ", "オニドリル"
+    ],
+    "NightTable": [
+        "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", "コラッタ", 
+        "コラッタ", "コラッタ", "ポニータ", "コラッタ", "ポニータ", "コラッタ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

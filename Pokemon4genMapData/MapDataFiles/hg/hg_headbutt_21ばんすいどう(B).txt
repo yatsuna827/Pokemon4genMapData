@@ -1,0 +1,11 @@
+
+{
+    "MapName": "21ばんすいどう(B)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 27, "VariableLv": 4 }, { "BasicLv": 27, "VariableLv": 4 }, { "BasicLv": 27, "VariableLv": 4 },
+        { "BasicLv": 27, "VariableLv": 4 }, { "BasicLv": 27, "VariableLv": 4 }, { "BasicLv": 27, "VariableLv": 4 }
+    ],
+    "BasicTable": [ "ホーホー", "モンジャラ", "ホーホー", "ケムッソ", "ケムッソ", "ケムッソ" ],
+    "AltSlots": null
+}

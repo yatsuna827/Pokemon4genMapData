@@ -1,0 +1,32 @@
+
+{
+    "MapName": "205ばんどうろ(北東)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 11, "VariableLv": 1 }, { "BasicLv": 11, "VariableLv": 1 },
+        { "BasicLv": 11, "VariableLv": 1 }, { "BasicLv": 11, "VariableLv": 1 }, { "BasicLv": 11, "VariableLv": 1 }, { "BasicLv": 11, "VariableLv": 1 },
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ブイゼル", "ビッパ", "ブイゼル", "ビッパ", "カラナクシ", "ビッパ", 
+        "パチリス", "パチリス", "ブイゼル", "ビッパ", "ブイゼル", "ビッパ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

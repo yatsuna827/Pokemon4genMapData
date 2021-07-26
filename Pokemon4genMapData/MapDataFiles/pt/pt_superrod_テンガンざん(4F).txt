@@ -1,0 +1,12 @@
+
+{
+    "MapName": "テンガンざん(4F)",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 26 }, { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 31 },
+        { "BasicLv": 20, "VariableLv": 21 }, { "BasicLv": 35, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "ギャラドス", "ミニリュウ", "ナマズン", "ハクリュー", "ハクリュー"
+    ]
+}

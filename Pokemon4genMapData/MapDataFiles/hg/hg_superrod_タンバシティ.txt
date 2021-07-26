@@ -1,0 +1,13 @@
+
+{
+    "MapName": "タンバシティ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "クラブ", "サニーゴ", "クラブ", "キングラー", "クラブ" ],
+    "DayTable":     [ "クラブ", "サニーゴ", "クラブ", "キングラー", "クラブ" ],
+    "NightTable":   [ "クラブ", "ヒトデマン", "クラブ", "キングラー", "クラブ" ],
+    "AltSlots": { "Outbreak": null }
+}

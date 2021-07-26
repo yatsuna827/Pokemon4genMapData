@@ -1,0 +1,13 @@
+
+{
+    "MapName": "27ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "メノクラゲ", "メノクラゲ", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "DayTable":     [ "メノクラゲ", "メノクラゲ", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "NightTable":   [ "メノクラゲ", "メノクラゲ", "ドククラゲ", "ドククラゲ", "ドククラゲ" ],
+    "AltSlots": { "Outbreak": "ラブカス" }
+}

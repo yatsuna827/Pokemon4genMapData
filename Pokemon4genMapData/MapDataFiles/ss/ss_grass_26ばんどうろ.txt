@@ -1,0 +1,29 @@
+
+{
+    "MapName": "26ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 },
+        { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ドードー", "サンドパン", "ドードー", "サンドパン", "ポニータ", "ポニータ", 
+        "ドードー", "ドードー", "ラッタ", "ドードリオ", "ラッタ", "ドードリオ"
+    ],
+    "DayTable": [
+        "ドードー", "サンドパン", "ドードー", "サンドパン", "ポニータ", "ポニータ", 
+        "ドードー", "ドードー", "ラッタ", "ドードリオ", "ラッタ", "ドードリオ"
+    ],
+    "NightTable": [
+        "ラッタ", "サンドパン", "ラッタ", "サンドパン", "ポニータ", "ポニータ", 
+        "ラッタ", "ラッタ", "ヌオー", "ヌオー", "ヌオー", "ヌオー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

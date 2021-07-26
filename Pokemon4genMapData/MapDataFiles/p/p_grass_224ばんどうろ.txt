@@ -1,0 +1,32 @@
+
+{
+    "MapName": "224ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 },
+        { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "フローゼル", "トリトドン", "ペラップ", "ペラップ", "ロゼリア", "ロゼリア", 
+        "クサイハナ", "ウツドン", "ブイゼル", "アゲハント", "カラナクシ", "アゲハント"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "フローゼル", "トリトドン" ]
+        },
+        "Outbreak": [ "ネイティ", "ネイティ" ],
+        "PokeTracer": {
+            "Common": [ "サマヨール", "サマヨール" ],
+            "Rare": [ "ヨマワル", "ヨマワル" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "ツボツボ", "ツボツボ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

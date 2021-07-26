@@ -1,0 +1,29 @@
+
+{
+    "MapName": "ふたごじま(1F)",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 },
+        { "BasicLv": 30, "VariableLv": 1 }, { "BasicLv": 32, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 },
+        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ズバット", "ゴルバット", "コダック", "コダック", "ゴルバット", "ゴルダック", 
+        "ズバット", "ズバット", "コダック", "コダック", "コダック", "コダック"
+    ],
+    "DayTable": [
+        "ズバット", "ゴルバット", "コダック", "コダック", "ゴルバット", "ゴルダック", 
+        "ズバット", "ズバット", "コダック", "コダック", "コダック", "コダック"
+    ],
+    "NightTable": [
+        "ズバット", "ゴルバット", "コダック", "コダック", "ゴルバット", "ゴルダック", 
+        "ズバット", "ズバット", "コダック", "コダック", "コダック", "コダック"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

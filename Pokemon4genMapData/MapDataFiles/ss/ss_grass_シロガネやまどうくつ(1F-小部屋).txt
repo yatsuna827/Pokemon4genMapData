@@ -1,0 +1,29 @@
+
+{
+    "MapName": "シロガネやまどうくつ(1F-小部屋)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 46, "VariableLv": 1 },
+        { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 },
+        { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ヌオー", "ゴルダック", "ヌオー", "ゴマゾウ", "ドンファン", "ドンファン", 
+        "サナギラス", "ヌオー", "ゴルバット", "ヨーギラス", "ゴルバット", "ヨーギラス"
+    ],
+    "DayTable": [
+        "ヌオー", "ゴルダック", "ヌオー", "ゴマゾウ", "ドンファン", "ドンファン", 
+        "サナギラス", "ヌオー", "ゴルバット", "ヨーギラス", "ゴルバット", "ヨーギラス"
+    ],
+    "NightTable": [
+        "ムウマ", "ゴルダック", "ムウマ", "ゴマゾウ", "ドンファン", "ドンファン", 
+        "サナギラス", "ヌオー", "ゴルバット", "ヨーギラス", "ゴルバット", "ヨーギラス"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

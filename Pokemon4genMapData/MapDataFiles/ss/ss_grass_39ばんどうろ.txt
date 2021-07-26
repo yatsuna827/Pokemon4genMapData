@@ -1,0 +1,29 @@
+
+{
+    "MapName": "39ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "コラッタ", "ラッタ", "コラッタ", "ラッタ", "コイル", "コイル", 
+        "カモネギ", "カモネギ", "ミルタンク", "ケンタロス", "ミルタンク", "ケンタロス"
+    ],
+    "DayTable": [
+        "コラッタ", "ラッタ", "コラッタ", "ラッタ", "コイル", "コイル", 
+        "カモネギ", "カモネギ", "ミルタンク", "ケンタロス", "ミルタンク", "ケンタロス"
+    ],
+    "NightTable": [
+        "コラッタ", "ラッタ", "コラッタ", "ラッタ", "コイル", "コイル", 
+        "コラッタ", "コラッタ", "ミルタンク", "ケンタロス", "ミルタンク", "ケンタロス"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

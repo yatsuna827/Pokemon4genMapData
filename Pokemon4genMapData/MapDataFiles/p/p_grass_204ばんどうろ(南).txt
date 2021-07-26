@@ -1,0 +1,32 @@
+
+{
+    "MapName": "204ばんどうろ(南)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 },
+        { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムックル", "ビッパ", "スボミー", "コロボーシ", "スボミー", "コリンク", 
+        "スボミー", "コリンク", "ムックル", "ビッパ", "ムックル", "ビッパ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "スボミー", "ムックル" ],
+            "Night": [ "ズバット", "コロボーシ" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ラルトス", "ラルトス" ],
+            "Rare": [ "ラルトス", "キルリア" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "タネボー", "タネボー" ],
+            "Sapphire": [ "ハスボー", "ハスボー" ],
+            "Emerald": [ "クヌギダマ", "クヌギダマ" ],
+            "FireRed": [ "キャタピー", "キャタピー" ],
+            "LeafGreen": [ "ビードル", "ビードル" ]
+        }
+    }
+}

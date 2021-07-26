@@ -1,0 +1,29 @@
+
+{
+    "MapName": "くらやみのほらあな(北)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "イシツブテ", "ズバット", "イシツブテ", "ズバット", "ゴローン", "ゴローン", 
+        "ソーナンス", "ソーナンス", "ソーナンス", "ゴルバット", "ソーナンス", "ゴルバット"
+    ],
+    "DayTable": [
+        "イシツブテ", "ズバット", "イシツブテ", "ズバット", "ゴローン", "ゴローン", 
+        "ソーナンス", "ソーナンス", "ソーナンス", "ゴルバット", "ソーナンス", "ゴルバット"
+    ],
+    "NightTable": [
+        "イシツブテ", "ズバット", "イシツブテ", "ズバット", "ゴローン", "ゴローン", 
+        "ソーナンス", "ソーナンス", "ソーナンス", "ゴルバット", "ソーナンス", "ゴルバット"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

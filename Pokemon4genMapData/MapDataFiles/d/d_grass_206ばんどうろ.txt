@@ -1,0 +1,32 @@
+
+{
+    "MapName": "206ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ポニータ", "イシツブテ", "ポニータ", "コロボーシ", "イシツブテ", "コロトック", 
+        "ドーミラー", "ドーミラー", "ポニータ", "イシツブテ", "ポニータ", "イシツブテ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ポニータ", "ポニータ" ],
+            "Night": [ "ズバット", "コロトック" ]
+        },
+        "Outbreak": [ "ノズパス", "ノズパス" ],
+        "PokeTracer": {
+            "Common": [ "ヤジロン", "ヤジロン" ],
+            "Rare": [ "ヤジロン", "ヤジロン" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "グライガー", "グライガー" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

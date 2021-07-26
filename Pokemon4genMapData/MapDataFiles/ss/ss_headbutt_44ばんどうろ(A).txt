@@ -1,0 +1,11 @@
+
+{
+    "MapName": "44ばんどうろ(A)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 21, "VariableLv": 2 }, { "BasicLv": 21, "VariableLv": 2 }, { "BasicLv": 21, "VariableLv": 2 },
+        { "BasicLv": 21, "VariableLv": 2 }, { "BasicLv": 21, "VariableLv": 2 }, { "BasicLv": 21, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "オニスズメ", "ヘラクロス", "ヘラクロス", "エイパム", "エイパム", "エイパム" ],
+    "AltSlots": null
+}

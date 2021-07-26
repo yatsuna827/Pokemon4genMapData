@@ -1,0 +1,12 @@
+
+{
+    "MapName": "227ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 11 }, { "BasicLv": 20, "VariableLv": 11 }, { "BasicLv": 45, "VariableLv": 11 },
+        { "BasicLv": 45, "VariableLv": 11 }, { "BasicLv": 45, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "ニョロゾ", "ニョロモ", "ニョロゾ", "ニョロゾ", "ニョロゾ"
+    ]
+}

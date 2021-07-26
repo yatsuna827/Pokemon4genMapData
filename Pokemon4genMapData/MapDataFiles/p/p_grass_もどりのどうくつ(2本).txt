@@ -1,0 +1,32 @@
+
+{
+    "MapName": "もどりのどうくつ(2本)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 65, "VariableLv": 1 }, { "BasicLv": 66, "VariableLv": 1 }, { "BasicLv": 65, "VariableLv": 1 }, { "BasicLv": 66, "VariableLv": 1 },
+        { "BasicLv": 66, "VariableLv": 1 }, { "BasicLv": 65, "VariableLv": 1 }, { "BasicLv": 64, "VariableLv": 1 }, { "BasicLv": 64, "VariableLv": 1 },
+        { "BasicLv": 64, "VariableLv": 1 }, { "BasicLv": 66, "VariableLv": 1 }, { "BasicLv": 64, "VariableLv": 1 }, { "BasicLv": 66, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴルバット", "ドータクン", "ゴースト", "ゴルバット", "ゴースト", "ドータクン", 
+        "ゴースト", "ゴースト", "ドーミラー", "ドータクン", "ドーミラー", "ドータクン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ソルロック", "ソルロック" ],
+            "Sapphire": [ "ルナトーン", "ルナトーン" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

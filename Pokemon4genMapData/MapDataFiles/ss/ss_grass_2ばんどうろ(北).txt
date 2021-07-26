@@ -1,0 +1,29 @@
+
+{
+    "MapName": "2ばんどうろ(北)",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "キャタピー", "ポッポ", "キャタピー", "ポッポ", "トランセル", "トランセル", 
+        "バタフリー", "バタフリー", "ピジョン", "イトマル", "ピジョン", "キャタピー"
+    ],
+    "DayTable": [
+        "キャタピー", "ポッポ", "キャタピー", "ポッポ", "ポッポ", "ポッポ", 
+        "バタフリー", "バタフリー", "ピジョン", "ピジョン", "ピジョン", "キャタピー"
+    ],
+    "NightTable": [
+        "ホーホー", "イトマル", "ホーホー", "イトマル", "ホーホー", "ホーホー", 
+        "ヨルノズク", "ヨルノズク", "アリアドス", "ヨルノズク", "アリアドス", "イトマル"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

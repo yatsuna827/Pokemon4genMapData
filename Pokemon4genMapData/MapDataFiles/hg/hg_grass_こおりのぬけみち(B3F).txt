@@ -1,0 +1,29 @@
+
+{
+    "MapName": "こおりのぬけみち(B3F)",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ウリムー", "ゴルバット", "ウリムー", "ゴルバット", "デリバード", "デリバード", 
+        "ウリムー", "ウリムー", "ズバット", "ルージュラ", "ズバット", "ルージュラ"
+    ],
+    "DayTable": [
+        "ウリムー", "ゴルバット", "ウリムー", "ゴルバット", "デリバード", "デリバード", 
+        "ウリムー", "ウリムー", "ルージュラ", "ルージュラ", "ルージュラ", "ルージュラ"
+    ],
+    "NightTable": [
+        "ウリムー", "ゴルバット", "ウリムー", "ゴルバット", "デリバード", "デリバード", 
+        "ウリムー", "ウリムー", "ズバット", "ルージュラ", "ズバット", "ルージュラ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

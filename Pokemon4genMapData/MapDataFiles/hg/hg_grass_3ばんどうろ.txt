@@ -1,0 +1,29 @@
+
+{
+    "MapName": "3ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "オニスズメ", "コラッタ", "オニスズメ", "コラッタ", "アーボ", "アーボ", 
+        "プリン", "プリン", "アーボック", "オニスズメ", "アーボック", "オニスズメ"
+    ],
+    "DayTable": [
+        "オニスズメ", "コラッタ", "オニスズメ", "コラッタ", "アーボ", "アーボ", 
+        "プリン", "プリン", "アーボック", "オニスズメ", "アーボック", "オニスズメ"
+    ],
+    "NightTable": [
+        "コラッタ", "ズバット", "コラッタ", "ズバット", "アーボ", "アーボ", 
+        "プリン", "プリン", "アーボック", "コラッタ", "アーボック", "コラッタ"
+    ],
+    "AltSlots": {
+        "Outbreak": "ゴクリン",
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

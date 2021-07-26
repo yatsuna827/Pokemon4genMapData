@@ -1,0 +1,13 @@
+
+{
+    "MapName": "いかりのみずうみ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 5, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 },
+        { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "コイキング", "コイキング", "ギャラドス", "ギャラドス", "ギャラドス" ],
+    "DayTable":     [ "コイキング", "コイキング", "ギャラドス", "ギャラドス", "ギャラドス" ],
+    "NightTable":   [ "コイキング", "コイキング", "ギャラドス", "ギャラドス", "ギャラドス" ],
+    "AltSlots": { "Outbreak": null }
+}

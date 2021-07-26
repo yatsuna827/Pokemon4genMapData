@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ハードマウンテン",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 55, "VariableLv": 1 }, { "BasicLv": 55, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 },
+        { "BasicLv": 55, "VariableLv": 1 }, { "BasicLv": 55, "VariableLv": 1 }, { "BasicLv": 56, "VariableLv": 1 }, { "BasicLv": 56, "VariableLv": 1 },
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "バクーダ", "サイドン", "オニドリル", "ゴローン", "オニドリル", "マタドガス", 
+        "エアームド", "ゴローン", "ドンメル", "サイホーン", "ドンメル", "サイホーン"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ジュペッタ", "ゴルバット" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": [ "グライガー", "グライガー" ],
+            "FireRed": null,
+            "LeafGreen": [ "ブビィ", "ブビィ" ]
+        }
+    }
+}

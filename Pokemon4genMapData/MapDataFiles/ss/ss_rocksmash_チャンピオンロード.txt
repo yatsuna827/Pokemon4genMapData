@@ -1,0 +1,8 @@
+
+{
+    "MapName": "チャンピオンロード",
+    "BasicEncounterRate": 40,
+    "SlotProtoType": [ { "BasicLv": 24, "VariableLv": 9 }, { "BasicLv": 30, "VariableLv": 4 } ],
+    "BasicTable": [ "イシツブテ", "ゴローン" ],
+    "AltSlots": null
+}

@@ -1,0 +1,8 @@
+
+{
+    "MapName": "断崖の洞窟",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [ { "BasicLv": 20, "VariableLv": 7 }, { "BasicLv": 28, "VariableLv": 4 } ],
+    "BasicTable": [ "クラブ", "キングラー" ],
+    "AltSlots": null
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "201ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムックル", "ビッパ", "ムックル", "ビッパ", "ムックル", "ビッパ", 
+        "ムックル", "ビッパ", "ムックル", "ビッパ", "ムックル", "ビッパ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ビッパ", "ビッパ" ]
+        },
+        "Outbreak": [ "ドードー", "ドードー" ],
+        "PokeTracer": {
+            "Common": [ "ニドラン♀", "ニドラン♀" ],
+            "Rare": [ "ニドラン♂", "ニドラン♂" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": [ "ガーディ", "ガーディ" ],
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ワカバタウン",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "メノクラゲ", "チョンチー", "シェルダー", "チョンチー" ],
+    "DayTable":     [ "コイキング", "メノクラゲ", "チョンチー", "シェルダー", "チョンチー" ],
+    "NightTable":   [ "コイキング", "メノクラゲ", "チョンチー", "シェルダー", "チョンチー" ],
+    "AltSlots": { "Outbreak": null }
+}

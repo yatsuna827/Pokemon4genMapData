@@ -1,0 +1,13 @@
+
+{
+    "MapName": "44ばんどうろ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ニョロモ", "ニョロモ", "コイキング", "テッポウオ", "コイキング" ],
+    "DayTable":     [ "ニョロモ", "ニョロモ", "コイキング", "テッポウオ", "コイキング" ],
+    "NightTable":   [ "ニョロモ", "ニョロモ", "コイキング", "テッポウオ", "コイキング" ],
+    "AltSlots": { "Outbreak": "テッポウオ" }
+}

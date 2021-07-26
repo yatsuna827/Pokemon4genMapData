@@ -1,0 +1,8 @@
+
+{
+    "MapName": "19番水道",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [ { "BasicLv": 28, "VariableLv": 4 }, { "BasicLv": 24, "VariableLv": 4 } ],
+    "BasicTable": [ "キングラー", "クラブ" ],
+    "AltSlots": null
+}

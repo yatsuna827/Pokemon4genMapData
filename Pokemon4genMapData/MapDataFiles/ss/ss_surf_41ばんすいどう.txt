@@ -1,0 +1,13 @@
+
+{
+    "MapName": "41ばんすいどう",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "メノクラゲ", "ドククラゲ", "マンタイン", "マンタイン", "マンタイン" ],
+    "DayTable":     [ "メノクラゲ", "ドククラゲ", "マンタイン", "マンタイン", "マンタイン" ],
+    "NightTable":   [ "メノクラゲ", "ドククラゲ", "マンタイン", "マンタイン", "マンタイン" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "ディグダのあな",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 },
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 29, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ディグダ", "ディグダ", "ディグダ", "ディグダ", "ディグダ", "ディグダ", 
+        "ディグダ", "ディグダ", "ダグトリオ", "ダグトリオ", "ダグトリオ", "ダグトリオ"
+    ],
+    "DayTable": [
+        "ディグダ", "ディグダ", "ディグダ", "ディグダ", "ディグダ", "ディグダ", 
+        "ディグダ", "ディグダ", "ダグトリオ", "ダグトリオ", "ダグトリオ", "ダグトリオ"
+    ],
+    "NightTable": [
+        "ディグダ", "ディグダ", "ディグダ", "ディグダ", "ディグダ", "ディグダ", 
+        "ディグダ", "ディグダ", "ダグトリオ", "ダグトリオ", "ダグトリオ", "ダグトリオ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

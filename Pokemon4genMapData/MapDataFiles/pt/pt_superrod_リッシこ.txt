@@ -1,0 +1,12 @@
+
+{
+    "MapName": "リッシこ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 16 },
+        { "BasicLv": 40, "VariableLv": 16 }, { "BasicLv": 40, "VariableLv": 16 }
+    ],
+    "BasicTable": [
+        "ギャラドス", "アズマオウ", "ギャラドス", "アズマオウ", "アズマオウ"
+    ]
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "チャンピオンロード(B1F)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 41, "VariableLv": 1 }, { "BasicLv": 43, "VariableLv": 1 },
+        { "BasicLv": 42, "VariableLv": 1 }, { "BasicLv": 44, "VariableLv": 1 }, { "BasicLv": 44, "VariableLv": 1 }, { "BasicLv": 43, "VariableLv": 1 },
+        { "BasicLv": 44, "VariableLv": 1 }, { "BasicLv": 43, "VariableLv": 1 }, { "BasicLv": 44, "VariableLv": 1 }, { "BasicLv": 43, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "フローゼル", "マリルリ", "ゴローン", "マリルリ", "イワーク", "フローゼル", 
+        "ゴルバット", "ゴローン", "ハガネール", "ガバイト", "ハガネール", "ガバイト"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ゴルバット", "マリルリ" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

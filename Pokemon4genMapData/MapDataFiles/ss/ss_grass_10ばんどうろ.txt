@@ -1,0 +1,29 @@
+
+{
+    "MapName": "10ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 },
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "オニスズメ", "ビリリダマ", "オニスズメ", "ビリリダマ", "ラッタ", "ラッタ", 
+        "オニドリル", "オニドリル", "ラッタ", "エレブー", "ラッタ", "エレブー"
+    ],
+    "DayTable": [
+        "オニスズメ", "ビリリダマ", "オニスズメ", "ビリリダマ", "ラッタ", "ラッタ", 
+        "オニドリル", "オニドリル", "エレブー", "エレブー", "エレブー", "エレブー"
+    ],
+    "NightTable": [
+        "ヌオー", "ビリリダマ", "ヌオー", "ビリリダマ", "ラッタ", "ラッタ", 
+        "ヌオー", "ヌオー", "ラッタ", "エレブー", "ラッタ", "エレブー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

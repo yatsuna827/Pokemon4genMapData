@@ -1,0 +1,32 @@
+
+{
+    "MapName": "212ばんどうろ(南)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 },
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ウパー", "ビーダル", "ロゼリア", "ビーダル", "コロトック", "ロゼリア", 
+        "ロゼリア", "ウパー", "ビーダル", "ウパー", "ビーダル", "ウパー"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "コロトック", "コロトック" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ベトベター", "ベトベター" ],
+            "Rare": [ "ベトベター", "ベトベター" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": [ "ハスブレロ", "ハスボー" ],
+            "Emerald": null,
+            "FireRed": [ "アーボ", "アーボ" ],
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ふたごじま",
+    "BasicEncounterRate": 5,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 35, "VariableLv": 11 },
+        { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 35, "VariableLv": 11 }
+    ],
+    "MorningTable": [ "パウワウ", "タッツー", "ヤドラン", "ヤドラン", "ヤドラン" ],
+    "DayTable":     [ "パウワウ", "タッツー", "ヤドラン", "ヤドラン", "ヤドラン" ],
+    "NightTable":   [ "パウワウ", "タッツー", "ヤドラン", "ヤドラン", "ヤドラン" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,32 @@
+
+{
+    "MapName": "209ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 },
+        { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムックル", "ビーダル", "マネネ", "マネネ", "ビーダル", "ムクバード", 
+        "ビーダル", "ムクバード", "ラッキー", "マネネ", "ラッキー", "マネネ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ムクバード", "ビーダル" ],
+            "Night": [ "ゴース", "ズバット" ]
+        },
+        "Outbreak": [ "ブルー", "ブルー" ],
+        "PokeTracer": {
+            "Common": [ "ケンタロス", "ケンタロス" ],
+            "Rare": [ "ミルタンク", "ミルタンク" ]
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": [ "ロコン", "ロコン" ]
+        }
+    }
+}

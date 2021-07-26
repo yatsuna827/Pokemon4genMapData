@@ -1,0 +1,29 @@
+
+{
+    "MapName": "4ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 }, { "BasicLv": 6, "VariableLv": 1 },
+        { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "オニスズメ", "コラッタ", "オニスズメ", "コラッタ", "オニスズメ", "オニスズメ", 
+        "プリン", "プリン", "コラッタ", "オニスズメ", "コラッタ", "オニスズメ"
+    ],
+    "DayTable": [
+        "オニスズメ", "コラッタ", "オニスズメ", "コラッタ", "オニスズメ", "オニスズメ", 
+        "プリン", "プリン", "コラッタ", "オニスズメ", "コラッタ", "オニスズメ"
+    ],
+    "NightTable": [
+        "オニスズメ", "ズバット", "オニスズメ", "ズバット", "コラッタ", "コラッタ", 
+        "プリン", "プリン", "コラッタ", "コラッタ", "コラッタ", "コラッタ"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

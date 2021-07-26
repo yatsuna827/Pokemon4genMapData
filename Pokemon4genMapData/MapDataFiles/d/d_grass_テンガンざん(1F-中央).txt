@@ -1,0 +1,32 @@
+
+{
+    "MapName": "テンガンざん(1F-中央)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ワンリキー", "イシツブテ", "ピィ", "ピィ", "アサナン", "ズバット", 
+        "リーシャン", "リーシャン", "ワンリキー", "ピィ", "ワンリキー", "ピィ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "イシツブテ", "ズバット" ],
+            "Night": [ "イシツブテ", "ズバット" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

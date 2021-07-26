@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ハナダのどうくつ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ニョロモ", "ニョロゾ", "ギャラドス", "ギャラドス", "ギャラドス" ],
+    "DayTable":     [ "ニョロモ", "ニョロゾ", "ギャラドス", "ギャラドス", "ギャラドス" ],
+    "NightTable":   [ "ニョロモ", "ニョロモ", "ギャラドス", "ギャラドス", "ギャラドス" ],
+    "AltSlots": { "Outbreak": null }
+}

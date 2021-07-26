@@ -1,0 +1,29 @@
+
+{
+    "MapName": "36ばんどうろ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニドラン♀", "ニドラン♂", "ポッポ", "ポッポ", "ニドラン♀", "ニドラン♂", 
+        "ロコン", "ロコン", "オドシシ", "ポッポ", "オドシシ", "ポッポ"
+    ],
+    "DayTable": [
+        "ニドラン♀", "ニドラン♂", "ニドラン♀", "ニドラン♂", "ポッポ", "ポッポ", 
+        "ロコン", "ロコン", "オドシシ", "ロコン", "オドシシ", "ロコン"
+    ],
+    "NightTable": [
+        "ニドラン♀", "ニドラン♂", "ニドラン♀", "ニドラン♂", "ホーホー", "ホーホー", 
+        "ロコン", "ロコン", "オドシシ", "ホーホー", "オドシシ", "ホーホー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

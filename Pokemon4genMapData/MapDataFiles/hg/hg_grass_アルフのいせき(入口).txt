@@ -1,0 +1,29 @@
+
+{
+    "MapName": "アルフのいせき(入口)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", 
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン"
+    ],
+    "DayTable": [
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", 
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン"
+    ],
+    "NightTable": [
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", 
+        "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン", "アンノーン"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アンノーン", "アンノーン" ],
+            "Sinnoh": [ "アンノーン", "アンノーン" ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "MapName": "22ばんすいどう",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ニョロモ", "ニョロモ", "コイキング", "ニョロモ", "コイキング" ],
+    "DayTable":     [ "ニョロモ", "ニョロモ", "コイキング", "ニョロモ", "コイキング" ],
+    "NightTable":   [ "ニョロモ", "ニョロモ", "コイキング", "ニョロモ", "コイキング" ],
+    "AltSlots": { "Outbreak": null }
+}

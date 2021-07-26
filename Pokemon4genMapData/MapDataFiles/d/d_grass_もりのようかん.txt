@@ -1,0 +1,32 @@
+
+{
+    "MapName": "もりのようかん",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 },
+        { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 16, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴース", "ゴース", "ゴース", "ゴース", "ゴース", "ゴース", 
+        "ゴース", "ゴース", "ゴース", "ゴース", "ゴース", "ゴース"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ゴースト", "ゴースト" ],
+            "Sapphire": [ "ゴースト", "ゴースト" ],
+            "Emerald": [ "ゴースト", "ゴースト" ],
+            "FireRed": [ "ゴースト", "ゴースト" ],
+            "LeafGreen": [ "ゴースト", "ゴースト" ]
+        }
+    }
+}

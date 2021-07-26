@@ -1,0 +1,29 @@
+
+{
+    "MapName": "2ばんどうろ(北)",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 },
+        { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "レディバ", "ポッポ", "ビードル", "レディバ", "コクーン", "コクーン", 
+        "スピアー", "スピアー", "レディアン", "レディアン", "レディアン", "ビードル"
+    ],
+    "DayTable": [
+        "ビードル", "ポッポ", "ビードル", "ポッポ", "コクーン", "コクーン", 
+        "ポッポ", "ポッポ", "ピジョン", "レディバ", "ピジョン", "ビードル"
+    ],
+    "NightTable": [
+        "ホーホー", "ホーホー", "コクーン", "ホーホー", "ホーホー", "ビードル", 
+        "ヨルノズク", "ヨルノズク", "ヨルノズク", "スピアー", "コクーン", "ビードル"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

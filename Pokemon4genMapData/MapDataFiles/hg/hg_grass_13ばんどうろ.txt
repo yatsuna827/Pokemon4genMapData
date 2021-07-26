@@ -1,0 +1,29 @@
+
+{
+    "MapName": "13ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニドリーノ", "ニドリーナ", "ニドリーノ", "ニドリーナ", "ピジョン", "ピジョン", 
+        "ハネッコ", "ハネッコ", "ハネッコ", "ハネッコ", "ハネッコ", "ラッキー"
+    ],
+    "DayTable": [
+        "ニドリーノ", "ニドリーナ", "ニドリーノ", "ニドリーナ", "ピジョン", "ピジョン", 
+        "ハネッコ", "ハネッコ", "ハネッコ", "ハネッコ", "ハネッコ", "ラッキー"
+    ],
+    "NightTable": [
+        "ニドリーノ", "ニドリーナ", "ニドリーノ", "ニドリーナ", "ヨルノズク", "ヨルノズク", 
+        "ヌオー", "ヌオー", "ヌオー", "ヌオー", "ヌオー", "ラッキー"
+    ],
+    "AltSlots": {
+        "Outbreak": "ラッキー",
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

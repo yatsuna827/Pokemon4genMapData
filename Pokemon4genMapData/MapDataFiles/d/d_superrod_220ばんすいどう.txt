@@ -1,0 +1,12 @@
+
+{
+    "MapName": "220ばんすいどう",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 },
+        { "BasicLv": 20, "VariableLv": 26 }, { "BasicLv": 20, "VariableLv": 26 }
+    ],
+    "BasicTable": [
+        "ギャラドス", "チョンチー", "ネオラント", "ランターン", "ランターン"
+    ]
+}

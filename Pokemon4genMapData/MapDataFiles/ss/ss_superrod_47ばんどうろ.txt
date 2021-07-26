@@ -1,0 +1,13 @@
+
+{
+    "MapName": "47ばんどうろ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "チョンチー", "シェルダー", "ドククラゲ", "ランターン", "ドククラゲ" ],
+    "DayTable":     [ "チョンチー", "シェルダー", "ドククラゲ", "ランターン", "ドククラゲ" ],
+    "NightTable":   [ "チョンチー", "シェルダー", "ドククラゲ", "ランターン", "ドククラゲ" ],
+    "AltSlots": { "Outbreak": null }
+}

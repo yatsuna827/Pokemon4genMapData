@@ -1,0 +1,13 @@
+
+{
+    "MapName": "ふたごじま",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "コダック", "クラブ", "タッツー", "クラブ" ],
+    "DayTable":     [ "コイキング", "コダック", "クラブ", "タッツー", "クラブ" ],
+    "NightTable":   [ "コイキング", "コダック", "クラブ", "タッツー", "クラブ" ],
+    "AltSlots": { "Outbreak": null }
+}

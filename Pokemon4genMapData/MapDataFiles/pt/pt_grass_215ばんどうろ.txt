@@ -1,0 +1,32 @@
+
+{
+    "MapName": "215ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ムクバード", "マリル", "ストライク", "ムクバード", "ベロリンガ", "ケーシィ", 
+        "ストライク", "ユンゲラー", "マリル", "ユンゲラー", "マリル", "ユンゲラー"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ムクバード", "ムクバード" ],
+            "Night": [ "マリル", "マリル" ]
+        },
+        "Outbreak": [ "スリープ", "スリープ" ],
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "MapName": "うずまきじま(B2F)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "タッツー", "ドククラゲ", "シードラ", "シードラ", "シードラ" ],
+    "DayTable":     [ "タッツー", "ドククラゲ", "シードラ", "シードラ", "シードラ" ],
+    "NightTable":   [ "タッツー", "ドククラゲ", "シードラ", "シードラ", "シードラ" ],
+    "AltSlots": { "Outbreak": null }
+}

@@ -1,0 +1,29 @@
+
+{
+    "MapName": "9ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "マンキー", "コラッタ", "マンキー", "コラッタ", "オニスズメ", "オニスズメ", 
+        "ラッタ", "ラッタ", "オニドリル", "オコリザル", "オニドリル", "オコリザル"
+    ],
+    "DayTable": [
+        "マンキー", "コラッタ", "マンキー", "コラッタ", "オニスズメ", "オニスズメ", 
+        "ラッタ", "ラッタ", "オニドリル", "オコリザル", "オニドリル", "オコリザル"
+    ],
+    "NightTable": [
+        "マンキー", "コラッタ", "マンキー", "コラッタ", "ラッタ", "ラッタ", 
+        "コラッタ", "コラッタ", "ラッタ", "オコリザル", "ラッタ", "オコリザル"
+    ],
+    "AltSlots": {
+        "Outbreak": "ヤミラミ",
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

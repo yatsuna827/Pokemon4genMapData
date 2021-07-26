@@ -1,0 +1,12 @@
+
+{
+    "MapName": "ミオシティ",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [
+        { "BasicLv": 4, "VariableLv": 3 }, { "BasicLv": 3, "VariableLv": 5 }, { "BasicLv": 5, "VariableLv": 6 },
+        { "BasicLv": 5, "VariableLv": 6 }, { "BasicLv": 5, "VariableLv": 11 }
+    ],
+    "BasicTable": [
+        "コイキング", "コイキング", "コイキング", "コイキング", "コイキング"
+    ]
+}

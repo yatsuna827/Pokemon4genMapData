@@ -1,0 +1,13 @@
+
+{
+    "MapName": "35ばんどうろ",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 10, "VariableLv": 11 }, { "BasicLv": 15, "VariableLv": 11 },
+        { "BasicLv": 15, "VariableLv": 11 }, { "BasicLv": 31, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "DayTable":     [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "NightTable":   [ "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック" ],
+    "AltSlots": { "Outbreak": null }
+}

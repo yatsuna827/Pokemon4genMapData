@@ -1,0 +1,13 @@
+
+{
+    "MapName": "トージョウのたき",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "トサキント", "ヤドン", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "DayTable":     [ "トサキント", "ヤドン", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "NightTable":   [ "トサキント", "ヤドン", "アズマオウ", "アズマオウ", "アズマオウ" ],
+    "AltSlots": { "Outbreak": null }
+}

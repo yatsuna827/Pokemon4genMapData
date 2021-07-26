@@ -1,0 +1,32 @@
+
+{
+    "MapName": "チャンピオンロード(奥-出口)",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 },
+        { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 }, { "BasicLv": 49, "VariableLv": 1 },
+        { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ゴローン", "フローゼル", "ゴローン", "イワーク", "イワーク", "フローゼル", 
+        "ゴルバット", "フローゼル", "ハガネール", "ガバイト", "ハガネール", "ガバイト"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ゴルバット", "イワーク" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

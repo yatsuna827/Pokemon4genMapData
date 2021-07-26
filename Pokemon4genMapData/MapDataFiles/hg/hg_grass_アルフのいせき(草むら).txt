@@ -1,0 +1,29 @@
+
+{
+    "MapName": "アルフのいせき(草むら)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 },
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ネイティ", "ネイティ", "ネイティ", "ネイティ", "ネイティ", "ネイティ", 
+        "ネイティ", "ネイティ", "ドーブル", "ドーブル", "ドーブル", "ドーブル"
+    ],
+    "DayTable": [
+        "ネイティ", "ネイティ", "ネイティ", "ネイティ", "ネイティ", "ネイティ", 
+        "ネイティ", "ネイティ", "ドーブル", "ドーブル", "ドーブル", "ドーブル"
+    ],
+    "NightTable": [
+        "ネイティ", "ネイティ", "ネイティ", "ネイティ", "ネイティ", "ネイティ", 
+        "ネイティ", "ネイティ", "ドーブル", "ドーブル", "ドーブル", "ドーブル"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "ゴニョニョ", "マッスグマ" ],
+            "Sinnoh": [ "ブイゼル", "ビッパ" ]
+        }
+    }
+}

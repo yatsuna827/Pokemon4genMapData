@@ -1,0 +1,29 @@
+
+{
+    "MapName": "シロガネやまどうくつ(山頂付近)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 },
+        { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 47, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 }, { "BasicLv": 45, "VariableLv": 1 },
+        { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 48, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニューラ", "ゴルダック", "ヌオー", "ゴルダック", "リングマ", "リングマ", 
+        "ヌオー", "ヌオー", "ゴルバット", "ヨーギラス", "ゴルバット", "ヨーギラス"
+    ],
+    "DayTable": [
+        "ニューラ", "ゴルダック", "ヌオー", "ゴルダック", "リングマ", "リングマ", 
+        "ヌオー", "ヌオー", "ゴルバット", "ヨーギラス", "ゴルバット", "ヨーギラス"
+    ],
+    "NightTable": [
+        "ニューラ", "ゴルダック", "ヌオー", "ゴルダック", "リングマ", "リングマ", 
+        "ムウマ", "ムウマ", "ゴルバット", "ヨーギラス", "ゴルバット", "ヨーギラス"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "アブソル", "マクノシタ" ],
+            "Sinnoh": [ "ドーミラー", "リーシャン" ]
+        }
+    }
+}

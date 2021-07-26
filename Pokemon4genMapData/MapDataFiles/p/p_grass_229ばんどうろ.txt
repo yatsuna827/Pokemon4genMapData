@@ -1,0 +1,32 @@
+
+{
+    "MapName": "229ばんどうろ",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 51, "VariableLv": 1 }, { "BasicLv": 51, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 },
+        { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ウツドン", "クサイハナ", "レディアン", "レディアン", "イルミーゼ", "ロゼリア", 
+        "ストライク", "バルビート", "マダツボミ", "ナゾノクサ", "マダツボミ", "ナゾノクサ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": [ "ウツドン", "クサイハナ" ],
+            "Night": [ "アリアドス", "アリアドス" ]
+        },
+        "Outbreak": [ "ポッポ", "ポッポ" ],
+        "PokeTracer": {
+            "Common": [ "モルフォン", "モルフォン" ],
+            "Rare": [ "コンパン", "コンパン" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "コノハナ", "コノハナ" ],
+            "Sapphire": [ "ハスブレロ", "ハスブレロ" ],
+            "Emerald": [ "クヌギダマ", "クヌギダマ" ],
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

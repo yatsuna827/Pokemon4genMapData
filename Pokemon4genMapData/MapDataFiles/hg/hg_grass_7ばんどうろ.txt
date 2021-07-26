@@ -1,0 +1,29 @@
+
+{
+    "MapName": "7ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 }, { "BasicLv": 17, "VariableLv": 1 },
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 },
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニャース", "オニスズメ", "ニャース", "オニスズメ", "ロコン", "ロコン", 
+        "ラッタ", "ラッタ", "ペルシアン", "コラッタ", "ペルシアン", "コラッタ"
+    ],
+    "DayTable": [
+        "ニャース", "オニスズメ", "ニャース", "オニスズメ", "ロコン", "ロコン", 
+        "ラッタ", "ラッタ", "ペルシアン", "ロコン", "ペルシアン", "ロコン"
+    ],
+    "NightTable": [
+        "ニャース", "ヤミカラス", "ニャース", "ヤミカラス", "ロコン", "ロコン", 
+        "ラッタ", "ラッタ", "ペルシアン", "デルビル", "ペルシアン", "デルビル"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

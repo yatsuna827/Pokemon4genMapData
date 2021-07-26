@@ -1,0 +1,13 @@
+
+{
+    "MapName": "タマムシシティ",
+    "BasicEncounterRate": 15,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 },
+        { "BasicLv": 15, "VariableLv": 1 }, { "BasicLv": 15, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "ベトベター", "ベトベター", "ベトベトン", "ベトベトン", "ベトベトン" ],
+    "DayTable":     [ "ベトベター", "ベトベター", "ベトベトン", "ベトベトン", "ベトベトン" ],
+    "NightTable":   [ "ベトベター", "ベトベター", "ベトベトン", "ベトベトン", "ベトベトン" ],
+    "AltSlots": { "Outbreak": null }
+}

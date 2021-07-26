@@ -1,0 +1,12 @@
+
+{
+    "MapName": "221ばんどうろ",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 30, "VariableLv": 11 }, { "BasicLv": 40, "VariableLv": 16 },
+        { "BasicLv": 40, "VariableLv": 16 }, { "BasicLv": 40, "VariableLv": 16 }
+    ],
+    "BasicTable": [
+        "ギャラドス", "ネオラント", "ギャラドス", "ネオラント", "ネオラント"
+    ]
+}

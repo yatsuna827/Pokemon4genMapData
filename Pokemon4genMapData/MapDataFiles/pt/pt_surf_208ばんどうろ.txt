@@ -1,0 +1,12 @@
+
+{
+    "MapName": "208ばんどうろ",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 21 },
+        { "BasicLv": 20, "VariableLv": 21 }, { "BasicLv": 20, "VariableLv": 21 }
+    ],
+    "BasicTable": [
+        "コダック", "コダック", "ゴルダック", "ゴルダック", "ゴルダック"
+    ]
+}

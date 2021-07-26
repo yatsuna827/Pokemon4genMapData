@@ -1,0 +1,14 @@
+
+{
+    "MapName": "土曜日",
+    "BasicEncounterRate": 25,
+    "SlotProtoType": [ 
+        { "BasicLv": 27, "VariableLv": 2 }, { "BasicLv": 27, "VariableLv": 2 }, { "BasicLv": 27, "VariableLv": 8 }, { "BasicLv": 25, "VariableLv": 8 }, { "BasicLv": 27, "VariableLv": 4 },
+        { "BasicLv": 27, "VariableLv": 4 }, { "BasicLv": 26, "VariableLv": 11 }, { "BasicLv": 26, "VariableLv": 11 }, { "BasicLv": 24, "VariableLv": 13 }, { "BasicLv": 24, "VariableLv": 13 }
+    ],
+    "BasicTable": [ 
+        "カイロス", "ストライク", "ミツハニー", "アゲハント", "コロトック",
+        "コロボーシ", "イルミーゼ", "ツチニン", "マユルド", "ケムッソ"
+    ],
+    "AltSlots": null
+}

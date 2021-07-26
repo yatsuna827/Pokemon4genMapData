@@ -1,0 +1,32 @@
+
+{
+    "MapName": "ハードマウンテン(奥)",
+    "BasicEncounterRate": 10,
+    "SlotProtoType": [
+        { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 55, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 },
+        { "BasicLv": 55, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 }, { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 54, "VariableLv": 1 },
+        { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }, { "BasicLv": 53, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "マグカルゴ", "マグカルゴ", "ゴルバット", "ゴローン", "サイドン", "マタドガス", 
+        "マタドガス", "ゴローン", "マグマッグ", "ドガース", "マグマッグ", "ドガース"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": null
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": null,
+            "Rare": null
+        },
+        "DoubleSlot": {
+            "Ruby": null,
+            "Sapphire": null,
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

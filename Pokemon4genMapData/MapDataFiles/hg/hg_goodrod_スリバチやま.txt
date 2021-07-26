@@ -1,0 +1,13 @@
+
+{
+    "MapName": "スリバチやま",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
+    ],
+    "MorningTable": [ "コイキング", "トサキント", "トサキント", "トサキント", "トサキント" ],
+    "DayTable":     [ "コイキング", "トサキント", "トサキント", "トサキント", "トサキント" ],
+    "NightTable":   [ "コイキング", "トサキント", "トサキント", "トサキント", "トサキント" ],
+    "AltSlots": { "Outbreak": null }
+}

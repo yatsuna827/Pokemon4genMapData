@@ -1,0 +1,29 @@
+
+{
+    "MapName": "14ばんどうろ",
+    "BasicEncounterRate": 20,
+    "SlotProtoType": [
+        { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 },
+        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 },
+        { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 }
+    ],
+    "MorningTable": [
+        "ニドリーナ", "ニドリーノ", "ニドリーナ", "ニドリーノ", "ピジョン", "ピジョン", 
+        "ハネッコ", "ハネッコ", "ポポッコ", "ポポッコ", "ポポッコ", "ラッキー"
+    ],
+    "DayTable": [
+        "ニドリーナ", "ニドリーノ", "ニドリーナ", "ニドリーノ", "ピジョン", "ピジョン", 
+        "ハネッコ", "ハネッコ", "ポポッコ", "ポポッコ", "ポポッコ", "ラッキー"
+    ],
+    "NightTable": [
+        "ニドリーナ", "ニドリーノ", "ニドリーナ", "ニドリーノ", "ヨルノズク", "ヨルノズク", 
+        "ヌオー", "ヌオー", "ヌオー", "ヌオー", "ヌオー", "ラッキー"
+    ],
+    "AltSlots": {
+        "Outbreak": null,
+        "RadioSound": {
+            "Hoenn": [ "プラスル", "マイナン" ],
+            "Sinnoh": [ "コリンク", "コリンク" ]
+        }
+    }
+}

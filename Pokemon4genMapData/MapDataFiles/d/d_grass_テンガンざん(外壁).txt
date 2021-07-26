@@ -1,0 +1,32 @@
+
+{
+    "MapName": "テンガンざん(外壁)",
+    "BasicEncounterRate": 30,
+    "SlotProtoType": [
+        { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 },
+        { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 },
+        { "BasicLv": 39, "VariableLv": 1 }, { "BasicLv": 38, "VariableLv": 1 }, { "BasicLv": 40, "VariableLv": 1 }, { "BasicLv": 39, "VariableLv": 1 }
+    ],
+    "BasicTable": [
+        "ユキカブリ", "ユキノオー", "チャーレム", "ゴーリキー", "チャーレム", "ゴーリキー", 
+        "リーシャン", "リーシャン", "ドータクン", "ピッピ", "ドータクン", "ピッピ"
+    ],
+    "AltSlots": {
+        "TimeSlot": {
+            "Day": null,
+            "Night": [ "ゴルバット", "ヨルノズク" ]
+        },
+        "Outbreak": null,
+        "PokeTracer": {
+            "Common": [ "ドゴーム", "ドゴーム" ],
+            "Rare": [ "ドゴーム", "ドゴーム" ]
+        },
+        "DoubleSlot": {
+            "Ruby": [ "ソルロック", "ソルロック" ],
+            "Sapphire": [ "ルナトーン", "ルナトーン" ],
+            "Emerald": null,
+            "FireRed": null,
+            "LeafGreen": null
+        }
+    }
+}

@@ -1,0 +1,11 @@
+
+{
+    "MapName": "47ばんどうろ(固有)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 25, "VariableLv": 4 }, { "BasicLv": 25, "VariableLv": 4 }, { "BasicLv": 25, "VariableLv": 4 },
+        { "BasicLv": 25, "VariableLv": 4 }, { "BasicLv": 25, "VariableLv": 4 }, { "BasicLv": 27, "VariableLv": 4 }
+    ],
+    "BasicTable": [ "コクーン", "スピアー", "スピアー", "ヘラクロス", "ヘラクロス", "ヘラクロス" ],
+    "AltSlots": null
+}

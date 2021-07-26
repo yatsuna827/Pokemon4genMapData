@@ -1,0 +1,11 @@
+
+{
+    "MapName": "マサラタウン(B)",
+    "BasicEncounterRate": 100,
+    "SlotProtoType": [
+        { "BasicLv": 5, "VariableLv": 2 }, { "BasicLv": 5, "VariableLv": 2 }, { "BasicLv": 5, "VariableLv": 2 },
+        { "BasicLv": 5, "VariableLv": 2 }, { "BasicLv": 5, "VariableLv": 2 }, { "BasicLv": 5, "VariableLv": 2 }
+    ],
+    "BasicTable": [ "ホーホー", "イトマル", "イトマル", "ケムッソ", "ケムッソ", "ケムッソ" ],
+    "AltSlots": null
+}

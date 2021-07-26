@@ -1,0 +1,12 @@
+
+{
+    "MapName": "ノモセだいしつげん",
+    "BasicEncounterRate": 75,
+    "SlotProtoType": [
+        { "BasicLv": 30, "VariableLv": 26 }, { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 40, "VariableLv": 16 },
+        { "BasicLv": 15, "VariableLv": 16 }, { "BasicLv": 15, "VariableLv": 16 }
+    ],
+    "BasicTable": [
+        "ナマズン", "キバニア", "ギャラドス", "キバニア", "キバニア"
+    ]
+}
