@@ -5527,4 +5527,31 @@
   <data name="ss_surf_ワカバタウン" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\ss\ss_surf_ワカバタウン.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="d_goodrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\d\d_goodrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="d_oldrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\d\d_oldrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="d_superrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\d\d_superrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="pt_goodrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\pt\pt_goodrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="pt_oldrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\pt\pt_oldrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="pt_superrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\pt\pt_superrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="p_goodrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\p\p_goodrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="p_oldrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\p\p_oldrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="p_superrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\mapdatafiles\p\p_superrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
 </root>

@@ -1,0 +1,12 @@
+
+{
+    "MapName": "テンガンざん(B1F-ヒンバススポット)",
+    "BasicEncounterRate": 50,
+    "SlotProtoType": [
+        { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 15, "VariableLv": 6 }, { "BasicLv": 10, "VariableLv": 16 },
+        { "BasicLv": 10, "VariableLv": 16 }, { "BasicLv": 10, "VariableLv": 16 }
+    ],
+    "BasicTable": [
+        "コイキング", "ドジョッチ", "コイキング", "ドジョッチ", "ドジョッチ"
+    ]
+}
