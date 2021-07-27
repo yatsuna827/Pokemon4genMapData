@@ -162,26 +162,10 @@ namespace Pokemon4genMapData
         Toxicroak,  // ドクロッグ
     }
 
-    public enum DPHAIKAI
-    {
-        kyauun,
-        kyuuun,
-        kyouun,
-    }
-
-    public enum PtHAIKAI
-    {
-
-    }
-
     // ここからHGSS
     public enum RadioSound
     {
         None, HoennSound, SinnohSound
     }
 
-    public enum HGSSHAIKAI
-    {
-
-    }
 }
