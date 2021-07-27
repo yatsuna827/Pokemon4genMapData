@@ -798,6 +798,27 @@ namespace Pokemon4genMapData.Properties {
         /// <summary>
         ///   
         ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 50,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 },
+        ///        { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;コイキング&quot;, &quot;ドジョッチ&quot;, &quot;コイキング&quot;, &quot;ドジョッチ&quot;, &quot;ドジョッチ&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string d_goodrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("d_goodrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
         ///    &quot;MapName&quot;: &quot;ナギサシティ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 50,
         ///    &quot;SlotProtoType&quot;: [
@@ -3408,6 +3429,27 @@ namespace Pokemon4genMapData.Properties {
         /// <summary>
         ///   
         ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 25,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 3 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 5 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string d_oldrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("d_oldrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
         ///    &quot;MapName&quot;: &quot;ナギサシティ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
@@ -4368,6 +4410,27 @@ namespace Pokemon4genMapData.Properties {
         internal static string d_superrod_テンガンざん_B1F_ {
             get {
                 return ResourceManager.GetString("d_superrod_テンガンざん_B1F_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 75,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 11 }, { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 11 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 },
+        ///        { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 31 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 31 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;ギャラドス&quot;, &quot;ナマズン&quot;, &quot;ギャラドス&quot;, &quot;ナマズン&quot;, &quot;ナマズン&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string d_superrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("d_superrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
             }
         }
         
@@ -15165,6 +15228,27 @@ namespace Pokemon4genMapData.Properties {
         /// <summary>
         ///   
         ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 50,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 },
+        ///        { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;コイキング&quot;, &quot;ドジョッチ&quot;, &quot;コイキング&quot;, &quot;ドジョッチ&quot;, &quot;ドジョッチ&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string p_goodrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("p_goodrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
         ///    &quot;MapName&quot;: &quot;ナギサシティ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 50,
         ///    &quot;SlotProtoType&quot;: [
@@ -17775,6 +17859,27 @@ namespace Pokemon4genMapData.Properties {
         /// <summary>
         ///   
         ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 25,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 3 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 5 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string p_oldrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("p_oldrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
         ///    &quot;MapName&quot;: &quot;ナギサシティ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
@@ -18735,6 +18840,27 @@ namespace Pokemon4genMapData.Properties {
         internal static string p_superrod_テンガンざん_B1F_ {
             get {
                 return ResourceManager.GetString("p_superrod_テンガンざん_B1F_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 75,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 11 }, { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 11 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 },
+        ///        { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 31 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 31 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;ギャラドス&quot;, &quot;ナマズン&quot;, &quot;ギャラドス&quot;, &quot;ナマズン&quot;, &quot;ナマズン&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string p_superrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("p_superrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
             }
         }
         
@@ -20604,6 +20730,27 @@ namespace Pokemon4genMapData.Properties {
         internal static string pt_goodrod_テンガンざん {
             get {
                 return ResourceManager.GetString("pt_goodrod_テンガンざん", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 50,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 },
+        ///        { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 16 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;コイキング&quot;, &quot;ドジョッチ&quot;, &quot;コイキング&quot;, &quot;ドジョッチ&quot;, &quot;ドジョッチ&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string pt_goodrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("pt_goodrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
             }
         }
         
@@ -23341,6 +23488,27 @@ namespace Pokemon4genMapData.Properties {
         /// <summary>
         ///   
         ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 25,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 4 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 4 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 6 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 11 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;, &quot;コイキング&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string pt_oldrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("pt_oldrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
         ///    &quot;MapName&quot;: &quot;ナギサシティ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
@@ -24301,6 +24469,27 @@ namespace Pokemon4genMapData.Properties {
         internal static string pt_superrod_テンガンざん_B1F_ {
             get {
                 return ResourceManager.GetString("pt_superrod_テンガンざん_B1F_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   
+        ///{
+        ///    &quot;MapName&quot;: &quot;テンガンざん(B1F-ヒンバススポット)&quot;,
+        ///    &quot;BasicEncounterRate&quot;: 75,
+        ///    &quot;SlotProtoType&quot;: [
+        ///        { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 26 }, { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 11 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 36 },
+        ///        { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }
+        ///    ],
+        ///    &quot;BasicTable&quot;: [
+        ///        &quot;ギャラドス&quot;, &quot;ナマズン&quot;, &quot;ギャラドス&quot;, &quot;ナマズン&quot;, &quot;ナマズン&quot;
+        ///    ]
+        ///}
+        /// に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string pt_superrod_テンガンざん_B1F_ヒンバススポット_ {
+            get {
+                return ResourceManager.GetString("pt_superrod_テンガンざん_B1F_ヒンバススポット_", resourceCulture);
             }
         }
         
