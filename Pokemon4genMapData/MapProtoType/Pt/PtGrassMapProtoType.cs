@@ -83,27 +83,6 @@ namespace Pokemon4genMapData
 
     class PtTrophyGardenProtoType : PtGrassMapProtoType
     {
-        private static readonly string[] boastedPokemons = new string[]
-        {
-            "",
-            "イーブイ",
-            "ウソハチ",
-            "ピンプク",
-            "ニャース",
-            "ピィ",
-            "ピッピ",
-            "ププリン",
-            "プラスル",
-            "プリン",
-            "メタモン",
-            "ポワルン",
-            "マイナン",
-            "マネネ",
-            "マリル",
-            "ラッキー",
-            "ルリリ"
-        };
-
         protected override string[] ResolveAlternatingSlots(DecodedDPtMapData<WrappedGrass> mapData, PtQueryArgs args)
         {
             var t = base.ResolveAlternatingSlots(mapData, args);
@@ -112,9 +91,9 @@ namespace Pokemon4genMapData
             {
                 var (today, yesterday) = args.BoastedPokemon;
                 if (today != PtBoastedPokemon.None && System.Enum.IsDefined(typeof(PtBoastedPokemon), today))
-                    t[6] = boastedPokemons[(int)today];
+                    t[6] = today.ToJapanese();
                 if (yesterday != PtBoastedPokemon.None && System.Enum.IsDefined(typeof(PtBoastedPokemon), yesterday))
-                    t[7] = boastedPokemons[(int)yesterday];
+                    t[7] = yesterday.ToJapanese();
             }
 
             return t;
@@ -125,7 +104,19 @@ namespace Pokemon4genMapData
 
     class PtGreatMarshProtoType : PtGrassMapProtoType
     {
+        protected override string[] ResolveAlternatingSlots(DecodedDPtMapData<WrappedGrass> mapData, PtQueryArgs args)
+        {
+            var t = base.ResolveAlternatingSlots(mapData, args);
 
+            if (args != null)
+            {
+                var dairy = args.MarshDairyPokemon;
+                if (dairy != PtMarshDairyPokemon.None && System.Enum.IsDefined(typeof(PtMarshDairyPokemon), dairy))
+                    (t[6], t[7]) = (dairy.ToJapanese(), dairy.ToJapanese());
+            }
+
+            return t;
+        }
         public PtGreatMarshProtoType(string mapData) : base(mapData) { }
     }
 }

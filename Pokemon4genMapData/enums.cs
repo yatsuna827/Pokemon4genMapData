@@ -96,26 +96,29 @@ namespace Pokemon4genMapData
     }
     public enum DPMarshDairyPokemon
     {
-        ゴルダック,
-        ロゼリア,
-        ムクバード,
-        スコルピ,
-        グレッグル,
-        マスキッパ,
-        マリル,
-        ウパー,
-        ヌオー,
-        ルリリ,
-        ビッパ,
-        ビーダル,
-        パラス,
-        タマタマ,
-        ガルーラ,
-        ヤンヤンマ,
-        キノココ,
-        ゴクリン,
-        ドラピオン,
-        ドクロッグ
+        None,
+        Golduck,    //ゴルダック,
+        Roselia,    //ロゼリア,
+        Staravia,   //ムクバード,
+        Skorupi,    //スコルピ,
+        Croagunk,   //グレッグル,
+        Carnivine,  //マスキッパ,
+
+        Marill,     //マリル,
+        Wooper,     //ウパー,
+        Quagsire,   //ヌオー,
+        Azurill,    //ルリリ,
+        Bidoof,     //ビッパ,
+        Bibarel,    //ビーダル,
+
+        Paras,      //パラス,
+        Exeggcute,  //タマタマ,
+        Kangaskhan, //ガルーラ,
+        Yanma,      //ヤンヤンマ,
+        Shroomish,  //キノココ,
+        Gulpin,     //ゴクリン,
+        Drapion,    //ドラピオン,
+        Toxicroak,  //ドクロッグ
     }
     public enum PtBoastedPokemon
     {
@@ -139,7 +142,24 @@ namespace Pokemon4genMapData
     }
     public enum PtMarshDairyPokemon
     {
+        None,
+        Golduck,    // ゴルダック,
+        Tangela,    // モンジャラ,
+        Yanma,      // ヤンヤンマ,
+        Quagsire,   // ヌオー,
+        Tropius,    // トロピウス,
+        Skorupi,    // スコルピ,
+        Croagunk,   // グレッグル,
+        Carnivine,  // マスキッパ,
 
+        Paras,      // パラス,
+        Exeggcute,  // タマタマ,
+        Kangaskhan, // ガルーラ,
+        Shroomish,  // キノココ,
+        Gulpin,     // ゴクリン,
+        Kecleon,    // カクレオン,
+        Drapion,    // ドラピオン,
+        Toxicroak,  // ドクロッグ
     }
 
     public enum DPHAIKAI
