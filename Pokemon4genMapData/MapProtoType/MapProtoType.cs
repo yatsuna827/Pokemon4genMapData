@@ -45,7 +45,6 @@ namespace Pokemon4genMapData
         // スロット入替込みのテーブルを返す.
         protected abstract Slot[] BuildTable(TDecodedMap mapData, TArg args);
 
-
         // オプションスロット(スロット決定より前に判定が入る固有スロット)の解決.
         protected abstract Slot[] ResolveOptionalSlots(TDecodedMap mapData, TArg args);
 
