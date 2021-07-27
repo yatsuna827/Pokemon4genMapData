@@ -57,6 +57,121 @@ namespace Pokemon4genMapData
             }
         }
 
+        private static readonly string[] dpBoasted = new string[]
+        {
+            "",
+            "イーブイ",
+            "ウソハチ",
+            "ピンプク",
+            "ニャース",
+            "ピィ",
+            "ピッピ",
+            "ププリン",
+            "プラスル",
+            "プリン",
+            "ポリゴン",
+            "ポワルン",
+            "マイナン",
+            "マネネ",
+            "マリル",
+            "ラッキー",
+            "ルリリ"
+        };
+        public static string ToJapanese(this DPBoastedPokemon pokemon)
+        {
+            if (!Enum.IsDefined(typeof(DPBoastedPokemon), pokemon))
+                throw new ArgumentException("不正な引数です");
+
+            return dpBoasted[(int)pokemon];
+        }
+
+        private static readonly string[] ptBoasted = new string[]
+        {
+            "",
+            "イーブイ",
+            "ウソハチ",
+            "ピンプク",
+            "ニャース",
+            "ピィ",
+            "ピッピ",
+            "ププリン",
+            "プラスル",
+            "プリン",
+            "メタモン",
+            "ポワルン",
+            "マイナン",
+            "マネネ",
+            "マリル",
+            "ラッキー",
+            "ルリリ"
+        };
+        public static string ToJapanese(this PtBoastedPokemon pokemon)
+        {
+            if (!Enum.IsDefined(typeof(PtBoastedPokemon), pokemon))
+                throw new ArgumentException("不正な引数です");
+
+            return ptBoasted[(int)pokemon];
+        }
+
+        private static readonly string[] dpMarsh = new string[]
+        {
+            "",
+            "ゴルダック",
+            "ロゼリア",
+            "ムクバード",
+            "スコルピ",
+            "グレッグル",
+            "マスキッパ",
+            "マリル",
+            "ウパー",
+            "ヌオー",
+            "ルリリ",
+            "ビッパ",
+            "ビーダル",
+            "パラス",
+            "タマタマ",
+            "ガルーラ",
+            "ヤンヤンマ",
+            "キノココ",
+            "ゴクリン",
+            "ドラピオン",
+            "ドクロッグ",
+        };
+        public static string ToJapanese(this DPMarshDairyPokemon pokemon)
+        {
+            if (!Enum.IsDefined(typeof(DPMarshDairyPokemon), pokemon))
+                throw new ArgumentException("不正な引数です");
+
+            return dpMarsh[(int)pokemon];
+        }
+
+        private static readonly string[] ptMarsh = new string[]
+        {
+            "ゴルダック",
+            "モンジャラ",
+            "ヤンヤンマ",
+            "ヌオー",
+            "トロピウス",
+            "スコルピ",
+            "グレッグル",
+            "マスキッパ",
+
+            "パラス",
+            "タマタマ",
+            "ガルーラ",
+            "キノココ",
+            "ゴクリン",
+            "カクレオン",
+            "ドラピオン",
+            "ドクロッグ",
+        };
+        public static string ToJapanese(this PtMarshDairyPokemon pokemon)
+        {
+            if (!Enum.IsDefined(typeof(PtMarshDairyPokemon), pokemon))
+                throw new ArgumentException("不正な引数です");
+
+            return ptMarsh[(int)pokemon];
+        }
 
     }
 }

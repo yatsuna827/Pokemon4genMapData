@@ -83,27 +83,6 @@ namespace Pokemon4genMapData
 
     class DPTrophyGardenProtoType : DPGrassMapProtoType
     {
-        private static readonly string[] boastedPokemons = new string[]
-        {
-            "",
-            "イーブイ",
-            "ウソハチ",
-            "ピンプク",
-            "ニャース",
-            "ピィ",
-            "ピッピ",
-            "ププリン",
-            "プラスル",
-            "プリン",
-            "メタモン",
-            "ポワルン",
-            "マイナン",
-            "マネネ",
-            "マリル",
-            "ラッキー",
-            "ルリリ"
-        };
-
         protected override string[] ResolveAlternatingSlots(DecodedDPtMapData<WrappedGrass> mapData, DPQueryArgs args)
         {
             var t = base.ResolveAlternatingSlots(mapData, args);
@@ -112,9 +91,9 @@ namespace Pokemon4genMapData
             {
                 var (today, yesterday) = args.BoastedPokemon;
                 if (today != DPBoastedPokemon.None && System.Enum.IsDefined(typeof(DPBoastedPokemon), today))
-                    t[6] = boastedPokemons[(int)today];
+                    t[6] = today.ToJapanese();
                 if (yesterday != DPBoastedPokemon.None && System.Enum.IsDefined(typeof(DPBoastedPokemon), yesterday))
-                    t[7] = boastedPokemons[(int)yesterday];
+                    t[7] = yesterday.ToJapanese();
             }
 
             return t;
@@ -125,6 +104,19 @@ namespace Pokemon4genMapData
 
     class DPGreatMarshProtoType : DPGrassMapProtoType
     {
+        protected override string[] ResolveAlternatingSlots(DecodedDPtMapData<WrappedGrass> mapData, DPQueryArgs args)
+        {
+            var t = base.ResolveAlternatingSlots(mapData, args);
+
+            if (args != null)
+            {
+                var dairy = args.MarshDairyPokemon;
+                if (dairy != DPMarshDairyPokemon.None && System.Enum.IsDefined(typeof(DPMarshDairyPokemon), dairy))
+                    (t[6], t[7]) = (dairy.ToJapanese(), dairy.ToJapanese());
+            }
+
+            return t;
+        }
 
         public DPGreatMarshProtoType(string mapData) : base(mapData) { }
     }
