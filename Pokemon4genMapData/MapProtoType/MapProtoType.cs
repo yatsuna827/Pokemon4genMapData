@@ -5,13 +5,27 @@ using System.Text;
 namespace Pokemon4genMapData
 {
     // JSONデータと外部に渡すデータの橋渡しをするクラス.
-    abstract class MapProtoType<TVersion, TArg, TDecodedMap, TAltSlots> : IBuildable<TVersion, TArg>
+    abstract class MapProtoType<TVersion, TEncType, TArg, TDecodedMap, TAltSlots> : IBuildable<TVersion, TArg>
         where TVersion : IWrappedGameVersion
+        where TEncType : IWrappedEncounterType<TVersion>
         where TArg : IQueryArgs<TVersion>
-        where TDecodedMap : DecodedMapData<TVersion, TAltSlots>
+        where TDecodedMap : DecodedMapData<TVersion, TEncType, TAltSlots>
         where TAltSlots : IAltSlots<TVersion>
     {
-        public abstract MapData BuildMapData(TArg args);
+        public MapData BuildMapData(TArg args)
+        {
+            if (decodedMapData == null)
+                decodedMapData = DecodeMap(rawMapData);
+
+            return new MapData()
+            {
+                MapName = decodedMapData.MapName,
+                BasicEncounterRate = decodedMapData.BasicRate,
+                Type = mapType,
+                EncounterTable = BuildTable(decodedMapData, args),
+                OptionalSlots = ResolveOptionalSlots(decodedMapData, args),
+            };
+        }
 
         // コンストラクタから渡されたJSONデータ
         protected readonly string rawMapData;
@@ -30,6 +44,7 @@ namespace Pokemon4genMapData
 
         // スロット入替込みのテーブルを返す.
         protected abstract Slot[] BuildTable(TDecodedMap mapData, TArg args);
+
 
         // オプションスロット(スロット決定より前に判定が入る固有スロット)の解決.
         protected abstract Slot[] ResolveOptionalSlots(TDecodedMap mapData, TArg args);
