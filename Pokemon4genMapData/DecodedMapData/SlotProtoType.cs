@@ -1,6 +1,4 @@
-﻿using PokemonStandardLibrary.PokeDex.Gen4;
-
-namespace Pokemon4genMapData
+﻿namespace Pokemon4genMapData
 {
     class SlotProtoType
     {
@@ -11,7 +9,7 @@ namespace Pokemon4genMapData
         {
             return new Slot()
             {
-                Pokemon = Pokemon.GetPokemon(pokemon),
+                Pokemon = pokemon,
                 BasicLv = basicLv,
                 VariableLv = variableLv,
                 MaxLv = basicLv + variableLv - 1,
@@ -22,7 +20,7 @@ namespace Pokemon4genMapData
         {
             return new Slot()
             {
-                Pokemon = Pokemon.GetPokemon(pokemon),
+                Pokemon = pokemon,
                 BasicLv = basicLv,
                 VariableLv = variableLv,
                 MaxLv = maxLv,
