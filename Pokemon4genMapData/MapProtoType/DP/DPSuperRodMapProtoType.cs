@@ -1,5 +1,4 @@
 ﻿using System.Linq;
-using PokemonStandardLibrary.PokeDex.Gen4;
 
 namespace Pokemon4genMapData
 {
@@ -28,7 +27,7 @@ namespace Pokemon4genMapData
     class DPSuperRodFeebasMapProtoType : DPSuperRodMapProtoType
     {
         private static Slot GetFeebasSlot()
-            => new Slot() { Pokemon = Pokemon.GetPokemon("ヒンバス"), BasicLv = 10, VariableLv = 11, MaxLv = 20 };
+            => new Slot() { Pokemon = "ヒンバス", BasicLv = 10, VariableLv = 11, MaxLv = 20 };
         protected override Slot[] ResolveOptionalSlots(DecodedDPtMapData<WrappedSuperRod> mapData, DPQueryArgs args)
             => new Slot[1] { GetFeebasSlot() };
 

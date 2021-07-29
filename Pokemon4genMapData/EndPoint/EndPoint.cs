@@ -1,18 +1,18 @@
 ﻿using System.Linq ;
 using System.Collections.Generic;
-using PokemonStandardLibrary.PokeDex.Gen4;
 
 namespace Pokemon4genMapData
 {
     // 返す用のクラス.
-    public class Slot
+    public class Slot<T>
     {
-        public Pokemon.Species Pokemon { get; internal set; }
+        public T Pokemon { get; internal set; }
         public uint BasicLv { get; internal set; }
         public uint VariableLv { get; internal set; }
         public uint MaxLv { get; internal set; }
         public uint Probability { get; internal set; }
     }
+    public class Slot : Slot<string> { }
     
     // 返す用のクラス.
     public class MapData
