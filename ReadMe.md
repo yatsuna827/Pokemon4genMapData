@@ -10,7 +10,6 @@
 .NET Standard 2.0
 
 # 依存
-- [PokemonStandardLibrary](https://github.com/yatsuna827/PokemonStandardLibrary) v1.0.0
 - [Json.NET](https://www.nuget.org/packages/Newtonsoft.Json/) v13.0.1
 
 # Author
