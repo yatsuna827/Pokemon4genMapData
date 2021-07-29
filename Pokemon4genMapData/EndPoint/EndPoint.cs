@@ -1,4 +1,5 @@
-﻿using System.Linq ;
+﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Pokemon4genMapData
@@ -12,7 +13,20 @@ namespace Pokemon4genMapData
         public uint MaxLv { get; internal set; }
         public uint Probability { get; internal set; }
     }
-    public class Slot : Slot<string> { }
+    public class Slot : Slot<string>
+    {
+        public Slot<T> Convert<T>(Func<string, T> converter)
+        {
+            return new Slot<T>()
+            {
+                Pokemon = converter(Pokemon),
+                BasicLv = BasicLv,
+                VariableLv = VariableLv,
+                MaxLv = MaxLv,
+                Probability = Probability,
+            };
+        }
+    }
     
     // 返す用のクラス.
     public class MapData
