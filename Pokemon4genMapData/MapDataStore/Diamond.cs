@@ -6,7 +6,7 @@ namespace Pokemon4genMapData
     // ToDo 元データの分割(ダンジョンを通じて同じテーブルでもフロアごとに分ける)
     static partial class MapDataStore
     {
-        public readonly static Dictionary<string, IBuildable<WrappedDPt, DPQueryArgs>> diamondMapDataStore = new Dictionary<string, IBuildable<WrappedDPt, DPQueryArgs>>()
+        public readonly static Dictionary<string, IBuildable<IWrappedDiamond, DPQueryArgs>> diamondMapDataStore = new Dictionary<string, IBuildable<IWrappedDiamond, DPQueryArgs>>()
         {
             #region Grass
             { "d_grass_201ばんどうろ", new DPGrassMapProtoType(d_grass_201ばんどうろ) },

@@ -7,7 +7,7 @@ namespace Pokemon4genMapData
 {
     static partial class MapDataStore
     {
-        public static Dictionary<string, IBuildable<WrappedDPt, PtQueryArgs>> platinumMapDataStore = new Dictionary<string, IBuildable<WrappedDPt, PtQueryArgs>>()
+        public static Dictionary<string, IBuildable<IWrappedPlatinum, PtQueryArgs>> platinumMapDataStore = new Dictionary<string, IBuildable<IWrappedPlatinum, PtQueryArgs>>()
         {
             #region Grass
             { "pt_grass_201ばんどうろ", new PtGrassMapProtoType(pt_grass_201ばんどうろ) },

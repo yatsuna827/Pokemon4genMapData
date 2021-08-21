@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    class DPtAltSlots : IAltSlots<WrappedDPt>
+    class DPtAltSlots : IAltSlots<IWrappedDPt>
     {
         public TimeSlotAltSlots TimeSlot = new TimeSlotAltSlots();
         public (string Alt1, string Alt2)? Outbreak;

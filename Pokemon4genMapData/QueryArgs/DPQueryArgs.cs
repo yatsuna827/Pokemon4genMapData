@@ -1,6 +1,6 @@
 ﻿namespace Pokemon4genMapData
 {
-    public class DPQueryArgs : IQueryArgs<WrappedDPt>
+    public class DPQueryArgs : IQueryArgs<IWrappedDP>
     {
         public TimeSlot TimeSlot { get; set; }
         public bool Outbreak { get; set; }

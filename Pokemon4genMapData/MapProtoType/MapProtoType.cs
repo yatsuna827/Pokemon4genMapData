@@ -5,19 +5,30 @@ using System.Text;
 namespace Pokemon4genMapData
 {
     // JSONデータと外部に渡すデータの橋渡しをするクラス.
-    abstract class MapProtoType<TVersion, TEncType, TArg, TDecodedMap, TAltSlots> : IBuildable<TVersion, TArg>
+    interface IMapProtoType<in TVersion, in TEncType, in TArg, out TDecodedMap, out TAltSlots> : IBuildable<TVersion, TArg>
         where TVersion : IWrappedGameVersion
         where TEncType : IWrappedEncounterType<TVersion>
         where TArg : IQueryArgs<TVersion>
-        where TDecodedMap : DecodedMapData<TVersion, TEncType, TAltSlots>
+        where TDecodedMap : IDecodedMapData<TVersion, TEncType, TAltSlots>
         where TAltSlots : IAltSlots<TVersion>
     {
-        public MapData BuildMapData(TArg args)
+
+    }
+
+    abstract class MapProtoType<TVersion, TEncType, TArg, TDecodedMap, TAltSlots> 
+        : IMapProtoType<TVersion, TEncType, TArg, TDecodedMap, TAltSlots>
+        where TVersion : IWrappedGameVersion
+        where TEncType : IWrappedEncounterType<TVersion>
+        where TArg : IQueryArgs<TVersion>
+        where TDecodedMap : IDecodedMapData<TVersion, TEncType, TAltSlots>
+        where TAltSlots : IAltSlots<TVersion>
+    {
+        public IMapData<TVersion> BuildMapData(TArg args)
         {
             if (decodedMapData == null)
                 decodedMapData = DecodeMap(rawMapData);
 
-            return new MapData()
+            return new MapData<TVersion>()
             {
                 MapName = decodedMapData.MapName,
                 BasicEncounterRate = decodedMapData.BasicRate,

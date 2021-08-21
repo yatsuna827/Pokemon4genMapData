@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    class HGSSAltSlots : IAltSlots<WrappedHGSS>
+    class HGSSAltSlots : IAltSlots<IWrappedHGSS>
     {
         public string Outbreak;
         public RadioSoundAltSlots RadioSound = new RadioSoundAltSlots();
