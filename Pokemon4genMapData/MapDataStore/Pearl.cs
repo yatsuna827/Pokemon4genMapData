@@ -5,7 +5,7 @@ namespace Pokemon4genMapData
 {
     static partial class MapDataStore
     {
-        public static Dictionary<string, IBuildable<WrappedDPt, DPQueryArgs>> pearlMapDataStore = new Dictionary<string, IBuildable<WrappedDPt, DPQueryArgs>>()
+        public static Dictionary<string, IBuildable<IWrappedPearl, DPQueryArgs>> pearlMapDataStore = new Dictionary<string, IBuildable<IWrappedPearl, DPQueryArgs>>()
         {
             #region Grass
             { "p_grass_201ばんどうろ", new DPGrassMapProtoType(d_grass_201ばんどうろ) },

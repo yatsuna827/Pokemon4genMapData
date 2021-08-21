@@ -4,41 +4,41 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    interface IWrappedEncounterType<TVersion> : IEnumWapper<EncounterType>
+    public interface IWrappedEncounterType<in TVersion> : IEnumWapper<EncounterType>
         where TVersion : IWrappedGameVersion
     {
 
     }
 
-    struct WrappedGrass : IWrappedEncounterType<WrappedDPt>, IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedGrass : IWrappedEncounterType<IWrappedDPt>, IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.Grass;
     }
-    struct WrappedSurf : IWrappedEncounterType<WrappedDPt>, IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedSurf : IWrappedEncounterType<IWrappedDPt>, IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.Surf;
     }
-    struct WrappedOldRod : IWrappedEncounterType<WrappedDPt>, IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedOldRod : IWrappedEncounterType<IWrappedDPt>, IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.OldRod;
     }
-    struct WrappedGoodRod : IWrappedEncounterType<WrappedDPt>, IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedGoodRod : IWrappedEncounterType<IWrappedDPt>, IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.GoodRod;
     }
-    struct WrappedSuperRod : IWrappedEncounterType<WrappedDPt>, IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedSuperRod : IWrappedEncounterType<IWrappedDPt>, IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.SuperRod;
     }
-    struct WrappedRockSmash : IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedRockSmash : IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.RockSmash;
     }
-    struct WrappedHeadbutt : IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedHeadbutt : IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.Headbutt;
     }
-    struct WrappedBugCatching : IWrappedEncounterType<WrappedHGSS>
+    public struct WrappedBugCatching : IWrappedEncounterType<IWrappedHGSS>
     {
         public EncounterType Unwrap() => EncounterType.BugCatching;
     }

@@ -5,7 +5,7 @@ using System.Text;
 namespace Pokemon4genMapData
 {
     [Flags]
-    enum GameVersion
+    public enum GameVersion
     {
         Undefined   = 0,
 

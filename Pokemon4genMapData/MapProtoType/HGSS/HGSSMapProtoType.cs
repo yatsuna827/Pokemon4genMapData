@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    abstract class HGSSMapProtoType<TEncType> : MapProtoType<WrappedHGSS, TEncType, HGSSQueryArgs, DecodedHGSSMapData<TEncType>, HGSSAltSlots>
-        where TEncType : IWrappedEncounterType<WrappedHGSS>
+    abstract class HGSSMapProtoType<TEncType>
+        : MapProtoType<IWrappedHGSS, TEncType, HGSSQueryArgs, DecodedHGSSMapData<TEncType>, HGSSAltSlots>
+        where TEncType : IWrappedEncounterType<IWrappedHGSS>
     {
         protected override Slot[] ResolveOptionalSlots(DecodedHGSSMapData<TEncType> mapData, HGSSQueryArgs args)
         {

@@ -1,7 +1,8 @@
 ﻿namespace Pokemon4genMapData
 {
-    abstract class DPMapProtoType<TEncType> : MapProtoType<WrappedDPt, TEncType, DPQueryArgs, DecodedDPtMapData<TEncType>, DPtAltSlots>
-        where TEncType : IWrappedEncounterType<WrappedDPt>
+    abstract class DPMapProtoType<TEncType> 
+        : MapProtoType<IWrappedDP, TEncType, DPQueryArgs, DecodedDPtMapData<TEncType>, DPtAltSlots>
+        where TEncType : IWrappedEncounterType<IWrappedDPt>
     {
         protected override Slot[] ResolveOptionalSlots(DecodedDPtMapData<TEncType> mapData, DPQueryArgs args)
         {

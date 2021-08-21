@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    interface IEnumWapper<E> where E : Enum
+    public interface IEnumWapper<E> where E : Enum
     {
         E Unwrap();
     }

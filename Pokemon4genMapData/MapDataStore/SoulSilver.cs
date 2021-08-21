@@ -7,7 +7,7 @@ namespace Pokemon4genMapData
 {
     static partial class MapDataStore
     {
-        public static Dictionary<string, IBuildable<WrappedHGSS, HGSSQueryArgs>> soulSilverMapDataStore = new Dictionary<string, IBuildable<WrappedHGSS, HGSSQueryArgs>>()
+        public static Dictionary<string, IBuildable<IWrappedSoulSilver, HGSSQueryArgs>> soulSilverMapDataStore = new Dictionary<string, IBuildable<IWrappedSoulSilver, HGSSQueryArgs>>()
         {
             #region Grass
             { "ss_grass_10ばんどうろ", new HGSSGrassMapProtoType(ss_grass_10ばんどうろ) },
