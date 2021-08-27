@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using PokemonStandardLibrary.PokeDex.Gen4;
 
 namespace Pokemon4genMapData
 {

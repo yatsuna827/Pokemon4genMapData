@@ -5,25 +5,6 @@ using System.Text;
 namespace Pokemon4genMapData
 {
     [Flags]
-    public enum GameVersion
-    {
-        Undefined   = 0,
-
-        Diamond     = 1 << 0,
-        Pearl       = 1 << 1,
-        
-        Platinum    = 1 << 2,
-        
-        HeartGold   = 1 << 3,
-        SoulSilver  = 1 << 4,
-
-        DP = Diamond | Pearl,
-        DPt = DP | Platinum,
-        
-        HGSS = HeartGold | SoulSilver
-    }
-
-    [Flags]
     public enum EncounterType
     {
         Grass       = 1 << 0,
