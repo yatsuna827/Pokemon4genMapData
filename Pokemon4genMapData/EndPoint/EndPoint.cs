@@ -67,7 +67,7 @@ namespace Pokemon4genMapData
             return MapDataStore.soulSilverMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
         }
 
-        public static IMapData<IWrappedDiamond> GetDiamondMap<TEncounterType>(string name, DPQueryArgs args = null)
+        public static IMapData<WrappedDiamond> GetDiamondMap<TEncounterType>(string name, DPQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedDiamond>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -76,9 +76,9 @@ namespace Pokemon4genMapData
             if (!MapDataStore.diamondMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            return map.BuildMapData(args);
+            return map.BuildMapData<WrappedDiamond>(args);
         }
-        public static IMapData<IWrappedPearl> GetPearlMap<TEncounterType>(string name, DPQueryArgs args = null)
+        public static IMapData<WrappedPearl> GetPearlMap<TEncounterType>(string name, DPQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedPearl>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -87,9 +87,9 @@ namespace Pokemon4genMapData
             if (!MapDataStore.pearlMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            return map.BuildMapData(args);
+            return map.BuildMapData<WrappedPearl>(args);
         }
-        public static IMapData<IWrappedPlatinum> GetPlatinumMap<TEncounterType>(string name, PtQueryArgs args = null)
+        public static IMapData<WrappedPlatinum> GetPlatinumMap<TEncounterType>(string name, PtQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedPlatinum>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -98,9 +98,9 @@ namespace Pokemon4genMapData
             if (!MapDataStore.platinumMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            return map.BuildMapData(args);
+            return map.BuildMapData<WrappedPlatinum>(args);
         }
-        public static IMapData<IWrappedHeartGold> GetHeartGoldMap<TEncounterType>(string name, HGSSQueryArgs args = null)
+        public static IMapData<WrappedHeartGold> GetHeartGoldMap<TEncounterType>(string name, HGSSQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedHeartGold>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -109,9 +109,9 @@ namespace Pokemon4genMapData
             if (!MapDataStore.heartGoldMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            return map.BuildMapData(args);
+            return map.BuildMapData<WrappedHeartGold>(args);
         }
-        public static IMapData<IWrappedSoulSilver> GetSoulSilverMap<TEncounterType>(string name, HGSSQueryArgs args = null)
+        public static IMapData<WrappedSoulSilver> GetSoulSilverMap<TEncounterType>(string name, HGSSQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedSoulSilver>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -120,7 +120,7 @@ namespace Pokemon4genMapData
             if (!MapDataStore.soulSilverMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            return map.BuildMapData(args);
+            return map.BuildMapData<WrappedSoulSilver>(args);
         }
     }
 }
