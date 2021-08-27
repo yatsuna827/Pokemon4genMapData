@@ -23,12 +23,13 @@ namespace Pokemon4genMapData
         where TDecodedMap : IDecodedMapData<TVersion, TEncType, TAltSlots>
         where TAltSlots : IAltSlots<TVersion>
     {
-        public IMapData<TVersion> BuildMapData(TArg args)
+        public IMapData<T> BuildMapData<T>(TArg args)
+            where T : TVersion
         {
             if (decodedMapData == null)
                 decodedMapData = DecodeMap(rawMapData);
 
-            return new MapData<TVersion>()
+            return new MapData<T>()
             {
                 MapName = decodedMapData.MapName,
                 BasicEncounterRate = decodedMapData.BasicRate,
