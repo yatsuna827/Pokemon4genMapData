@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Pokemon4genMapData
 {
-    public interface IMapData<in TGameVersion>
+    public interface IMapData<in TGameVersion, in TEncType>
         where TGameVersion : IWrappedGameVersion
+        where TEncType : IWrappedEncounterType<TGameVersion>
     {
         string MapName { get; }
         MapType Type { get; }
@@ -15,9 +16,10 @@ namespace Pokemon4genMapData
     }
 
     // 返す用のクラス.
-    class MapData<TGameVersion>
-        : IMapData<TGameVersion>
+    class MapData<TGameVersion, TEncType>
+        : IMapData<TGameVersion, TEncType>
         where TGameVersion : IWrappedGameVersion
+        where TEncType : IWrappedEncounterType<TGameVersion>
     {
         public string MapName { get; internal set; }
         public MapType Type { get; internal set; }
