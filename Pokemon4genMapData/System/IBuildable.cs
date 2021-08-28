@@ -9,7 +9,9 @@ namespace Pokemon4genMapData
         where TVerison : IWrappedGameVersion
         where TArg : IQueryArgs<TVerison>
     {
-        IMapData<TConcVersion> BuildMapData<TConcVersion>(TArg args) where TConcVersion : TVerison;
+        IMapData<TConcVersion, TEncType> BuildMapData<TConcVersion, TEncType>(TArg args)
+            where TConcVersion : TVerison
+            where TEncType : IWrappedEncounterType<TConcVersion>;
     }
 
 }
