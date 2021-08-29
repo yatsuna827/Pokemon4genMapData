@@ -53,4 +53,10 @@ namespace Pokemon4genMapData
     {
         public EncounterType Unwrap() => EncounterType.BugCatching;
     }
+
+    public struct WrappedRuinOfAlph : IWrappedEncounterType<IWrappedHGSS>,
+        IWrappedEncounterType<WrappedHeartGold>, IWrappedEncounterType<WrappedSoulSilver>
+    {
+        public EncounterType Unwrap() => EncounterType.Grass;
+    }
 }

@@ -57,14 +57,24 @@ namespace Pokemon4genMapData
         {
             var encounterType = default(TEncounterType).Unwrap();
             var prefix = $"hg_{encounterType.ToPrefix()}_";
-            return MapDataStore.heartGoldMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+
+            var data = MapDataStore.heartGoldMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+
+            if (typeof(TEncounterType) == typeof(WrappedRuinOfAlph))
+                data = data.Where(_ => _ == ("アルフのいせき(広間)")).ToArray();
+            return data;
         }
         public static string[] GetSoulSilverMapNames<TEncounterType>()
             where TEncounterType : struct, IWrappedEncounterType<IWrappedHeartGold>
         {
             var encounterType = default(TEncounterType).Unwrap();
             var prefix = $"ss_{encounterType.ToPrefix()}_";
-            return MapDataStore.soulSilverMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+
+            var data = MapDataStore.soulSilverMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
+
+            if (typeof(TEncounterType) == typeof(WrappedRuinOfAlph))
+                data = data.Where(_ => _ == ("アルフのいせき(広間)")).ToArray();
+            return data;
         }
 
         public static IMapData<WrappedDiamond, TEncounterType> GetDiamondMap<TEncounterType>(string name, DPQueryArgs args = null)
@@ -109,6 +119,9 @@ namespace Pokemon4genMapData
             if (!MapDataStore.heartGoldMapDataStore.TryGetValue(key, out var map))
                 return null;
 
+            if (typeof(TEncounterType) == typeof(WrappedRuinOfAlph) && name != "アルフのいせき(広間)")
+                return null;
+
             return map.BuildMapData<WrappedHeartGold, TEncounterType>(args);
         }
         public static IMapData<WrappedSoulSilver, TEncounterType> GetSoulSilverMap<TEncounterType>(string name, HGSSQueryArgs args = null)
@@ -118,6 +131,9 @@ namespace Pokemon4genMapData
             var key = $"ss_{encounterType.ToPrefix()}_{name}";
 
             if (!MapDataStore.soulSilverMapDataStore.TryGetValue(key, out var map))
+                return null;
+
+            if (typeof(TEncounterType) == typeof(WrappedRuinOfAlph) && name != "アルフのいせき(広間)")
                 return null;
 
             return map.BuildMapData<WrappedSoulSilver, TEncounterType>(args);

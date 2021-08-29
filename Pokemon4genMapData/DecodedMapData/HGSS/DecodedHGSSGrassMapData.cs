@@ -46,7 +46,7 @@ namespace Pokemon4genMapData
                 var hoenn = alt.RadioSound?.Hoenn;
                 if (hoenn != null)
                     this.AltSlots.RadioSound.Hoenn = (hoenn[0], hoenn[1]);
-
+                
                 var sinnoh = alt.RadioSound?.Sinnoh;
                 if (sinnoh != null)
                     this.AltSlots.RadioSound.Sinnoh = (sinnoh[0], sinnoh[1]);

@@ -16,6 +16,18 @@ namespace Pokemon4genMapData
             var alt = decodedMapData.AltSlots;
             if (alt == null || args == null) return mapData.BasicTable.ToArray();
 
+            if (args.RadioSound == RadioSound.HoennSound && alt.RadioSound.Hoenn != null)
+            {
+                t[2] = t[3] = alt.RadioSound.Hoenn.Value.Alt1;
+                t[4] = t[5] = alt.RadioSound.Hoenn.Value.Alts2;
+            }
+
+            if (args.RadioSound == RadioSound.SinnohSound && alt.RadioSound.Sinnoh != null)
+            {
+                t[2] = t[3] = alt.RadioSound.Sinnoh.Value.Alt1;
+                t[4] = t[5] = alt.RadioSound.Sinnoh.Value.Alts2;
+            }
+
             if (args.Outbreak && alt.Outbreak != null)
                 (t[0], t[1]) = (alt.Outbreak, alt.Outbreak);
 
