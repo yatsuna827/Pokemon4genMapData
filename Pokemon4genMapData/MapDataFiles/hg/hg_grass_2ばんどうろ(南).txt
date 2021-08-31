@@ -4,20 +4,20 @@
     "BasicEncounterRate": 20,
     "SlotProtoType": [
         { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },
-        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 },
+        { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 8, "VariableLv": 1 },
         { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 10, "VariableLv": 1 }, { "BasicLv": 7, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }
     ],
     "MorningTable": [
-        "レディバ", "ポッポ", "ビードル", "レディバ", "コクーン", "コクーン", 
-        "スピアー", "スピアー", "レディアン", "レディアン", "レディアン", "ビードル"
+        "キャタピー", "ポッポ", "キャタピー", "ポッポ", "トランセル", "トランセル", 
+        "バタフリー", "バタフリー", "ピジョン", "イトマル", "ピジョン", "キャタピー"
     ],
     "DayTable": [
-        "ビードル", "ポッポ", "ビードル", "ポッポ", "コクーン", "コクーン", 
-        "ポッポ", "ポッポ", "ピジョン", "レディバ", "ピジョン", "ビードル"
+        "キャタピー", "ポッポ", "キャタピー", "ポッポ", "トランセル", "トランセル", 
+        "ポッポ", "ポッポ", "ピジョン", "ピジョン", "ピジョン", "キャタピー"
     ],
     "NightTable": [
-        "ホーホー", "ホーホー", "コクーン", "ホーホー", "ホーホー", "ビードル", 
-        "ヨルノズク", "ヨルノズク", "ヨルノズク", "スピアー", "コクーン", "ビードル"
+        "ホーホー", "イトマル", "ホーホー", "イトマル", "ホーホー", "ホーホー", 
+        "ヨルノズク", "ヨルノズク", "アリアドス", "ヨルノズク", "アリアドス", "イトマル"
     ],
     "AltSlots": {
         "Outbreak": null,

@@ -3,20 +3,20 @@
     "MapName": "31ばんどうろ",
     "BasicEncounterRate": 25,
     "SlotProtoType": [
-        { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 },
+        { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 }, { "BasicLv": 4, "VariableLv": 1 },
         { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 },
         { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }, { "BasicLv": 5, "VariableLv": 1 }
     ],
     "MorningTable": [
-        "ポッポ", "キャタピー", "ポッポ", "キャタピー", "マダツボミ", "マダツボミ", 
-        "トランセル", "トランセル", "キャタピー", "トランセル", "キャタピー", "トランセル"
+        "レディバ", "ビードル", "レディバ", "ビードル", "マダツボミ", "マダツボミ", 
+        "コクーン", "コクーン", "ポッポ", "ポッポ", "ポッポ", "ポッポ"
     ],
     "DayTable": [
-        "ポッポ", "キャタピー", "ポッポ", "キャタピー", "マダツボミ", "マダツボミ", 
-        "トランセル", "トランセル", "キャタピー", "トランセル", "キャタピー", "トランセル"
+        "ポッポ", "ビードル", "ポッポ", "ビードル", "マダツボミ", "マダツボミ", 
+        "コクーン", "コクーン", "ビードル", "コクーン", "ビードル", "コクーン"
     ],
     "NightTable": [
-        "イトマル", "コラッタ", "イトマル", "コラッタ", "マダツボミ", "マダツボミ", 
+        "ホーホー", "コラッタ", "ホーホー", "コラッタ", "マダツボミ", "マダツボミ", 
         "コラッタ", "コラッタ", "ホーホー", "ホーホー", "ホーホー", "ホーホー"
     ],
     "AltSlots": {

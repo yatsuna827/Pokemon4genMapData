@@ -3,21 +3,21 @@
     "MapName": "48ばんどうろ",
     "BasicEncounterRate": 25,
     "SlotProtoType": [
-        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
+        { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 },
         { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 21, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
         { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 22, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }
     ],
     "MorningTable": [
         "カモネギ", "ケンタロス", "ハネッコ", "オニドリル", "クサイハナ", "クサイハナ", 
-        "ガーディ", "キリンリキ", "ディグダ", "ガーディ", "ハネッコ", "ケンタロス"
+        "ロコン", "キリンリキ", "ディグダ", "ロコン", "ハネッコ", "ケンタロス"
     ],
     "DayTable": [
         "カモネギ", "ケンタロス", "ハネッコ", "オニドリル", "クサイハナ", "クサイハナ", 
-        "ガーディ", "キリンリキ", "ディグダ", "ガーディ", "ハネッコ", "ケンタロス"
+        "ロコン", "キリンリキ", "ディグダ", "ロコン", "ハネッコ", "ケンタロス"
     ],
     "NightTable": [
-        "ガーディ", "ケンタロス", "ハネッコ", "オニドリル", "クサイハナ", "クサイハナ", 
-        "ガーディ", "キリンリキ", "ディグダ", "ガーディ", "ハネッコ", "ケンタロス"
+        "ロコン", "ケンタロス", "ハネッコ", "オニドリル", "クサイハナ", "クサイハナ", 
+        "ロコン", "キリンリキ", "ディグダ", "ロコン", "ハネッコ", "ケンタロス"
     ],
     "AltSlots": {
         "Outbreak": null,
