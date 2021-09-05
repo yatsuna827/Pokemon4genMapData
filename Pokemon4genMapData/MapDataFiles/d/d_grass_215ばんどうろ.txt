@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "スリープ", "スリープ" ],
         "PokeTracer": {
-            "Common": [ "ヘルガー", "ヘルガー" ],
-            "Rare": [ "ヘルガー", "ヘルガー" ]
+            "Common": [ "グラエナ", "グラエナ" ],
+            "Rare": [ "グラエナ", "グラエナ" ]
         },
         "DoubleSlot": {
             "Ruby": null,
