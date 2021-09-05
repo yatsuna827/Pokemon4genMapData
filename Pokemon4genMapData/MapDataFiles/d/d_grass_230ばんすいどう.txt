@@ -8,7 +8,7 @@
         { "BasicLv": 52, "VariableLv": 1 }, { "BasicLv": 50, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }, { "BasicLv": 23, "VariableLv": 1 }
     ],
     "BasicTable": [
-        "ウツドン", "クサイハナ", "ゴルダック", "ドクケイル", "マダツボミ", "ナゾノクサ", 
+        "ウツドン", "クサイハナ", "ゴルダック", "アゲハント", "マダツボミ", "ナゾノクサ", 
         "フローゼル", "トリトドン", "フローゼル", "フローゼル", "マダツボミ", "ナゾノクサ"
     ],
     "AltSlots": {
@@ -18,13 +18,13 @@
         },
         "Outbreak": [ "サニーゴ", "サニーゴ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "トゲピー", "トゲピー" ],
+            "Rare": [ "トゲピー", "トゲピー" ]
         },
         "DoubleSlot": {
             "Ruby": null,
             "Sapphire": null,
-            "Emerald": null,
+            "Emerald": [ "フローゼル", "フローゼル" ],
             "FireRed": null,
             "LeafGreen": null
         }

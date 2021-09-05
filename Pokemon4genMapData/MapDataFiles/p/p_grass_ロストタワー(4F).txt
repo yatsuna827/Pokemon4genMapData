@@ -14,7 +14,7 @@
     "AltSlots": {
         "TimeSlot": {
             "Day": null,
-            "Night": [ "ヤミカラス", "ヤミカラス" ]
+            "Night": [ "ムウマ", "ムウマ" ]
         },
         "Outbreak": null,
         "PokeTracer": {
