@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "ゴマゾウ", "ゴマゾウ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "オドシシ", "オドシシ" ],
+            "Rare": [ "オドシシ", "オドシシ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

@@ -22,7 +22,7 @@
             "Rare": [ "タツベイ", "タツベイ" ]
         },
         "DoubleSlot": {
-            "Ruby": null,
+            "Ruby": [ "ザングース", "ザングース" ],
             "Sapphire": [ "ハブネーク", "ハブネーク" ],
             "Emerald": null,
             "FireRed": null,

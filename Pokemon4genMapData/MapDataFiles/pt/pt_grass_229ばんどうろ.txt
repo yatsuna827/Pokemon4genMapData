@@ -25,8 +25,8 @@
             "Ruby": [ "コノハナ", "コノハナ" ],
             "Sapphire": [ "ハスブレロ", "ハスブレロ" ],
             "Emerald": [ "クヌギダマ", "クヌギダマ" ],
-            "FireRed": [ "アゲハント", "ドクケイル" ],
-            "LeafGreen": [ "アゲハント", "ドクケイル" ]
+            "FireRed": null,
+            "LeafGreen": null
         }
     }
 }

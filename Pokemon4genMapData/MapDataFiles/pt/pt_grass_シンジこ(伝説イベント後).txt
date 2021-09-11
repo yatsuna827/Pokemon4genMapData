@@ -1,6 +1,6 @@
 
 {
-    "MapName": "シンジこ(イベント後)",
+    "MapName": "シンジこ(伝説イベント後)",
     "BasicEncounterRate": 30,
     "SlotProtoType": [
         { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 2, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 }, { "BasicLv": 3, "VariableLv": 1 },

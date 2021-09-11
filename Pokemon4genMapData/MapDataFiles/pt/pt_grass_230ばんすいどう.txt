@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "サニーゴ", "サニーゴ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "トゲピー", "トゲピー" ],
+            "Rare": [ "トゲピー", "トゲピー" ]
         },
         "DoubleSlot": {
             "Ruby": null,

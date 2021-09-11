@@ -1187,9 +1187,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;210ばんどうろ(北)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string d_grass_210ばんどうろ_北_ {
             get {
@@ -1203,9 +1203,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;210ばんどうろ(南)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string d_grass_210ばんどうろ_南_ {
             get {
@@ -1219,9 +1219,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;211ばんどうろ(東)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string d_grass_211ばんどうろ_東_ {
             get {
@@ -1235,9 +1235,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;211ばんどうろ(西)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string d_grass_211ばんどうろ_西_ {
             get {
@@ -1882,22 +1882,6 @@ namespace Pokemon4genMapData.Properties {
         internal static string d_grass_シンジこ {
             get {
                 return ResourceManager.GetString("d_grass_シンジこ", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   
-        ///{
-        ///    &quot;MapName&quot;: &quot;シンジこ(イベント後)&quot;,
-        ///    &quot;BasicEncounterRate&quot;: 30,
-        ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot; [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
-        /// </summary>
-        internal static string d_grass_シンジこ_イベント後_ {
-            get {
-                return ResourceManager.GetString("d_grass_シンジこ_イベント後_", resourceCulture);
             }
         }
         
@@ -5032,7 +5016,7 @@ namespace Pokemon4genMapData.Properties {
         ///        { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }
         ///    ],
         ///    &quot;BasicTable&quot;: [
-        ///        &quot;ペリッパー&quot;, &quot;タマザラシ&quot;, &quot;ドククラゲ&quot;, &quot;トドグラー&quot;, &quot;トドグラー&quot;
+        ///        &quot;ペリッパー&quot;, &quot;パウワウ&quot;, &quot;ドククラゲ&quot;, &quot;ジュゴン&quot;, &quot;ジュゴン&quot;
         ///    ]
         ///}
         /// に類似しているローカライズされた文字列を検索します。
@@ -5116,7 +5100,7 @@ namespace Pokemon4genMapData.Properties {
         ///        { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }
         ///    ],
         ///    &quot;BasicTable&quot;: [
-        ///        &quot;ペリッパー&quot;, &quot;タマザラシ&quot;, &quot;ドククラゲ&quot;, &quot;トドグラー&quot;, &quot;トドグラー&quot;
+        ///        &quot;ペリッパー&quot;, &quot;パウワウ&quot;, &quot;ドククラゲ&quot;, &quot;ジュゴン&quot;, &quot;ジュゴン&quot;
         ///    ]
         ///}
         /// に類似しているローカライズされた文字列を検索します。
@@ -7099,8 +7083,8 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string hg_grass_29ばんどうろ {
             get {
@@ -7115,7 +7099,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 20,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 8, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;V [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string hg_grass_2ばんどうろ_北_ {
@@ -7131,7 +7115,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 20,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 8, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;V [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string hg_grass_2ばんどうろ_南_ {
@@ -7146,7 +7130,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;30ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
@@ -7162,7 +7146,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;31ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
@@ -7322,8 +7306,8 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;42ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 17, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string hg_grass_42ばんどうろ {
@@ -7418,7 +7402,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;48ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 21, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 21, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 22, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 21, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 22, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 22, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
@@ -7883,7 +7867,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 10,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 46, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 47, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 47, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string hg_grass_シロガネやまどうくつ_1F_小部屋_ {
@@ -15617,9 +15601,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;210ばんどうろ(北)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string p_grass_210ばんどうろ_北_ {
             get {
@@ -15633,9 +15617,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;210ばんどうろ(南)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 19, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 18, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string p_grass_210ばんどうろ_南_ {
             get {
@@ -15649,9 +15633,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;211ばんどうろ(東)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string p_grass_211ばんどうろ_東_ {
             get {
@@ -15665,9 +15649,9 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;211ばんどうろ(西)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 26, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 27, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 28, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 12, &quot;VariableLv&quot;: 1 }, { &quot;Bas [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string p_grass_211ばんどうろ_西_ {
             get {
@@ -16312,22 +16296,6 @@ namespace Pokemon4genMapData.Properties {
         internal static string p_grass_シンジこ {
             get {
                 return ResourceManager.GetString("p_grass_シンジこ", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   
-        ///{
-        ///    &quot;MapName&quot;: &quot;シンジこ(イベント後)&quot;,
-        ///    &quot;BasicEncounterRate&quot;: 30,
-        ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot; [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
-        /// </summary>
-        internal static string p_grass_シンジこ_イベント後_ {
-            get {
-                return ResourceManager.GetString("p_grass_シンジこ_イベント後_", resourceCulture);
             }
         }
         
@@ -19462,7 +19430,7 @@ namespace Pokemon4genMapData.Properties {
         ///        { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }
         ///    ],
         ///    &quot;BasicTable&quot;: [
-        ///        &quot;ペリッパー&quot;, &quot;パウワウ&quot;, &quot;ドククラゲ&quot;, &quot;ジュゴン&quot;, &quot;ジュゴン&quot;
+        ///        &quot;ペリッパー&quot;, &quot;タマザラシ&quot;, &quot;ドククラゲ&quot;, &quot;トドグラー&quot;, &quot;トドグラー&quot;
         ///    ]
         ///}
         /// に類似しているローカライズされた文字列を検索します。
@@ -19546,7 +19514,7 @@ namespace Pokemon4genMapData.Properties {
         ///        { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }, { &quot;BasicLv&quot;: 40, &quot;VariableLv&quot;: 16 }
         ///    ],
         ///    &quot;BasicTable&quot;: [
-        ///        &quot;ペリッパー&quot;, &quot;パウワウ&quot;, &quot;ドククラゲ&quot;, &quot;ジュゴン&quot;, &quot;ジュゴン&quot;
+        ///        &quot;ペリッパー&quot;, &quot;タマザラシ&quot;, &quot;ドククラゲ&quot;, &quot;トドグラー&quot;, &quot;トドグラー&quot;
         ///    ]
         ///}
         /// に類似しているローカライズされた文字列を検索します。
@@ -21810,16 +21778,16 @@ namespace Pokemon4genMapData.Properties {
         /// <summary>
         ///   
         ///{
-        ///    &quot;MapName&quot;: &quot;シンジこ(イベント後)&quot;,
+        ///    &quot;MapName&quot;: &quot;シンジこ(伝説イベント後)&quot;,
         ///    &quot;BasicEncounterRate&quot;: 30,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot; [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
-        internal static string pt_grass_シンジこ_イベント後_ {
+        internal static string pt_grass_シンジこ_伝説イベント後_ {
             get {
-                return ResourceManager.GetString("pt_grass_シンジこ_イベント後_", resourceCulture);
+                return ResourceManager.GetString("pt_grass_シンジこ_伝説イベント後_", resourceCulture);
             }
         }
         
@@ -27158,8 +27126,8 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
+        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ss_grass_29ばんどうろ {
             get {
@@ -27174,7 +27142,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 20,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 8, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;V [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ss_grass_2ばんどうろ_北_ {
@@ -27190,7 +27158,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 20,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 8, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 10, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 7, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;V [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ss_grass_2ばんどうろ_南_ {
@@ -27205,7 +27173,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;30ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 2, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
@@ -27221,7 +27189,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;31ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 4, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 3, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 5, &quot;Vari [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
@@ -27381,8 +27349,8 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;42ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 13, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 14, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 16, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 17, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 15, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ss_grass_42ばんどうろ {
@@ -27477,7 +27445,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;MapName&quot;: &quot;48ばんどうろ&quot;,
         ///    &quot;BasicEncounterRate&quot;: 25,
         ///    &quot;SlotProtoType&quot;: [
-        ///        { &quot;BasicLv&quot;: 25, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 21, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 21, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 22, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 24, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 21, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 22, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 22, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
@@ -27942,7 +27910,7 @@ namespace Pokemon4genMapData.Properties {
         ///    &quot;BasicEncounterRate&quot;: 10,
         ///    &quot;SlotProtoType&quot;: [
         ///        { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 46, &quot;VariableLv&quot;: 1 },
-        ///        { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 47, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 },
+        ///        { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 47, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 30, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 45, &quot;VariableLv&quot;: 1 },
         ///        { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 20, &quot;VariableLv&quot;: 1 }, { &quot;BasicLv&quot;: 48, &quot;VariableLv&quot;: 1 }, [残りの文字列は切り詰められました]&quot;; に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string ss_grass_シロガネやまどうくつ_1F_小部屋_ {

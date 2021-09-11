@@ -18,8 +18,8 @@
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "オオスバメ", "オオスバメ" ],
+            "Rare": [ "オオスバメ", "オオスバメ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

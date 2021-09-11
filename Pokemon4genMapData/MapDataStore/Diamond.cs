@@ -72,7 +72,6 @@ namespace Pokemon4genMapData
             { "d_grass_クロガネゲート(1F)", new DPGrassMapProtoType(d_grass_クロガネゲート_1F_) },
             { "d_grass_クロガネゲート(B1F)", new DPGrassMapProtoType(d_grass_クロガネゲート_B1F_) },
             { "d_grass_シンジこ", new DPGrassMapProtoType(d_grass_シンジこ) },
-            { "d_grass_シンジこ(イベント後)", new DPGrassMapProtoType(d_grass_シンジこ_イベント後_) },
             { "d_grass_ズイのいせき(D)", new DPGrassMapProtoType(d_grass_ズイのいせき_D_, MapType.RuinHall_D) },
             { "d_grass_ズイのいせき(E)", new DPGrassMapProtoType(d_grass_ズイのいせき_E_, MapType.RuinHall_E) },
             { "d_grass_ズイのいせき(F)", new DPGrassMapProtoType(d_grass_ズイのいせき_F_, MapType.RuinHall_F) },

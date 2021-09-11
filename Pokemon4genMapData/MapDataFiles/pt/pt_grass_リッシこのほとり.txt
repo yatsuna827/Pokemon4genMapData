@@ -18,8 +18,8 @@
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ニドリーノ", "ニドリーナ" ],
+            "Rare": [ "ニドリーノ", "ニドリーナ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

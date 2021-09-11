@@ -439,9 +439,6 @@
   <data name="d_grass_シンジこ" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\d\d_grass_シンジこ.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="d_grass_シンジこ_イベント後_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\MapDataFiles\d\d_grass_シンジこ(イベント後).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
   <data name="d_grass_ズイのいせき_D_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\d\d_grass_ズイのいせき(D).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
@@ -2707,9 +2704,6 @@
   <data name="pt_grass_シンジこ" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\pt\pt_grass_シンジこ.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
-  <data name="pt_grass_シンジこ_イベント後_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\MapDataFiles\pt\pt_grass_シンジこ(イベント後).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
   <data name="pt_grass_ズイのいせき_D_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\pt\pt_grass_ズイのいせき(D).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
@@ -3579,9 +3573,6 @@
   </data>
   <data name="p_grass_シンジこ" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\p\p_grass_シンジこ.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
-  <data name="p_grass_シンジこ_イベント後_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\MapDataFiles\p\p_grass_シンジこ(イベント後).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="p_grass_ズイのいせき_D_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\MapDataFiles\p\p_grass_ズイのいせき(D).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
@@ -5553,5 +5544,8 @@
   </data>
   <data name="p_superrod_テンガンざん_B1F_ヒンバススポット_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\mapdatafiles\p\p_superrod_テンガンざん(b1f-ヒンバススポット).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="pt_grass_シンジこ_伝説イベント後_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\MapDataFiles\pt\pt_grass_シンジこ(伝説イベント後).txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>

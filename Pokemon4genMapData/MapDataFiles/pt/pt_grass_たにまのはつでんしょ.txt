@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "ラクライ", "ラクライ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "メリープ", "メリープ" ],
+            "Rare": [ "メリープ", "メリープ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

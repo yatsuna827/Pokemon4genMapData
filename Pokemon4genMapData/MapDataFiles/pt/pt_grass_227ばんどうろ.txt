@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "パッチール", "パッチール" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "コータス", "コータス" ],
+            "Rare": [ "コータス", "コータス" ]
         },
         "DoubleSlot": {
             "Ruby": null,

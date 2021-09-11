@@ -23,10 +23,10 @@
         },
         "DoubleSlot": {
             "Ruby": null,
-            "Sapphire": [ "アゲハント", "ドクケイル" ],
+            "Sapphire": null,
             "Emerald": [ "ツボツボ", "ツボツボ" ],
-            "FireRed": [ "アゲハント", "ドクケイル" ],
-            "LeafGreen": [ "アゲハント", "ドクケイル" ]
+            "FireRed": null,
+            "LeafGreen": null
         }
     }
 }
