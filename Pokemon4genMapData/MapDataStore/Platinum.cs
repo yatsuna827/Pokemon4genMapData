@@ -72,7 +72,7 @@ namespace Pokemon4genMapData
             { "pt_grass_クロガネたんこう(B1F)", new PtGrassMapProtoType(pt_grass_クロガネたんこう_B1F_) },
             { "pt_grass_クロガネゲート(1F)", new PtGrassMapProtoType(pt_grass_クロガネゲート_1F_) },
             { "pt_grass_クロガネゲート(B1F)", new PtGrassMapProtoType(pt_grass_クロガネゲート_B1F_) },
-            { "pt_grass_シンジこ(イベント後)", new PtGrassMapProtoType(pt_grass_シンジこ_イベント後_) },
+            { "pt_grass_シンジこ(イベント後)", new PtGrassMapProtoType(pt_grass_シンジこ_伝説イベント後_) },
             { "pt_grass_シンジこ", new PtGrassMapProtoType(pt_grass_シンジこ) },
             { "pt_grass_ズイのいせき(D)", new PtGrassMapProtoType(pt_grass_ズイのいせき_D_) },
             { "pt_grass_ズイのいせき(E)", new PtGrassMapProtoType(pt_grass_ズイのいせき_E_) },
