@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "コイル", "コイル" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ハネッコ", "ハネッコ" ],
+            "Rare": [ "ポポッコ", "ポポッコ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

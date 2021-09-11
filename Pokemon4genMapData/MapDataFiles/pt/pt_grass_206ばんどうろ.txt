@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "ヨーギラス", "ヨーギラス" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ヤジロン", "ヤジロン" ],
+            "Rare": [ "ヤジロン", "ヤジロン" ]
         },
         "DoubleSlot": {
             "Ruby": null,

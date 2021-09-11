@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "ビリリダマ", "ビリリダマ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "メタモン", "メタモン" ],
+            "Rare": [ "メタモン", "メタモン" ]
         },
         "DoubleSlot": {
             "Ruby": null,

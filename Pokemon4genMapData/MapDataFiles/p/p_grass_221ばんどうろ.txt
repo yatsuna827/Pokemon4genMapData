@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "カモネギ", "カモネギ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ニドリーノ", "ニドリーノ" ],
+            "Rare": [ "ニドリーナ", "ニドリーナ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

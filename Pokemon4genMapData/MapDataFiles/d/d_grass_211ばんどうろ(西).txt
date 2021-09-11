@@ -3,23 +3,23 @@
     "MapName": "211ばんどうろ(西)",
     "BasicEncounterRate": 30,
     "SlotProtoType": [
-        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 },
-        { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 },
-        { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 27, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }, { "BasicLv": 28, "VariableLv": 1 }
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 },
+        { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 }, { "BasicLv": 13, "VariableLv": 1 },
+        { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }, { "BasicLv": 12, "VariableLv": 1 }, { "BasicLv": 14, "VariableLv": 1 }
     ],
     "BasicTable": [
-        "アサナン", "ゴローン", "ポニータ", "ゴーリキー", "ゴーリキー", "アサナン", 
-        "リーシャン", "リーシャン", "アサナン", "ポニータ", "アサナン", "ポニータ"
+        "アサナン", "ビッパ", "アサナン", "ビッパ", "イシツブテ", "ポニータ", 
+        "リーシャン", "リーシャン", "ビッパ", "アサナン", "ビッパ", "アサナン"
     ],
     "AltSlots": {
         "TimeSlot": {
             "Day": null,
-            "Night": [ "ズバット", "ヨルノズク" ]
+            "Night": [ "ズバット", "ホーホー" ]
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": [ "チルット", "チルット" ],
-            "Rare": [ "チルット", "チルット" ]
+            "Common": [ "バルキー", "バルキー" ],
+            "Rare": [ "バルキー", "バルキー" ]
         },
         "DoubleSlot": {
             "Ruby": null,

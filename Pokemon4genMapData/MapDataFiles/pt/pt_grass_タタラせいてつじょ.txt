@@ -18,8 +18,8 @@
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ココドラ", "ココドラ" ],
+            "Rare": [ "ココドラ", "ココドラ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

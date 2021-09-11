@@ -24,7 +24,7 @@
         "DoubleSlot": {
             "Ruby": null,
             "Sapphire": null,
-            "Emerald": [ "フローゼル", "フローゼル" ],
+            "Emerald": null,
             "FireRed": null,
             "LeafGreen": null
         }

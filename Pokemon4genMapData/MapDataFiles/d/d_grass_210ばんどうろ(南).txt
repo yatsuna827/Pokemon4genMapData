@@ -3,28 +3,28 @@
     "MapName": "210ばんどうろ(南)",
     "BasicEncounterRate": 30,
     "SlotProtoType": [
-        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 24, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 },
-        { "BasicLv": 25, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 25, "VariableLv": 1 },
-        { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }, { "BasicLv": 26, "VariableLv": 1 }
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 },
+        { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 19, "VariableLv": 1 }, { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 },
+        { "BasicLv": 18, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }, { "BasicLv": 20, "VariableLv": 1 }
     ],
     "BasicTable": [
-        "コダック", "ビーダル", "アサナン", "ワンリキー", "アサナン", "ワンリキー", 
-        "ゴーリキー", "アサナン", "ゴーリキー", "アサナン", "ゴーリキー", "アサナン"
+        "ポニータ", "イシツブテ", "マネネ", "マネネ", "イシツブテ", "コロトック", 
+        "ポニータ", "ポニータ", "ラッキー", "マネネ", "ラッキー", "マネネ"
     ],
     "AltSlots": {
         "TimeSlot": {
-            "Day": null,
-            "Night": [ "ホーホー", "ヨルノズク" ]
+            "Day": [ "ポニータ", "ポニータ" ],
+            "Night": [ "コロトック", "コロトック" ]
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ケンタロス", "ケンタロス" ],
+            "Rare": [ "ミルタンク", "ミルタンク" ]
         },
         "DoubleSlot": {
-            "Ruby": null,
+            "Ruby": [ "タネボー", "コノハナ" ],
             "Sapphire": null,
-            "Emerald": null,
+            "Emerald": [ "クヌギダマ", "クヌギダマ" ],
             "FireRed": null,
             "LeafGreen": null
         }

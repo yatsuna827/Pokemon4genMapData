@@ -18,8 +18,8 @@
         },
         "Outbreak": [ "クラブ", "クラブ" ],
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "オコリザル", "オコリザル" ],
+            "Rare": [ "マンキー", "マンキー" ]
         },
         "DoubleSlot": {
             "Ruby": null,

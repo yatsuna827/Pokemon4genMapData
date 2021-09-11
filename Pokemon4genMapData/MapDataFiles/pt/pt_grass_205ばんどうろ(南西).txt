@@ -18,8 +18,8 @@
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ハネッコ", "ハネッコ" ],
+            "Rare": [ "ハネッコ", "ハネッコ" ]
         },
         "DoubleSlot": {
             "Ruby": null,

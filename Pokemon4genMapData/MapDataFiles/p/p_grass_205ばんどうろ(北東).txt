@@ -18,12 +18,12 @@
         },
         "Outbreak": null,
         "PokeTracer": {
-            "Common": null,
-            "Rare": null
+            "Common": [ "ヤドン", "ヤドン" ],
+            "Rare": [ "ヤドン", "ヤドン" ]
         },
         "DoubleSlot": {
             "Ruby": null,
-            "Sapphire": null,
+            "Sapphire": [ "ハスボー", "ハスボー" ],
             "Emerald": null,
             "FireRed": null,
             "LeafGreen": null

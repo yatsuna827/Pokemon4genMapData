@@ -23,7 +23,7 @@
         },
         "DoubleSlot": {
             "Ruby": [ "タネボー", "タネボー" ],
-            "Sapphire": [ "スボミー", "ミミロル" ],
+            "Sapphire": null,
             "Emerald": [ "クヌギダマ", "クヌギダマ" ],
             "FireRed": [ "トランセル", "トランセル" ],
             "LeafGreen": [ "コクーン", "コクーン" ]
