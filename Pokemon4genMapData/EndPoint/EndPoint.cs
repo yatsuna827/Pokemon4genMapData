@@ -31,28 +31,28 @@ namespace Pokemon4genMapData
     // API
     public static class MapDataServer
     {
-        public static string[] GetDiamondMapNames<TEncounterType>()
+        public static string[] GetMapNames<TEncounterType>(WrappedDiamond gameVersion)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedDiamond>
         {
             var encounterType = default(TEncounterType).Unwrap();
             var prefix = $"d_{encounterType.ToPrefix()}_";
             return MapDataStore.diamondMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_=>_.Replace(prefix, string.Empty)).ToArray();
         }
-        public static string[] GetPearlMapNames<TEncounterType>()
+        public static string[] GetMapNames<TEncounterType>(WrappedPearl gameVersion)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedPearl>
         {
             var encounterType = default(TEncounterType).Unwrap();
             var prefix = $"p_{encounterType.ToPrefix()}_";
             return MapDataStore.pearlMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
         }
-        public static string[] GetPlatinumMapNames<TEncounterType>()
+        public static string[] GetMapNames<TEncounterType>(WrappedPlatinum gameVersion)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedPlatinum>
         {
             var encounterType = default(TEncounterType).Unwrap();
             var prefix = $"pt_{encounterType.ToPrefix()}_";
             return MapDataStore.platinumMapDataStore.Select(_ => _.Key).Where(_ => _.Contains(prefix)).Select(_ => _.Replace(prefix, string.Empty)).ToArray();
         }
-        public static string[] GetHeartGoldMapNames<TEncounterType>()
+        public static string[] GetMapNames<TEncounterType>(WrappedHeartGold gameVersion)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedSoulSilver>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -64,7 +64,7 @@ namespace Pokemon4genMapData
                 data = data.Where(_ => _ == ("アルフのいせき(広間)")).ToArray();
             return data;
         }
-        public static string[] GetSoulSilverMapNames<TEncounterType>()
+        public static string[] GetMapNames<TEncounterType>(WrappedSoulSilver gameVersion)
             where TEncounterType : struct, IWrappedEncounterType<IWrappedHeartGold>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -77,7 +77,7 @@ namespace Pokemon4genMapData
             return data;
         }
 
-        public static IMapData<WrappedDiamond, TEncounterType> GetDiamondMap<TEncounterType>(string name, DPQueryArgs args = null)
+        public static IMapData<WrappedDiamond, TEncounterType> GetMap<TEncounterType>(WrappedDiamond gameVersion, string name, DPQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<WrappedDiamond>
         {
             var encounterType = default(TEncounterType).Unwrap();
@@ -88,55 +88,51 @@ namespace Pokemon4genMapData
 
             return map.BuildMapData<WrappedDiamond, TEncounterType>(args);
         }
-        public static IMapData<WrappedPearl, TEncounterType> GetPearlMap<TEncounterType>(string name, DPQueryArgs args = null)
+        public static IMapData<WrappedPearl, TEncounterType> GetMap<TEncounterType>(WrappedPearl gameVersion, string name, DPQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<WrappedPearl>
         {
             var encounterType = default(TEncounterType).Unwrap();
-            var key = $"p_{encounterType.ToPrefix()}_{name}";
+            var key = $"d_{encounterType.ToPrefix()}_{name}";
 
             if (!MapDataStore.pearlMapDataStore.TryGetValue(key, out var map))
                 return null;
 
             return map.BuildMapData<WrappedPearl, TEncounterType>(args);
         }
-        public static IMapData<WrappedPlatinum, TEncounterType> GetPlatinumMap<TEncounterType>(string name, PtQueryArgs args = null)
+        public static IMapData<WrappedPlatinum, TEncounterType> GetMap<TEncounterType>(WrappedPlatinum gameVersion, string name, PtQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<WrappedPlatinum>
         {
             var encounterType = default(TEncounterType).Unwrap();
-            var key = $"pt_{encounterType.ToPrefix()}_{name}";
+            var key = $"d_{encounterType.ToPrefix()}_{name}";
 
             if (!MapDataStore.platinumMapDataStore.TryGetValue(key, out var map))
                 return null;
 
             return map.BuildMapData<WrappedPlatinum, TEncounterType>(args);
         }
-        public static IMapData<WrappedHeartGold, TEncounterType> GetHeartGoldMap<TEncounterType>(string name, HGSSQueryArgs args = null)
+        public static IMapData<WrappedHeartGold, TEncounterType> GetMap<TEncounterType>(WrappedHeartGold gameVersion, string name, HGSSQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<WrappedHeartGold>
         {
             var encounterType = default(TEncounterType).Unwrap();
-            var key = $"hg_{encounterType.ToPrefix()}_{name}";
+            var key = $"d_{encounterType.ToPrefix()}_{name}";
 
             if (!MapDataStore.heartGoldMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            if (typeof(TEncounterType) == typeof(WrappedRuinOfAlph) && name != "アルフのいせき(広間)")
-                return null;
-
             return map.BuildMapData<WrappedHeartGold, TEncounterType>(args);
         }
-        public static IMapData<WrappedSoulSilver, TEncounterType> GetSoulSilverMap<TEncounterType>(string name, HGSSQueryArgs args = null)
+        public static IMapData<WrappedSoulSilver, TEncounterType> GetMap<TEncounterType>(WrappedSoulSilver gameVersion, string name, HGSSQueryArgs args = null)
             where TEncounterType : struct, IWrappedEncounterType<WrappedSoulSilver>
         {
             var encounterType = default(TEncounterType).Unwrap();
-            var key = $"ss_{encounterType.ToPrefix()}_{name}";
+            var key = $"d_{encounterType.ToPrefix()}_{name}";
 
             if (!MapDataStore.soulSilverMapDataStore.TryGetValue(key, out var map))
                 return null;
 
-            if (typeof(TEncounterType) == typeof(WrappedRuinOfAlph) && name != "アルフのいせき(広間)")
-                return null;
-
             return map.BuildMapData<WrappedSoulSilver, TEncounterType>(args);
         }
+
     }
+
 }

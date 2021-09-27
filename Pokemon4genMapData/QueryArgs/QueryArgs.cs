@@ -8,5 +8,4 @@ namespace Pokemon4genMapData
     interface IQueryArgs<in TVersion>
         where TVersion : IWrappedGameVersion
     { }
-
 }

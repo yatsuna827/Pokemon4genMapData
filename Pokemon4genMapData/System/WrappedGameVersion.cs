@@ -7,6 +7,15 @@ namespace Pokemon4genMapData
 {
     public interface IWrappedGameVersion : IEnumWapper<GameVersion> { }
 
+    public static class GameVersions
+    {
+        public static readonly WrappedDiamond Diamond = default(WrappedDiamond);
+        public static readonly WrappedPearl Pearl = default(WrappedPearl);
+        public static readonly WrappedPlatinum Platinum = default(WrappedPlatinum);
+        public static readonly WrappedHeartGold HeartGold = default(WrappedHeartGold);
+        public static readonly WrappedSoulSilver SoulSilver = default(WrappedSoulSilver);
+    }
+
     public interface IWrappedDPt: IWrappedGameVersion { }
     public interface IWrappedDP : IWrappedDPt { }
 
